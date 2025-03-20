@@ -1,0 +1,59 @@
+project:
+  name: Astra
+  description: An AI assistant powered by a fine-tuned GEMINI model with RAG capabilities, designed to help Starscape (Roblox) players learn and master the game. The system provides accurate, contextual responses to questions about game mechanics, strategies, and features, serving as a knowledgeable guide for both new and experienced players.
+  goals:
+    - "Provide accurate and helpful responses to Starscape players' questions about game mechanics, strategies, and features"
+    - "Create a fine-tuned GEMINI model that understands Starscape-specific terminology and context"
+    - "Implement an effective RAG system to retrieve and utilize up-to-date Starscape game information"
+    - "Reduce the learning curve for new Starscape players"
+    - "Maintain high response accuracy for both basic and advanced game queries"
+
+conventions:
+  code_style:
+    - "Follow PEP 8 style guidelines for Python code"
+    - "Maximum line length of 88 characters (Black formatter standard)"
+    - "Use type hints for function parameters and return values"
+    - "Include docstrings for all functions, classes, and modules using Google style"
+    - "Use Black for code formatting"
+    - "Use isort for import sorting"
+    - "Use pylint/flake8 for code linting"
+  
+  naming_conventions:
+    - "Functions: snake_case for all function names (e.g., process_query, get_response)"
+    - "Classes: PascalCase for class names (e.g., RagRetriever, ModelHandler)"
+    - "Variables: snake_case for variables (e.g., response_text, embedding_model)"
+    - "Constants: UPPERCASE with underscores (e.g., MAX_TOKENS, MODEL_NAME)"
+    - "Private methods/variables: prefix with single underscore (e.g., _internal_process)"
+    - "Test files: prefix with test_ (e.g., test_rag_retriever.py)"
+  
+  file_organization:
+    - "src/: Main source code directory"
+    - "src/models/: Model-related code"
+    - "src/data/: Data processing and RAG-related code"
+    - "src/utils/: Utility functions and helpers"
+    - "tests/: Test files matching src/ structure"
+    - "config/: Configuration files"
+    - "docs/: Documentation"
+
+architecture:
+  - "High-level architecture overview"
+  - "Key components and their relationships"
+  - "Important design patterns used"
+
+context:
+  technologies:
+    - "Python 3.9+"
+    - "PyTorch: Deep learning framework for model interactions"
+    - "fandom-py: Wiki data extraction"
+    - "Google Cloud Vertex AI: Model fine-tuning and deployment"
+    - "Langchain: RAG implementation and prompt management"
+    - "ChromaDB: Vector store for embeddings"
+    - "FastAPI: API development for serving the model"
+    - "Docker: Containerization for deployment"
+  
+  framework_versions:
+    - "PyTorch >= 2.0.0"
+    - "Langchain >= 0.1.0"
+    - "ChromaDB >= 0.4.0"
+    - "FastAPI >= 0.100.0"
+    - "fandom-py >= 0.2.1"
