@@ -1,0 +1,35 @@
+{
+  "title": "Spice Platforms",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Spice_Platforms",
+  "summary": "Spice Platforms, also known as Spice Stations, are permanent features that exist only in Secure, Contested, and Unsecured space. ",
+  "full_text": "Spice Platforms, also known as Spice Stations, are permanent features that exist only in Secure, Contested, and Unsecured space. \nINTACT SPICE PLATFORMS CANNOT BE FOUND IN WILD SYSTEMS.\n\n This map shows the systems that have a certain spice common for their region. \nSpice platforms can be found in Secure, Contested, and Unsecure Systems at various planets, and their destroyed variant can be found as SP anomalies anywhere besides Core systems. Sometimes a planet may have more than one Spice Platform at it's Warp Hub, such as the Tiakle system's second planet, though this is uncommon.\n\nWhen approaching a Spice Platform, you are able to interact with the Cargo Dock, to buy normal colored Spices. You cannot sell Spices at a Spice Platform, as they can only be sold at a Cargo Dock attached to a Space Station or FO Anomaly. Spice Platforms only sell one kind of basic colored Spice, the color depending on the region they are located in, and you can only buy spice if you have a Hauler-class ship.\nSpice Platform prices change dynamically depending on demand. When a player buys spice from a platform, the price goes up. When players don't buy spice from the platform, the price goes down, though it never goes below 300 credits per.\nStation spice prices change dynamically depending on supply. When a player sells spice to a station, the sell price goes down. When a station has not recently bought spice from players, the sell price will increase, though it will not go above 1000 credits per.\nThese prices apply to all players interacting with the structures.",
+  "content_structure": {
+    "title": "Spice Platforms",
+    "content": "Spice Platforms, also known as Spice Stations, are permanent features that exist only in Secure, Contested, and Unsecured space. \nINTACT SPICE PLATFORMS CANNOT BE FOUND IN WILD SYSTEMS.",
+    "sections": [
+      {
+        "title": "Locations",
+        "content": " This map shows the systems that have a certain spice common for their region. \nSpice platforms can be found in Secure, Contested, and Unsecure Systems at various planets, and their destroyed variant can be found as SP anomalies anywhere besides Core systems. Sometimes a planet may have more than one Spice Platform at it's Warp Hub, such as the Tiakle system's second planet, though this is uncommon.",
+        "sections": [
+          {
+            "title": "SPICE PLATFORMS DESPAWN AND RESPAWN IN DIFFERENT PLACES OVER TIME",
+            "sections": [
+              {
+                "title": "SPICE PLATFORMS DESPAWN AND RESPAWN IN DIFFERENT PLACES OVER TIME",
+                "content": ""
+              },
+              {
+                "title": "Usage",
+                "content": "When approaching a Spice Platform, you are able to interact with the Cargo Dock, to buy normal colored Spices. You cannot sell Spices at a Spice Platform, as they can only be sold at a Cargo Dock attached to a Space Station or FO Anomaly. Spice Platforms only sell one kind of basic colored Spice, the color depending on the region they are located in, and you can only buy spice if you have a Hauler-class ship.\nSpice Platform prices change dynamically depending on demand. When a player buys spice from a platform, the price goes up. When players don't buy spice from the platform, the price goes down, though it never goes below 300 credits per.\nStation spice prices change dynamically depending on supply. When a player sells spice to a station, the sell price goes down. When a station has not recently bought spice from players, the sell price will increase, though it will not go above 1000 credits per.\nThese prices apply to all players interacting with the structures."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "infobox": "Spice Platform\nA Spice Platform in the Delta Hihir system\nLocation\nSecure, Unsecure systems).\nInhabitants\nNone"
+  },
+  "images": [
+    "https://static.wikia.nocookie.net/starscape-roblox/images/0/06/Spice_Station.png/revision/latest?cb=20200724231336"
+  ]
+}

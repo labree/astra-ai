@@ -1,0 +1,50 @@
+{
+  "title": "Monuments",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Monuments",
+  "summary": "Monuments are circular structures with rings that orbit around a colored core. Their sole purpose is to give blessings (i.e. buffs) to the player.",
+  "full_text": "Monuments are circular structures with rings that orbit around a colored core. Their sole purpose is to give blessings (i.e. buffs) to the player.\n \nMonuments appear in three variations, Tier 1, Tier 2, and Tier 3. Each tier is colored blue, green, and red respectively, with each one giving superior buffs than the last tier and each one becoming rarer. Additionally, each tier's rings also vary slightly from one another. \nTier 1 and 2 monuments are shown on the quick warp menu as and are listed as a thing of interest on the planet map. Tier 3 monuments spawn as anomalies and have to be found using a scanning probe.\n\nTo use a monument, one must fly their ship close to the core (within 500 meters) and press F to get the blessing. A pop-up will appear saying that your ship has been blessed with a certain buff. You can see which buff the monument has blessed you with by looking at the top-left corner, where there will be a colored circle showing the type of buff, the effectiveness of the buff, and the duration the buff lasts.\nYou can only receive one blessing per monument per hour. Trying to get another blessing within an hour of the previous one at the same monument will not allow you to get any blessing.\n\nMonuments come in three tiers:\n\nTier 1 Monuments are the most basic monuments and are commonly found at planetary warp hubs. The blessings given by tier 1 monuments are the least impactful, giving a minor buff increase lasting 30 minutes.\n\nTier 2 Monuments are the middle level monuments and are also found at planetary warp hubs, albeit rarer than the tier 1 monuments. The blessings given by tier 2 monuments are more impactful, giving a buff increase also lasting 30 minutes.\n\nTier 3 Monuments are the highest level monuments, and are somewhat rare. They can only be found using a scanning probe as an anomaly, and give major buffs. A ring of 24 pristine Korrelite, Reknite, or Gellium asteroids can be found surrounding it. The type of ore depends on where the system is in the galaxy. Systems in the inner wilds will almost always have Korrelite, and systems on the edge will usually have Gellium. A monument missing some or all of its asteroid ring means another player has recently mined it out.\n\nList of known buffs given from monuments\nBuff Name\nBuff Description\nT1\nT2\nT3\nMining efficiency\nIncreases the number of ores produced when mining asteroids\n+15%\n+30%\n+50%\nHull resistance\nIncreases the resistance of a ship's hull to damage\n+5%\n+14%\n+20%\nDrone damage\nIncreases damage against drones\n+10%\n+20%\n+30%\nDamage\nIncreases damage against all\n+3%\n+7%\n+12%\nShip speed\nIncreases ship movement speed\n+5%\n+12%\n+20%\nShield resistance\nIncreases shield's ability to withstand damage\n+5%\n+10%\n+20%\nShield recharge\nIncreases the rate at which shield is recharged\n+10%\n+20%\n+40%\nRate of fire\nIncreases fire rate\n+3%\n+7%\n+12%\n\nTier 3 monuments were changed to be anomalies on May 17, 2020.\nTier 3 monuments used to have a chance to \"bless your ship with superior capabilities,\" giving all tier 2 bonuses at once.\nOriginally, the asteroid rings at tier 3 monuments were always Korrelite. This was changed on August 16, 2020 to sometimes be Reknite or Gellium instead.\nMonuments were remodeled on March 9, 2024 with a new effect for the rings and an animation and sound when activated.\nThis update also changed the type of ore that spawned around tier 3 monuments to vary depending on distance from the core.",
+  "content_structure": {
+    "title": "Monuments",
+    "content": "Monuments are circular structures with rings that orbit around a colored core. Their sole purpose is to give blessings (i.e. buffs) to the player.\n \nMonuments appear in three variations, Tier 1, Tier 2, and Tier 3. Each tier is colored blue, green, and red respectively, with each one giving superior buffs than the last tier and each one becoming rarer. Additionally, each tier's rings also vary slightly from one another. \nTier 1 and 2 monuments are shown on the quick warp menu as and are listed as a thing of interest on the planet map. Tier 3 monuments spawn as anomalies and have to be found using a scanning probe.",
+    "sections": [
+      {
+        "title": "Usage",
+        "sections": [
+          {
+            "title": "Usage",
+            "content": "To use a monument, one must fly their ship close to the core (within 500 meters) and press F to get the blessing. A pop-up will appear saying that your ship has been blessed with a certain buff. You can see which buff the monument has blessed you with by looking at the top-left corner, where there will be a colored circle showing the type of buff, the effectiveness of the buff, and the duration the buff lasts.\nYou can only receive one blessing per monument per hour. Trying to get another blessing within an hour of the previous one at the same monument will not allow you to get any blessing."
+          },
+          {
+            "title": "Variations",
+            "content": "Monuments come in three tiers:",
+            "sections": [
+              {
+                "title": "Tier One",
+                "content": "Tier 1 Monuments are the most basic monuments and are commonly found at planetary warp hubs. The blessings given by tier 1 monuments are the least impactful, giving a minor buff increase lasting 30 minutes."
+              },
+              {
+                "title": "Tier Two",
+                "content": "Tier 2 Monuments are the middle level monuments and are also found at planetary warp hubs, albeit rarer than the tier 1 monuments. The blessings given by tier 2 monuments are more impactful, giving a buff increase also lasting 30 minutes."
+              },
+              {
+                "title": "Tier Three",
+                "content": "Tier 3 Monuments are the highest level monuments, and are somewhat rare. They can only be found using a scanning probe as an anomaly, and give major buffs. A ring of 24 pristine Korrelite, Reknite, or Gellium asteroids can be found surrounding it. The type of ore depends on where the system is in the galaxy. Systems in the inner wilds will almost always have Korrelite, and systems on the edge will usually have Gellium. A monument missing some or all of its asteroid ring means another player has recently mined it out."
+              }
+            ]
+          },
+          {
+            "title": "Known Buffs",
+            "content": "List of known buffs given from monuments\nBuff Name\nBuff Description\nT1\nT2\nT3\nMining efficiency\nIncreases the number of ores produced when mining asteroids\n+15%\n+30%\n+50%\nHull resistance\nIncreases the resistance of a ship's hull to damage\n+5%\n+14%\n+20%\nDrone damage\nIncreases damage against drones\n+10%\n+20%\n+30%\nDamage\nIncreases damage against all\n+3%\n+7%\n+12%\nShip speed\nIncreases ship movement speed\n+5%\n+12%\n+20%\nShield resistance\nIncreases shield's ability to withstand damage\n+5%\n+10%\n+20%\nShield recharge\nIncreases the rate at which shield is recharged\n+10%\n+20%\n+40%\nRate of fire\nIncreases fire rate\n+3%\n+7%\n+12%"
+          }
+        ]
+      },
+      {
+        "title": "Trivia",
+        "content": "Tier 3 monuments were changed to be anomalies on May 17, 2020.\nTier 3 monuments used to have a chance to \"bless your ship with superior capabilities,\" giving all tier 2 bonuses at once.\nOriginally, the asteroid rings at tier 3 monuments were always Korrelite. This was changed on August 16, 2020 to sometimes be Reknite or Gellium instead.\nMonuments were remodeled on March 9, 2024 with a new effect for the rings and an animation and sound when activated.\nThis update also changed the type of ore that spawned around tier 3 monuments to vary depending on distance from the core."
+      }
+    ]
+  },
+  "images": [
+    "https://static.wikia.nocookie.net/starscape-roblox/images/c/c0/Tier_3.png/revision/latest?cb=20210601092930"
+  ]
+}

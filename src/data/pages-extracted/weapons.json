@@ -1,0 +1,54 @@
+{
+  "title": "Weapons",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Weapons",
+  "summary": "For the \"weapons\" placed on warships and used for combat in space, see Turrets.",
+  "full_text": "For the \"weapons\" placed on warships and used for combat in space, see Turrets.\n\nGuns are able to be purchased in the shop or found in Kavani wreckage in Graveyards. They are used in duels in secure systems and PvP within stations in unsecure systems and FO anomalies. As of right now, there are only two types of firearms: Pistols and Rifles. A player may only equip one of each. Firearms can be upgraded in the manufacturing area in stations. They can only be upgraded up to tier 3. Tier 4 weapons can only be purchased from Syndicate vendors. \n\nRifles are automatic weapons and are used by holding LMB. Firing for an extensive amount of time will overheat the weapon. After a weapon is overheated, you will have to wait until they cool down. \nName\nTier\nClass\nDPS\nSpread\nHeat\nWeight\nColor\nGal-31\n1\nRifle\n46.6\n8\n22.1%\n0.7\nGreen\nLG0-T\n1\nRifle\n47.5\n8\n20%\n0.7\nBlue\nGal-32\n2\nRifle\n51\n8\n21%\n0.7\nBlue\nGal-33\n3\nRifle\n55.5\n8\n19.7%\n0.7\nOrange\nLG5-T\n2\nRifle\n51.6\n8\n19.3%\n0.7\nRed\nLG9-T\n3\nRifle\n56\n8\n18.6%\n0.7\nYellow\nFG-88\n3\nRifle\n56.8\n8\n18%\n0.6\nGreen\nH3-X\n3\nRifle\n56.6\n8\n17%\n0.6\nRed\nSSLB\n3\nRifle\n53.3\n6\n18.6%\n0.6\nWhite\nRR-5000\n4\nRifle\n56\n4\n14%\n1\nBlue\nTrila 3\n4\nRifle\n64\n5\n16%\n0.8\nWhite\n\nPistols are semi-automatic weapons that are fired by repeatedly clicking LMB. Heat from pistols goes up slowly. \nName\nTier\nClass\nDamage per shot\nSpread\nHeat\nWeight\nColor\nHyper G1\n1\nPistol\n8\n25\n16.6%\n0.25\nGreen\nOrin 377\n1\nPistol\n9\n30\n16.6%\n0.3\nBlue\nHyper G2\n2\nPistol\n8.5\n20\n16.6%\n0.25\nBlue\nOrin 388\n2\nPistol\n9.5\n25\n16.6%\n0.3\nRed\nHyper X9\n3\nPistol\n9\n15\n16.6%\n0.25\nOrange\nOrin 399\n3\nPistol\n10\n20\n16.6%\n0.3\nOrange\nDisintegrex\n4\nPistol\n9\n12\n16.6%\n0.2\nRed\n\nJust like firearms, grenades are able to be bought from the NPC market, used in PvP within stations in unsecure systems, wild FOs, and in duels. There are three types of grenades: Explosive Grenades, Smoke Grenades, and Poison Grenades. Holding LMB will ready the grenade. After letting go, the grenade will be thrown. Grenades cannot be upgraded. \n\nExplosive Grenades explode shortly after hitting the ground, damaging anyone near them. Explosive Grenades also deal damage to ships if they explode nearby.\nTier\nDamage\nRadius\nLifetime\nWeight\nVolume\nCost to Buy\nSell Price\n1\n60\n20\n0\n0.2\n0.1 m3\n60 Credits\n30 Credits\n\nSmoke Grenades create a cloud of white smoke that obscures players' vision, but deals no damage.\nTier\nDamage\nRadius\nLifetime\nWeight\nVolume\nCost to Buy\nSell Price\n1\n0\n20\n10\n0.2\n0.1 m3\n60 Credits\n30 Credits\n\nPoison Grenades create a cloud of green smoke that damages anyone who walks into it.\nTier\nDamage\nRadius\nLifetime\nWeight\nVolume\nCost to Buy\nSell Price\n1\n5\n20\n10\n0.2\n0.1 m3\n75 Credits\n35 Credits\n\nWhile these weapons may seem relatively useless and mostly just unused items, with the extremely space-focused aspect of this game rightly in the spotlight, they do hold three key uses in terms of why you may wish to have these on your person.\nDuels - While not altogether practical, these are a fun use of firearms which you can do at nearly any time. Simply grab one, challenge to duel, and start blasting; maybe even bet something if you're confident enough.\nDock Shredding - When a player is within a dock and within their ship, they are immune to taking fire from other ships until part of their ship is exposed out to space, where it can then be shot. However, if you have a gun, they can do a moderate amount of damage to a ship. When in a squad, if you have one or two ships prevent an enemy ship from docking, other members of the group can get out of their ships, and begin firing at the enemy ship with their pistols, doing moderate damage, but enough to cause panic and to potentially finish off a ship if they aren't able to adequately dock.\nRaids - Occasionally you will be in a scenario where you cannot fight in space combat against an enemy, and instead want to beat them on a more even playing field. A popular strategy for this is to rush Gatinsir station in a relatively cheap and quick fighter, and then get into the station in full armor, killing whoever is inside, stashing their loot, and then booking it.\nFor strategy, pistols when combined with an Autoclicker can be used for effective suppressive fire and enemy shredding. The other weapons are self-explanatory for strategy, but tend to be based around medium range and accuracy. There has been one instance in which someone has used an autoclicker and massive amounts of explosive grenades to destroy a Virtue frigate in a Docking Bay by spamming them. ",
+  "content_structure": {
+    "title": "Weapons",
+    "content": "For the \"weapons\" placed on warships and used for combat in space, see Turrets.",
+    "sections": [
+      {
+        "title": "Firearms",
+        "content": "Guns are able to be purchased in the shop or found in Kavani wreckage in Graveyards. They are used in duels in secure systems and PvP within stations in unsecure systems and FO anomalies. As of right now, there are only two types of firearms: Pistols and Rifles. A player may only equip one of each. Firearms can be upgraded in the manufacturing area in stations. They can only be upgraded up to tier 3. Tier 4 weapons can only be purchased from Syndicate vendors. ",
+        "sections": [
+          {
+            "title": "Rifles",
+            "content": "Rifles are automatic weapons and are used by holding LMB. Firing for an extensive amount of time will overheat the weapon. After a weapon is overheated, you will have to wait until they cool down. \nName\nTier\nClass\nDPS\nSpread\nHeat\nWeight\nColor\nGal-31\n1\nRifle\n46.6\n8\n22.1%\n0.7\nGreen\nLG0-T\n1\nRifle\n47.5\n8\n20%\n0.7\nBlue\nGal-32\n2\nRifle\n51\n8\n21%\n0.7\nBlue\nGal-33\n3\nRifle\n55.5\n8\n19.7%\n0.7\nOrange\nLG5-T\n2\nRifle\n51.6\n8\n19.3%\n0.7\nRed\nLG9-T\n3\nRifle\n56\n8\n18.6%\n0.7\nYellow\nFG-88\n3\nRifle\n56.8\n8\n18%\n0.6\nGreen\nH3-X\n3\nRifle\n56.6\n8\n17%\n0.6\nRed\nSSLB\n3\nRifle\n53.3\n6\n18.6%\n0.6\nWhite\nRR-5000\n4\nRifle\n56\n4\n14%\n1\nBlue\nTrila 3\n4\nRifle\n64\n5\n16%\n0.8\nWhite"
+          },
+          {
+            "title": "Pistols",
+            "content": "Pistols are semi-automatic weapons that are fired by repeatedly clicking LMB. Heat from pistols goes up slowly. \nName\nTier\nClass\nDamage per shot\nSpread\nHeat\nWeight\nColor\nHyper G1\n1\nPistol\n8\n25\n16.6%\n0.25\nGreen\nOrin 377\n1\nPistol\n9\n30\n16.6%\n0.3\nBlue\nHyper G2\n2\nPistol\n8.5\n20\n16.6%\n0.25\nBlue\nOrin 388\n2\nPistol\n9.5\n25\n16.6%\n0.3\nRed\nHyper X9\n3\nPistol\n9\n15\n16.6%\n0.25\nOrange\nOrin 399\n3\nPistol\n10\n20\n16.6%\n0.3\nOrange\nDisintegrex\n4\nPistol\n9\n12\n16.6%\n0.2\nRed"
+          }
+        ]
+      },
+      {
+        "title": "Grenades",
+        "content": "Just like firearms, grenades are able to be bought from the NPC market, used in PvP within stations in unsecure systems, wild FOs, and in duels. There are three types of grenades: Explosive Grenades, Smoke Grenades, and Poison Grenades. Holding LMB will ready the grenade. After letting go, the grenade will be thrown. Grenades cannot be upgraded. ",
+        "sections": [
+          {
+            "title": "Explosive Grenades",
+            "sections": [
+              {
+                "title": "Explosive Grenades",
+                "content": "Explosive Grenades explode shortly after hitting the ground, damaging anyone near them. Explosive Grenades also deal damage to ships if they explode nearby.\nTier\nDamage\nRadius\nLifetime\nWeight\nVolume\nCost to Buy\nSell Price\n1\n60\n20\n0\n0.2\n0.1 m3\n60 Credits\n30 Credits"
+              },
+              {
+                "title": "Smoke Grenades",
+                "content": "Smoke Grenades create a cloud of white smoke that obscures players' vision, but deals no damage.\nTier\nDamage\nRadius\nLifetime\nWeight\nVolume\nCost to Buy\nSell Price\n1\n0\n20\n10\n0.2\n0.1 m3\n60 Credits\n30 Credits"
+              },
+              {
+                "title": "Poison Grenades",
+                "content": "Poison Grenades create a cloud of green smoke that damages anyone who walks into it.\nTier\nDamage\nRadius\nLifetime\nWeight\nVolume\nCost to Buy\nSell Price\n1\n5\n20\n10\n0.2\n0.1 m3\n75 Credits\n35 Credits"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Applications",
+        "content": "While these weapons may seem relatively useless and mostly just unused items, with the extremely space-focused aspect of this game rightly in the spotlight, they do hold three key uses in terms of why you may wish to have these on your person.\nDuels - While not altogether practical, these are a fun use of firearms which you can do at nearly any time. Simply grab one, challenge to duel, and start blasting; maybe even bet something if you're confident enough.\nDock Shredding - When a player is within a dock and within their ship, they are immune to taking fire from other ships until part of their ship is exposed out to space, where it can then be shot. However, if you have a gun, they can do a moderate amount of damage to a ship. When in a squad, if you have one or two ships prevent an enemy ship from docking, other members of the group can get out of their ships, and begin firing at the enemy ship with their pistols, doing moderate damage, but enough to cause panic and to potentially finish off a ship if they aren't able to adequately dock.\nRaids - Occasionally you will be in a scenario where you cannot fight in space combat against an enemy, and instead want to beat them on a more even playing field. A popular strategy for this is to rush Gatinsir station in a relatively cheap and quick fighter, and then get into the station in full armor, killing whoever is inside, stashing their loot, and then booking it.\nFor strategy, pistols when combined with an Autoclicker can be used for effective suppressive fire and enemy shredding. The other weapons are self-explanatory for strategy, but tend to be based around medium range and accuracy. There has been one instance in which someone has used an autoclicker and massive amounts of explosive grenades to destroy a Virtue frigate in a Docking Bay by spamming them. "
+      }
+    ]
+  },
+  "images": []
+}

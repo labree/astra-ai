@@ -1,0 +1,94 @@
+{
+  "title": "Miner Turret",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Miner_Turret",
+  "summary": "Mining Turrets are small (S) turrets which can be equipped on ships with S-turret slots, such as corvettes, frigates, and destroyers. These turrets deal no damage to ships, neither when fired at them or flown through by them, and cannot be used for combat. ",
+  "full_text": "Mining Turrets are small (S) turrets which can be equipped on ships with S-turret slots, such as corvettes, frigates, and destroyers. These turrets deal no damage to ships, neither when fired at them or flown through by them, and cannot be used for combat. \nMining turrets cannot be equipped to small miners like Marlin or Badger. Those ships have their own built-in mining lasers.\n\nWhen fired they project a small laser, which turns either red or green depending on whether an asteroid is detected. If an asteroid is detected, then they will fire a mining beam, which varies in color depending on the turret type, and will begin to mine the asteroid until the asteroid is depleted or until the player makes them stop. \nAs it mines, a portion of the ore will be automatically sucked through the beam to your inventory, and a portion of it will break off of the asteroid and need to be tractored in manually through the use of Tractor PDTs.\n \n\nThere are many types of mining turrets that have been created, with varying levels of performance and speed. The basic mining turret has two tiers, at which point it branches into 3 separate lines with different focuses. \n\nTier\nT1\nT2\nOre per\nminute \n3.4\n3.7\nCapture Ratio\n65%\nIce yield\n50%\nMining turrets use a powerful excavator beam to break off ore from asteroids. While most ore is retrieved automatically via the beam, a fraction of the yield is often broken off into open space and must be retrieved by other means.\nThe basic mining turret. There is a Tier 1 and a Tier 2, which improves its mining rate.\n\nTier\nT1\nT2\nOre per\nminute\n3\n4\nCapture ratio\n65%\nIce Yield\n100%\nNormal mining methods lose a significant portion of ice to sublimation due to the high energy of the beam. Specialized ice mining turrets use low-energy beams which, while they are less efficient for normal ores, produce double the yield of ice ores.\nThe Ice Miner is a specialized turret dedicated to ice mining. It is significantly better at mining ice and is a lot faster at doing so. Because of its lower mining power at non-ice ores, it is not as popular. There is a Tier 1 and a Tier 2 Ice Miner, with Tier 2 requiring an Advanced Mining blueprint obtained with faction standing from the Mining Guild with faction standing. \n\nTier\nT1\nT2\nOre per\nminute \n5.1\n5.9\nCapture ratio\n50%\nIce Yield\n40%\nStrip mining turrets are designed to release as much ore from an asteroid as quickly as possible. However, a significant fraction does not enter the retrieval beam, requiring the use of tractors or manual methods to collect much of the ore.\n \nThe Strip Miner is an advanced form of Miner Turret which mines a lot faster than other turrets, but also captures less, making it ideal for active mining. There is a Tier 1 and a Tier 2 Strip Miner, with Tier 2 requiring an Advanced Miner blueprint obtained the Mining Guild with faction standing.\n\nTier\nT1\nT2\nOre per\nminute\n3.5\n3.7\nCapture ratio\n85%\n90%\nIce Yield\n55%\n55%\nPrecision mining turrets use a low-spread beam, allowing for a greater fraction of ore to directly enter the retrieval beam. However, this process requires using additional time and lower power, resulting in a lower total mining rate than strip mining turrets.\nThe Precision Miner I has a significant increase in Capture Rate, making it ideal for AFK mining. There is a Tier 1 and a Tier 2 Precision Miner, with Tier 2 requiring an Advanced Miner blueprint obtained from the Mining Guild with faction standing.\nIt is worth noting that with the Precision Mining skill in the Industry tree, each level adds an additional 2% Capture Ratio to precision miners. At maximum level, T1 and T2 precision miners achieve 95% and 100% capture ratio.",
+  "content_structure": {
+    "title": "Miner Turret",
+    "content": "Mining Turrets are small (S) turrets which can be equipped on ships with S-turret slots, such as corvettes, frigates, and destroyers. These turrets deal no damage to ships, neither when fired at them or flown through by them, and cannot be used for combat. \nMining turrets cannot be equipped to small miners like Marlin or Badger. Those ships have their own built-in mining lasers.",
+    "sections": [
+      {
+        "title": "Usage",
+        "sections": [
+          {
+            "title": "Usage",
+            "content": "When fired they project a small laser, which turns either red or green depending on whether an asteroid is detected. If an asteroid is detected, then they will fire a mining beam, which varies in color depending on the turret type, and will begin to mine the asteroid until the asteroid is depleted or until the player makes them stop. \nAs it mines, a portion of the ore will be automatically sucked through the beam to your inventory, and a portion of it will break off of the asteroid and need to be tractored in manually through the use of Tractor PDTs.\n "
+          }
+        ]
+      },
+      {
+        "title": "Types of Turrets",
+        "content": "There are many types of mining turrets that have been created, with varying levels of performance and speed. The basic mining turret has two tiers, at which point it branches into 3 separate lines with different focuses. ",
+        "sections": [
+          {
+            "title": "Miner Turret",
+            "content": "Tier\nT1\nT2\nOre per\nminute \n3.4\n3.7\nCapture Ratio\n65%\nIce yield\n50%\nMining turrets use a powerful excavator beam to break off ore from asteroids. While most ore is retrieved automatically via the beam, a fraction of the yield is often broken off into open space and must be retrieved by other means.\nThe basic mining turret. There is a Tier 1 and a Tier 2, which improves its mining rate."
+          },
+          {
+            "title": "Ice Miner",
+            "content": "",
+            "sections": [
+              {
+                "title": "Stats:",
+                "sections": [
+                  {
+                    "title": "Stats:",
+                    "sections": [
+                      {
+                        "title": "Stats:",
+                        "content": "Tier\nT1\nT2\nOre per\nminute\n3\n4\nCapture ratio\n65%\nIce Yield\n100%\nNormal mining methods lose a significant portion of ice to sublimation due to the high energy of the beam. Specialized ice mining turrets use low-energy beams which, while they are less efficient for normal ores, produce double the yield of ice ores.\nThe Ice Miner is a specialized turret dedicated to ice mining. It is significantly better at mining ice and is a lot faster at doing so. Because of its lower mining power at non-ice ores, it is not as popular. There is a Tier 1 and a Tier 2 Ice Miner, with Tier 2 requiring an Advanced Mining blueprint obtained with faction standing from the Mining Guild with faction standing. "
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Strip Miner",
+            "content": "",
+            "sections": [
+              {
+                "title": "Stats",
+                "sections": [
+                  {
+                    "title": "Stats",
+                    "sections": [
+                      {
+                        "title": "Stats",
+                        "content": "Tier\nT1\nT2\nOre per\nminute \n5.1\n5.9\nCapture ratio\n50%\nIce Yield\n40%\nStrip mining turrets are designed to release as much ore from an asteroid as quickly as possible. However, a significant fraction does not enter the retrieval beam, requiring the use of tractors or manual methods to collect much of the ore.\n \nThe Strip Miner is an advanced form of Miner Turret which mines a lot faster than other turrets, but also captures less, making it ideal for active mining. There is a Tier 1 and a Tier 2 Strip Miner, with Tier 2 requiring an Advanced Miner blueprint obtained the Mining Guild with faction standing."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Precision Miner",
+            "content": "",
+            "sections": [
+              {
+                "title": "Stats",
+                "sections": [
+                  {
+                    "title": "Stats",
+                    "sections": [
+                      {
+                        "title": "Stats",
+                        "content": "Tier\nT1\nT2\nOre per\nminute\n3.5\n3.7\nCapture ratio\n85%\n90%\nIce Yield\n55%\n55%\nPrecision mining turrets use a low-spread beam, allowing for a greater fraction of ore to directly enter the retrieval beam. However, this process requires using additional time and lower power, resulting in a lower total mining rate than strip mining turrets.\nThe Precision Miner I has a significant increase in Capture Rate, making it ideal for AFK mining. There is a Tier 1 and a Tier 2 Precision Miner, with Tier 2 requiring an Advanced Miner blueprint obtained from the Mining Guild with faction standing.\nIt is worth noting that with the Precision Mining skill in the Industry tree, each level adds an additional 2% Capture Ratio to precision miners. At maximum level, T1 and T2 precision miners achieve 95% and 100% capture ratio."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "images": [
+    "https://static.wikia.nocookie.net/starscape-roblox/images/9/99/Ozark_axnit_mining.png/revision/latest?cb=20210622084354"
+  ]
+}
