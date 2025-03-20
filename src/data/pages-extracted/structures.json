@@ -1,0 +1,25 @@
+{
+  "title": "Structures",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Structures",
+  "summary": "This page is about structures that can be found in playable areas of space. Click here for the article on Ancient Structures,",
+  "full_text": "Structures\nThis page is about structures that can be found in playable areas of space. Click here for the article on Ancient Structures,\nStructures are objects that can be found in the playable area of a system, including but not limited to: Stations, Spice Platforms, Landmarks, etc.\nStations\nStations are structures which usually have a docking bay and several modules attached. The docking bay has a general landing field for any ships Frigate-class or lower, with docking tubes on the side for Destroyer-class and higher ships. Modules are used for a variety of activities such as Manufacturing, Refining, and healing ground HP. Some modules are interactable from space, such as Cargo Docks, Supply Docks, and Repair Bays.\nDocking in a station and pressing spacebar to exit your ship will put you into ground mode, where you have 100 hit points which can be reduced in an Unsecure, Contested or Wild system. Once your hitpoints reach zero your character dies and everything in your inventory is lost, and your ship can be damaged when landed by use of explosive grenades and guns, whether you are inside the ship or not. \nSpice Platforms\nSpice Platforms are structures which sell spice, which can be hauled to the Cargo Dock underneath stations to be sold. The further the spice color region is on the wheel of spice on the Map, the more you can sell it for.\nLandmarks\nLandmarks are structures that commemorate historical events in Starscape, such as the Grand Battle of Gatinsir. A table with all the existing Landmarks in Starscape will be added soon.\nGatinsir - P1 - Grand Battle of Gatinsir\nHarbor - ???\nZeluw Si - ???\nTastae - ???\nMazae - ???",
+  "content_structure": {
+    "title": "Structures",
+    "content": "This page is about structures that can be found in playable areas of space. Click here for the article on Ancient Structures,\nStructures are objects that can be found in the playable area of a system, including but not limited to: Stations, Spice Platforms, Landmarks, etc.",
+    "sections": [
+      {
+        "title": "Stations",
+        "content": "Stations are structures which usually have a docking bay and several modules attached. The docking bay has a general landing field for any ships Frigate-class or lower, with docking tubes on the side for Destroyer-class and higher ships. Modules are used for a variety of activities such as Manufacturing, Refining, and healing ground HP. Some modules are interactable from space, such as Cargo Docks, Supply Docks, and Repair Bays.\nDocking in a station and pressing spacebar to exit your ship will put you into ground mode, where you have 100 hit points which can be reduced in an Unsecure, Contested or Wild system. Once your hitpoints reach zero your character dies and everything in your inventory is lost, and your ship can be damaged when landed by use of explosive grenades and guns, whether you are inside the ship or not. "
+      },
+      {
+        "title": "Spice Platforms",
+        "content": "Spice Platforms are structures which sell spice, which can be hauled to the Cargo Dock underneath stations to be sold. The further the spice color region is on the wheel of spice on the Map, the more you can sell it for."
+      },
+      {
+        "title": "Landmarks",
+        "content": "Landmarks are structures that commemorate historical events in Starscape, such as the Grand Battle of Gatinsir. A table with all the existing Landmarks in Starscape will be added soon.\nGatinsir - P1 - Grand Battle of Gatinsir\nHarbor - ???\nZeluw Si - ???\nTastae - ???\nMazae - ???"
+      }
+    ]
+  },
+  "images": []
+}

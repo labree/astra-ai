@@ -1,0 +1,28 @@
+{
+  "title": "Triazo",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Triazo",
+  "summary": "\"The Triazo is an upgraded variant of the Lycentian Tetra.\"",
+  "full_text": "Triazo\n\"The Triazo is an upgraded variant of the Lycentian Tetra.\"\nThe Triazo is a T2 interceptor-class ship of the Lycentian ship line. It is best suited as an agile and durable interceptor.\nAdvantages\nWith defense rigs, the Triazo is an interceptor that, while less agile, is more durable and sustainable than even the Hybrid Paragon. This ship is preferable to pilots who enjoy a fast playstyle, yet do not want to become a complete glass cannon.\nDisadvantages\nDespite its defense rigs, a Lycentian ship and interceptor will still have poor hull. Ion weapons are deadly to this ship and any stasis slowing it more than it already is will heavily disadvantage it in dogfights.\nAs a faction ship, its blueprint must be purchased using Loyalty Points at a faction terminal or from other players, making it less accessible to new or neutral players.\nTrivia\n- The current Triazo is modeled by ii_Cove.\nInterceptors\nLine\nT1\nT2\nExotic\nDefiance\nFalcon\nParagon\nHybrid Paragon\nValiance\nZenith\nPolaris\nHybrid Polaris\nMegalodon\nMackerel\nCandiru\nMandator\nParrot\nMacaw\nRighteous\nTetra\nTriazo\nRighteous Line\nInterceptor\nFighter\nCorvette\nFrigate\nDestroyer\nCruiser\nBattleship\nT1\nTetra\nLuster\nLiberty\nVirtue\nJustice\nDignity\nNobility\nT2\nTriazo\nLucent\nExotic",
+  "content_structure": {
+    "title": "Triazo",
+    "content": "\"The Triazo is an upgraded variant of the Lycentian Tetra.\"\nThe Triazo is a T2 interceptor-class ship of the Lycentian ship line. It is best suited as an agile and durable interceptor.",
+    "sections": [
+      {
+        "title": "Advantages",
+        "content": "With defense rigs, the Triazo is an interceptor that, while less agile, is more durable and sustainable than even the Hybrid Paragon. This ship is preferable to pilots who enjoy a fast playstyle, yet do not want to become a complete glass cannon."
+      },
+      {
+        "title": "Disadvantages",
+        "content": "Despite its defense rigs, a Lycentian ship and interceptor will still have poor hull. Ion weapons are deadly to this ship and any stasis slowing it more than it already is will heavily disadvantage it in dogfights.\nAs a faction ship, its blueprint must be purchased using Loyalty Points at a faction terminal or from other players, making it less accessible to new or neutral players."
+      },
+      {
+        "title": "Trivia",
+        "content": "- The current Triazo is modeled by ii_Cove.\nInterceptors\nLine\nT1\nT2\nExotic\nDefiance\nFalcon\nParagon\nHybrid Paragon\nValiance\nZenith\nPolaris\nHybrid Polaris\nMegalodon\nMackerel\nCandiru\nMandator\nParrot\nMacaw\nRighteous\nTetra\nTriazo\nRighteous Line\nInterceptor\nFighter\nCorvette\nFrigate\nDestroyer\nCruiser\nBattleship\nT1\nTetra\nLuster\nLiberty\nVirtue\nJustice\nDignity\nNobility\nT2\nTriazo\nLucent\nExotic"
+      }
+    ],
+    "infobox": "Triazo\nShip Class\nInterceptor\nField Stats\nDPS\n180\nShield\nShield Regen\nDeflection\n250\n2.5\n1\nHull\nHull Regen\nArmor\n225\n0\n0\nEnergy\nEnergy Regen\n120\n1.4\nSpeed\nAcceleration\nAgility\n410\n160\n108\nOther Stats\nWarp Speed\nCharge Time\n1.40\n3\nSignal Range\nSensor Strength\n4000\n25\nCustomization\nFighter Hardpoints\nMining Hardpoints\nPDT Hardpoints\n2\n0\n0\nWEP\nDEF\nENG\nRCT\n1\n2\n1\n0\nSubsystems\n2\nCrafting\nNPC Buy\nNPC Sell\n-\n2000\nVolume\nTime\n100 m3\n10:00\nKorrelite\nReknite\nGellium\nAxnit\n-\n-\n-\n-\nBlucor\nRedcor\nVexnium\nWater\n50\n-\n-\n-\nComponent\nAmount\nTetra\n1\nComponent\nAmount\nTriazo Blueprint\n1"
+  },
+  "images": [
+    "https://static.wikia.nocookie.net/starscape-roblox/images/1/1b/Triazo.png/revision/latest?cb=20220309220123"
+  ]
+}

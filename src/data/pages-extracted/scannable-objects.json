@@ -1,0 +1,49 @@
+{
+  "title": "Scannable Objects",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Scannable_Objects",
+  "summary": "",
+  "full_text": "Scannable Objects\n\nOverview\nThere are many objects in Starscape that can be scanned, like anomalies, aberrations, and even hostile presences.These require a system probe to scan them. Aberrations are represented as an orange \"?\" in the planet map, and hostile presences are represented as a red \"!\". Anomalies are shown as a red circle with 4 lines rotating around it in the system map.\nObjects\n\nAnomalies\nThe anomaly is a scannable object found when you scan a system with a probe, the more beeps, the closer you get to discovering it. Anomalies are mainly used for mining and finding wormholes that lead to wild space. Mining in anomalies is far better than warp hub mining, with superior and pristine ores in asteroid anomalies. Read anomalies for more information.\nAbberrations\nAbberrations are a way to get X-Structures or a safe way of mining, as both of the abbreviations do not have drones. (except for beacon locations) It's a common method for miners to get ores, as R abbreviations mostly have the same pools as asteroid anomalies in secure. In wild, rings or abbreviations can also have vexinum, which is a extremely rare ore that has a low chance of being found and can create destroyer class ships. Read abberrations for more information.\nHostile Presence\nWhen scanning a planet, there may be a \"!\" after finishing, which represents enemy presence, take caution when attacking them, as usually they do not welcome players. Do note that they can spawn in rings, make sure to not miss them if you're hunting.\nDrone Presence\nIn the quick warp menu, you may see 3 ships in red at a planet. This represents a drone fleet, which can vary in size, and in every last wave, a command drone warps in and can drop hybrid blueprints and modules. Warships are best to combat these. Read drone fleets for more information.\nDrone Factory\nIn the quick warp menu, you may see a building in red at a planet. This represents a drone factory, which can continuously create drones if it's intact. There can be multiple levels of factories, with a varying degree of difficulty. When destroying a module of the factory, reinforcements will be sent to attempt to kill you or make you leave. The reinforcements will vary depending on the level of the factory. The loot pool varies depending on what level is it. Read drone factories for more information.\nPirate Den\nIn the quick warp menu, you may see a skull in red at a planet. This represents a pirate den, which can continuously send pirates if it's intact. There can also be multiple sizes of dens, which a substantial increase in difficulty per level. When destroying a module of the den, reinforcements will be sent to attempt to kill you or make you leave. The reinforcements will vary depending on the size of the factory. The loot pool varies depending on the size of the den. Usually large dens are ignored due to the difficulty of it to take down solo. Read pirate dens for more information.",
+  "content_structure": {
+    "title": "Scannable Objects",
+    "content": "",
+    "sections": [
+      {
+        "title": "Overview",
+        "content": "There are many objects in Starscape that can be scanned, like anomalies, aberrations, and even hostile presences.These require a system probe to scan them. Aberrations are represented as an orange \"?\" in the planet map, and hostile presences are represented as a red \"!\". Anomalies are shown as a red circle with 4 lines rotating around it in the system map."
+      },
+      {
+        "title": "Objects",
+        "content": "",
+        "sections": [
+          {
+            "title": "Anomalies",
+            "content": "The anomaly is a scannable object found when you scan a system with a probe, the more beeps, the closer you get to discovering it. Anomalies are mainly used for mining and finding wormholes that lead to wild space. Mining in anomalies is far better than warp hub mining, with superior and pristine ores in asteroid anomalies. Read anomalies for more information."
+          },
+          {
+            "title": "Abberrations",
+            "content": "Abberrations are a way to get X-Structures or a safe way of mining, as both of the abbreviations do not have drones. (except for beacon locations) It's a common method for miners to get ores, as R abbreviations mostly have the same pools as asteroid anomalies in secure. In wild, rings or abbreviations can also have vexinum, which is a extremely rare ore that has a low chance of being found and can create destroyer class ships. Read abberrations for more information."
+          },
+          {
+            "title": "Hostile Presence",
+            "content": "When scanning a planet, there may be a \"!\" after finishing, which represents enemy presence, take caution when attacking them, as usually they do not welcome players. Do note that they can spawn in rings, make sure to not miss them if you're hunting.",
+            "sections": [
+              {
+                "title": "Drone Presence",
+                "content": "In the quick warp menu, you may see 3 ships in red at a planet. This represents a drone fleet, which can vary in size, and in every last wave, a command drone warps in and can drop hybrid blueprints and modules. Warships are best to combat these. Read drone fleets for more information."
+              },
+              {
+                "title": "Drone Factory",
+                "content": "In the quick warp menu, you may see a building in red at a planet. This represents a drone factory, which can continuously create drones if it's intact. There can be multiple levels of factories, with a varying degree of difficulty. When destroying a module of the factory, reinforcements will be sent to attempt to kill you or make you leave. The reinforcements will vary depending on the level of the factory. The loot pool varies depending on what level is it. Read drone factories for more information."
+              },
+              {
+                "title": "Pirate Den",
+                "content": "In the quick warp menu, you may see a skull in red at a planet. This represents a pirate den, which can continuously send pirates if it's intact. There can also be multiple sizes of dens, which a substantial increase in difficulty per level. When destroying a module of the den, reinforcements will be sent to attempt to kill you or make you leave. The reinforcements will vary depending on the size of the factory. The loot pool varies depending on the size of the den. Usually large dens are ignored due to the difficulty of it to take down solo. Read pirate dens for more information."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "images": []
+}

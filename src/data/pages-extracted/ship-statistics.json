@@ -1,0 +1,129 @@
+{
+  "title": "Ship Statistics",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Ship_Statistics",
+  "summary": "Ship Statistics are the stats of ships, which can range from things such as the damage you can do to more specific things such as the Cargo Space of a ship.",
+  "full_text": "Ship Statistics\nShip Statistics are the stats of ships, which can range from things such as the damage you can do to more specific things such as the Cargo Space of a ship.\n \nCombat-Related Stats\nThe following stats are generally related to offense and defense, going with DPS, as well as Shield and Deflection. Combat related Stats are colored Red in-game and defensive are Green generally, with the exceptions of Armor and Deflection, which are colored Yellow.\nDPS: (Damage Per Second)\nDPS is a measurement of how much damage you can do in a second with that ship when you are firing all turrets. When you have stronger turrets or more of them you will have a higher DPS. For an example: A Falcon by default has a DPS of 150, whilst the Base DPS of the Knifejaw is 193.\nShield Points\nThis is a measurement as to how many points of damage your shield can hold against before breaking, with larger ships generally having more. This stat will regenerate over time so long as they aren't taking damage.\nHull Points\nHull Points are a measurement as to how much damage your hull can take before failing. This cannot regenerate overtime unless you have the Patcher Nanobots Rig, one of the Hull Booster Subsystems, or one of the Hull Repairer Subsystems.\nArmor/Deflection\nMain Page for Armor and Deflection:\nDeflection and Armor are nearly the exact same, with Armor being for Hull and Deflection for Shield. Overall the more deflection/armor you have the less damage you will take from enemy gunfire. The Main page on this has a more detailed explanation as to the calculations behind this.\nShield Regeneration\nShield Regeneration is the rate at which your Shield heals, and it is measured in seconds. In the case of a Stratos, it will heal by 2 shield points every second when it is not being fired at.\nHull Regeneration\nBy Default, this is 0 on every ship, however, with certain Rigs/Subsystems this can be raised above 0. This works the same as Shield Regeneration, only on your hull. Note that if you need to heal your hull and do not have any rigs you can visit the Repair Bay of a station and bring your ship infront of the Bay to begin healing via the Hull Re-Generators (Which will show a green beam).\nMovement-Related Stats\nThese Stats are generally about your ship's movement, which will be colored in Blue.\nSpeed\nMeasured in meters/second, this stat shows the max possible speed for your Ship, with larger ships going slower whilst some small ships such as the Hybrid Paragon being able to go as fast as 470 m/s.\nAgility\nMeasured in Degrees per second in a maximum turn, this is very important for dogfights and small scale PVE, but not much for large capital ship engagements and fleet action. It can save your ship if you have a quick time aligning to a warp vector.\nAcceleration\nMeasured im meters per second², this is how fast your ship can go from one speed to another. It generally isn't useful in PVP due to the majority of engagements having both players remain at full speed, however this can prove quite a useful stat to have when fighting in PVE and when you have a small ship and are fighting another small ship, as the hostile ship will keep going past you and you will be able to quickly speed back up and get behind them, allowing you to quickly fire upon the NPC without them being able to do much.\nWarp Speed\nThis is measured in AU, or astronomical units per second, which is equal to the space between the Sun and Earth. Having a fast warp speed can allow you to overtake escaping ships in warp to ambush when they arrive, or to escape an enemy who has a lower Warp Speed than you.\nWarp Charge Time\nThis stat tells you how long it will take for your ship to go into warp, which is measured in seconds and includes how long it takes to charge the warp and for you to actually jump. Smaller and Faster Ships generally have shorter Warp Charge Times, whilst Larger and Slower ones will have longer Warp Charge Times. This stat can be critical when it comes to escaping an enemy, as it will get you out of that situation before the enemy can do much more damage.\nEnergy\nEnergy Stats are associated entirely off of Energy, which is required for several things such as Warping and Subsystems.\nEnergy Capacity\nThe amount of Energy that can be stored on your ship at one time. This Stat can be increased with Rigs in exchange for a lower Energy Regen rate.\nEnergy Regeneration\nMeasured in energy per second, this is how quickly you regain energy after having previously used some. Although whilst bigger ships do have more Energy Regeneration than smaller ones, they have more Energy Capacity and will generally end up having a lower percentage of energy total, not to mention their Subsystems generally cost more energy. Certain Rigs can be used to raise this Regeneration Rate in exchange for a lower Capacity, and certain Subsystems can be activated to raise the rate of Regeneration.\nSensors Stats\nThese Stats are related to your Sensors, which allow you to see ships on your little radar towards the bottom of your screen.\nYou can disrupt another ship's sensors with the Sensor Jammer Rig.\nSignal Range\nThe distance from which NPCs and Players can detect your ship from with their sensors. Note that NPCS do not engage until you are in a certain radius of theirs although if you shoot them whilst outside this radius they will still aggro on you. This is measured in meters and can be increased with Rigs.\nSensor Strength\nThe Strength of your sensors which allows you to see ships and other things on your sensors from further away. This Stat is higher on larger ships and can also be increased with certain Rigs.\nOther Stats\nThese Stats are related to other things on the Stat Page that do not properly fit into any of the category's.\nShip Class\nThe Ship Class is a small stat used to define a Ship, and comes in 3 different variants: Small, Medium, and Large. Small goes to smaller ships such as Fighters and Interceptors, and will never have the Yaw control, as you control a lot of movement with your mouse. Medium is Larger but still not absolutely huge ships such as Frigates and Corvettes. Large Ship's are only Destroyers, with the exception of the Yukon. Note that Miners and Haulers are all in the Medium or Small Classes, with the Yukon being the lone exception as a Large Miner.\nTurret Slots\nTurret Slots are Only on Medium and Large Ships, being where you put certain large turrets such as Railguns and Precision Miners. These slots can be broken down into 3 Category's: Point Defense Turrets/P, which are the small regular turrets that only come with 4 options (Tractor, Pulse, Repeater, Chaingun). Next you have S/Small, which are the more fancy turrets that actually can have Railguns and some others. Lastly, you have M/Medium, which are the largest turrets and come with -M at the end of their variants and are exclusive to Destroyers.\nCargo Slots\nPresent on all Haulers and even on a few Miners, Cargo Slots let you pickup Cargo, which has a variety of uses.\nSubsystems\nMain Page On Subsystems\nSubsystems allow you to do a variety of things from Defensive to Combat to Movement to Energy, and are also displayed on the Stats of a Ship, with the stat showing how many subsystems you can put on a ship.\nRig Slots\nMain Page on Rigs\n \nRig Slots allow you to add several Rigs to your ship, with each doing something a bit different. In the UI, you can see 4 Colors and a number for each color. Look at the image given and the context below it.\nTrivia\nThe Hybrid Paragon holds 3 records of ship statistics, in speed, acceleration, agility, making it the best for general travel.",
+  "content_structure": {
+    "title": "Ship Statistics",
+    "content": "Ship Statistics are the stats of ships, which can range from things such as the damage you can do to more specific things such as the Cargo Space of a ship.\n ",
+    "sections": [
+      {
+        "title": "Combat-Related Stats",
+        "content": "The following stats are generally related to offense and defense, going with DPS, as well as Shield and Deflection. Combat related Stats are colored Red in-game and defensive are Green generally, with the exceptions of Armor and Deflection, which are colored Yellow.",
+        "sections": [
+          {
+            "title": "DPS: (Damage Per Second)",
+            "content": "DPS is a measurement of how much damage you can do in a second with that ship when you are firing all turrets. When you have stronger turrets or more of them you will have a higher DPS. For an example: A Falcon by default has a DPS of 150, whilst the Base DPS of the Knifejaw is 193."
+          },
+          {
+            "title": "Shield Points",
+            "content": "This is a measurement as to how many points of damage your shield can hold against before breaking, with larger ships generally having more. This stat will regenerate over time so long as they aren't taking damage."
+          },
+          {
+            "title": "Hull Points",
+            "content": "Hull Points are a measurement as to how much damage your hull can take before failing. This cannot regenerate overtime unless you have the Patcher Nanobots Rig, one of the Hull Booster Subsystems, or one of the Hull Repairer Subsystems."
+          },
+          {
+            "title": "Armor/Deflection",
+            "content": "Main Page for Armor and Deflection:\nDeflection and Armor are nearly the exact same, with Armor being for Hull and Deflection for Shield. Overall the more deflection/armor you have the less damage you will take from enemy gunfire. The Main page on this has a more detailed explanation as to the calculations behind this."
+          },
+          {
+            "title": "Shield Regeneration",
+            "content": "Shield Regeneration is the rate at which your Shield heals, and it is measured in seconds. In the case of a Stratos, it will heal by 2 shield points every second when it is not being fired at."
+          },
+          {
+            "title": "Hull Regeneration",
+            "content": "By Default, this is 0 on every ship, however, with certain Rigs/Subsystems this can be raised above 0. This works the same as Shield Regeneration, only on your hull. Note that if you need to heal your hull and do not have any rigs you can visit the Repair Bay of a station and bring your ship infront of the Bay to begin healing via the Hull Re-Generators (Which will show a green beam)."
+          }
+        ]
+      },
+      {
+        "title": "Movement-Related Stats",
+        "content": "These Stats are generally about your ship's movement, which will be colored in Blue.",
+        "sections": [
+          {
+            "title": "Speed",
+            "content": "Measured in meters/second, this stat shows the max possible speed for your Ship, with larger ships going slower whilst some small ships such as the Hybrid Paragon being able to go as fast as 470 m/s."
+          },
+          {
+            "title": "Agility",
+            "content": "Measured in Degrees per second in a maximum turn, this is very important for dogfights and small scale PVE, but not much for large capital ship engagements and fleet action. It can save your ship if you have a quick time aligning to a warp vector."
+          },
+          {
+            "title": "Acceleration",
+            "content": "Measured im meters per second², this is how fast your ship can go from one speed to another. It generally isn't useful in PVP due to the majority of engagements having both players remain at full speed, however this can prove quite a useful stat to have when fighting in PVE and when you have a small ship and are fighting another small ship, as the hostile ship will keep going past you and you will be able to quickly speed back up and get behind them, allowing you to quickly fire upon the NPC without them being able to do much."
+          },
+          {
+            "title": "Warp Speed",
+            "content": "This is measured in AU, or astronomical units per second, which is equal to the space between the Sun and Earth. Having a fast warp speed can allow you to overtake escaping ships in warp to ambush when they arrive, or to escape an enemy who has a lower Warp Speed than you."
+          },
+          {
+            "title": "Warp Charge Time",
+            "content": "This stat tells you how long it will take for your ship to go into warp, which is measured in seconds and includes how long it takes to charge the warp and for you to actually jump. Smaller and Faster Ships generally have shorter Warp Charge Times, whilst Larger and Slower ones will have longer Warp Charge Times. This stat can be critical when it comes to escaping an enemy, as it will get you out of that situation before the enemy can do much more damage."
+          }
+        ]
+      },
+      {
+        "title": "Energy",
+        "content": "Energy Stats are associated entirely off of Energy, which is required for several things such as Warping and Subsystems.",
+        "sections": [
+          {
+            "title": "Energy Capacity",
+            "content": "The amount of Energy that can be stored on your ship at one time. This Stat can be increased with Rigs in exchange for a lower Energy Regen rate."
+          },
+          {
+            "title": "Energy Regeneration",
+            "content": "Measured in energy per second, this is how quickly you regain energy after having previously used some. Although whilst bigger ships do have more Energy Regeneration than smaller ones, they have more Energy Capacity and will generally end up having a lower percentage of energy total, not to mention their Subsystems generally cost more energy. Certain Rigs can be used to raise this Regeneration Rate in exchange for a lower Capacity, and certain Subsystems can be activated to raise the rate of Regeneration."
+          }
+        ]
+      },
+      {
+        "title": "Sensors Stats",
+        "content": "These Stats are related to your Sensors, which allow you to see ships on your little radar towards the bottom of your screen.\nYou can disrupt another ship's sensors with the Sensor Jammer Rig.",
+        "sections": [
+          {
+            "title": "Signal Range",
+            "content": "The distance from which NPCs and Players can detect your ship from with their sensors. Note that NPCS do not engage until you are in a certain radius of theirs although if you shoot them whilst outside this radius they will still aggro on you. This is measured in meters and can be increased with Rigs."
+          },
+          {
+            "title": "Sensor Strength",
+            "content": "The Strength of your sensors which allows you to see ships and other things on your sensors from further away. This Stat is higher on larger ships and can also be increased with certain Rigs."
+          }
+        ]
+      },
+      {
+        "title": "Other Stats",
+        "content": "These Stats are related to other things on the Stat Page that do not properly fit into any of the category's.",
+        "sections": [
+          {
+            "title": "Ship Class",
+            "content": "The Ship Class is a small stat used to define a Ship, and comes in 3 different variants: Small, Medium, and Large. Small goes to smaller ships such as Fighters and Interceptors, and will never have the Yaw control, as you control a lot of movement with your mouse. Medium is Larger but still not absolutely huge ships such as Frigates and Corvettes. Large Ship's are only Destroyers, with the exception of the Yukon. Note that Miners and Haulers are all in the Medium or Small Classes, with the Yukon being the lone exception as a Large Miner."
+          },
+          {
+            "title": "Turret Slots",
+            "content": "Turret Slots are Only on Medium and Large Ships, being where you put certain large turrets such as Railguns and Precision Miners. These slots can be broken down into 3 Category's: Point Defense Turrets/P, which are the small regular turrets that only come with 4 options (Tractor, Pulse, Repeater, Chaingun). Next you have S/Small, which are the more fancy turrets that actually can have Railguns and some others. Lastly, you have M/Medium, which are the largest turrets and come with -M at the end of their variants and are exclusive to Destroyers."
+          },
+          {
+            "title": "Cargo Slots",
+            "content": "Present on all Haulers and even on a few Miners, Cargo Slots let you pickup Cargo, which has a variety of uses."
+          },
+          {
+            "title": "Subsystems",
+            "content": "Main Page On Subsystems\nSubsystems allow you to do a variety of things from Defensive to Combat to Movement to Energy, and are also displayed on the Stats of a Ship, with the stat showing how many subsystems you can put on a ship."
+          },
+          {
+            "title": "Rig Slots",
+            "content": "Main Page on Rigs\n \nRig Slots allow you to add several Rigs to your ship, with each doing something a bit different. In the UI, you can see 4 Colors and a number for each color. Look at the image given and the context below it."
+          }
+        ]
+      },
+      {
+        "title": "Trivia",
+        "content": "The Hybrid Paragon holds 3 records of ship statistics, in speed, acceleration, agility, making it the best for general travel."
+      }
+    ]
+  },
+  "images": [
+    "https://static.wikia.nocookie.net/starscape-roblox/images/0/0f/Rig_Slots.png/revision/latest?cb=20241206025620"
+  ]
+}

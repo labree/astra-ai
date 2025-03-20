@@ -1,0 +1,43 @@
+{
+  "title": "Bugs / Glitches",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Bugs_/_Glitches",
+  "summary": "Here are a list of major bugs which are / have been in the game.",
+  "full_text": "Bugs / Glitches\nHere are a list of major bugs which are / have been in the game.\nEVA\nExtra-Vehicular Activity or commonly known as EVA is glitching outside of a station. This can be done to gain a number of benefits such as using station weapons in space. This can be done in a number of different ways. However, there is also another extremely rare EVA bug when you spawn in a system. When entering the system, your ship fails to spawn in, leaving you plunging until kicked for exploiting.\n \nWarp Logging\nWarp Logging was a bug where if you closed the game while in warp, your ship would despawn. this was mainly used to avoid getting pirated by other players. As of October 28, 2020 this bug was partially fixed, although is still possible (warp logging between systems still can be done).\nPlanet Misordering\nOccasionally, some planets on the map will show up in the wrong position, such as the 5th planet preceding the 4th. However, when the warp menu is opened, the planets still seem to be in proper order. It doesn't happen very often, though.\nYou can see this happen at The Citadel where the citadel planet shows as the first planet in the system while it’s actually second.\nInstant Regeneration\nInstant regeneration only happens with destroyers, docking the destroyer and respawning it to any station will regenerate energy and shields instantly. Ships also equipped with patcher nanobots can so regenerate hull instantly. Players can use this bug to give them an advantage in PvP, or to heal ships that have been damaged in a skirmish with NPC's. Working best with high shield yields as this bug automatically applies to shields, as any ship that has been damaged with hull are not allowed to dock. This bug will always happen, and there is no way of avoiding it.\nAnomalies In Rings\n \nSometimes when a player enters an anomaly, the anomaly will appear to be in a planets rings. This is fairly common and is unclear whether is it a bug or not.\nFaction Borders Breaking\nFaction borders sometimes break and leave gaps when systems captured by the opposing faction are shaped awkwardly, creating patterns that break the front border. This is known by the community as “border gore”.\nShips Spawning in the Wall\nSometimes, when you spawn your ship in the docking bay, it will appear halfway inside of a wall. Occasionally, the part of the ship that is in the wall is sticking out into space and you can hop out then EVA. You can fix this by respawning your ship.",
+  "content_structure": {
+    "title": "Bugs / Glitches",
+    "content": "Here are a list of major bugs which are / have been in the game.",
+    "sections": [
+      {
+        "title": "EVA",
+        "content": "Extra-Vehicular Activity or commonly known as EVA is glitching outside of a station. This can be done to gain a number of benefits such as using station weapons in space. This can be done in a number of different ways. However, there is also another extremely rare EVA bug when you spawn in a system. When entering the system, your ship fails to spawn in, leaving you plunging until kicked for exploiting.\n "
+      },
+      {
+        "title": "Warp Logging",
+        "content": "Warp Logging was a bug where if you closed the game while in warp, your ship would despawn. this was mainly used to avoid getting pirated by other players. As of October 28, 2020 this bug was partially fixed, although is still possible (warp logging between systems still can be done)."
+      },
+      {
+        "title": "Planet Misordering",
+        "content": "Occasionally, some planets on the map will show up in the wrong position, such as the 5th planet preceding the 4th. However, when the warp menu is opened, the planets still seem to be in proper order. It doesn't happen very often, though.\nYou can see this happen at The Citadel where the citadel planet shows as the first planet in the system while it’s actually second."
+      },
+      {
+        "title": "Instant Regeneration",
+        "content": "Instant regeneration only happens with destroyers, docking the destroyer and respawning it to any station will regenerate energy and shields instantly. Ships also equipped with patcher nanobots can so regenerate hull instantly. Players can use this bug to give them an advantage in PvP, or to heal ships that have been damaged in a skirmish with NPC's. Working best with high shield yields as this bug automatically applies to shields, as any ship that has been damaged with hull are not allowed to dock. This bug will always happen, and there is no way of avoiding it."
+      },
+      {
+        "title": "Anomalies In Rings",
+        "content": " \nSometimes when a player enters an anomaly, the anomaly will appear to be in a planets rings. This is fairly common and is unclear whether is it a bug or not."
+      },
+      {
+        "title": "Faction Borders Breaking",
+        "content": "Faction borders sometimes break and leave gaps when systems captured by the opposing faction are shaped awkwardly, creating patterns that break the front border. This is known by the community as “border gore”."
+      },
+      {
+        "title": "Ships Spawning in the Wall",
+        "content": "Sometimes, when you spawn your ship in the docking bay, it will appear halfway inside of a wall. Occasionally, the part of the ship that is in the wall is sticking out into space and you can hop out then EVA. You can fix this by respawning your ship."
+      }
+    ]
+  },
+  "images": [
+    "https://static.wikia.nocookie.net/starscape-roblox/images/7/70/RobloxScreenShot20210429_194524780.png/revision/latest?cb=20210430173555"
+  ]
+}

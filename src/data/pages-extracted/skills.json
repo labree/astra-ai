@@ -1,0 +1,93 @@
+{
+  "title": "Skills",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Skills",
+  "summary": "",
+  "full_text": "Skills\n\nOverview\nAdded in the Next Gen Update, skills give players small buffs when elements of a specific set of skills -commonly referred to as skill trees- are upgraded. More skills are unlocked the further you progress along the tree.\nThere are currently 4 skill trees in game, which reflect the four main ventures: Combat, Industry, Commerce, and Exploration.\nCombat\nAffects the damage you deal and the amount of attached ship modules you lose on death (except in wild systems).\nWays to obtain XP\nDestroying NPC ships\nDestroying player ships\nCompleting Combat missions\nSkills:\nName\nEffect(s) per level\nUnlock requirement\nLevel 1 XP\nLevel 2 XP\nLevel 3 XP\nLevel 4 XP\nLevel 5 XP\nWeapon Systems\n+1% damage\nNone\n100\n250\n750\n2500\n10000\nPoint Defense Turrets\n+2% damage for PDTs\nWeapon Systems level 4\n500\n1250\n3750\n12500\n50000\nKinetic Turrets\n+1% damage for kinetic turrets\nWeapon Systems level 2\n200\n500\n1500\n5000\n20000\nRailgun Operation\n+1% damage for Railguns\nKinetic Weapons level 3\n500\n1250\n3750\n12500\n50000\nCoilgun Operation\n+1% damage for Coilguns\nKinetic Weapons level 3\n500\n1250\n3750\n12500\n50000\nEnergy Turrets\n+1% damage for energy turrets\nWeapon Systems level 2\n200\n500\n1500\n5000\n20000\nBeam Operation\n+1% damage for Beams\nEnergy Turrets level 3\n500\n1250\n3750\n12500\n50000\nBlaster Operation\n+1% damage for Cannons and Blasters\nEnergy Turrets level 3\n500\n1250\n3750\n12500\n50000\nScrapper\n+5% scrap from destroyed ships\nNone\n100\n250\n750\n2500\n10000\nReclaimer\n+5% chance of saving Modules when the player's ship is destroyed\nScrapper level 3\n200\n500\n1500\n5000\n20000\nElite Reclaimer\n+5% chance of saving exotic and officer Modules when the player's ship is destroyed\nReclaimer level 4\n500\n1250\n3750\n12500\n50000\nActivity Values:\nAccording to current testing, all destroyed NPC ships reward the player 10 skill points regardless of the class or tier. Player kill values may be separate, but this has been neither proven nor disproven.\nIndustry\nImproves statistics that affect scrapping, refining and mining.\nWays to obtain XP\nCollecting ore\nRefining items\nManufacturing items\nScrapping items\nSkills:\nName\nEffect(s) per level\nUnlock requirement\nLevel 1 XP\nLevel 2 XP\nLevel 3 XP\nLevel 4 XP\nLevel 5 XP\nRecycling\n+1% scrapped resource yield\nNone\n100\n250\n750\n2500\n10000\nRefining\n-2% refining job duration\nNone\n100\n250\n750\n2500\n10000\nAdvanced Refining\n+1% refining yield\nRefining level 5\n500\n1250\n3750\n12500\n50000\nAxnit Refining\n+1% Axnit refining yield\nAdvanced Refining level 2\n400\n1000\n3000\n10000\n40000\nNarcor Refining\n+1% Narcor refining yield\nAdvanced Refining level 3\n500\n1250\n3750\n12500\n50000\nRed Narcor Refining\n+1% Red Narcor refining yield\nAdvanced Refining level 4\n600\n1500\n4500\n15000\n60000\nVexnium Refining\n+1% Vexnium refining yield\nAdvanced Refining level 5\n800\n2000\n6000\n20000\n80000\nKorrelite Refining\n+1% Korrelite refining yield\nRefining level 2\n100\n250\n750\n2500\n10000\nReknite Refining\n+1% Reknite refining yield\nRefining level 3\n100\n250\n750\n2500\n10000\nGellium Refining\n+1% Gellium refining yield\nRefining level 4\n100\n250\n750\n2500\n10000\nMining\n+1% release rate for mining lasers\nNone\n100\n250\n750\n2500\n10000\nPrecision Mining\n+2% Precision Miner capture rate\nMining level 3\n400\n1000\n3000\n10000\n40000\nStrip Mining\n+2% Strip Miner release rate\nMining level 3\n400\n1000\n3000\n10000\n40000\nIce Mining\n+5% Ice Miner release rate\nMining level 3\n400\n1000\n3000\n10000\n40000\nMineral Extraction\n+1% mineable ore from asteroids\nMining level 4\n500\n1250\n3750\n12500\n50000\nActivity Values:\nSkill Point Activity\nKorrelite\nReknite\nGellium\nWater\nAxnit\nNarcor\nRed Narcor\nVexnium\nCollecting ore\n1\n1\n1\n1\n2*\n3\n5\n25\nRefining Products\n0.3\n0.4\n0.5\n0.6\n1.4\n2\n3.6\n20\n*Pristine Axnit only gives 1 skill point instead of 2.\n2nd row: Skill points from refining are based on the output of refining or scrapping. Each unit of a material always gives the same amount, regardless of what was refined to produce it, and higher quality ores give more skill points by refining into more material.\nManufacturing skill points can be calculated by dividing the default sell value of the item in credits, indicated by the green text to the right of an item name, by 10.\nCommerce\nImproves statistics that affect Hauling, inventory space, Trading and Mission rewards.\nWays to obtain XP\nBuying and selling Spice\nDelivering Trade Union or Syndicate Supply Crates\nCompleting Hauling missions\nSkills:\nName\nEffect(s) per level\nUnlock requirement\nLevel 1 XP\nLevel 2 XP\nLevel 3 XP\nLevel 4 XP\nLevel 5 XP\nHauling\n-5% hauling speed penalty\nNone\n100\n250\n750\n2500\n10000\nSpice Buying\n-2% spice buying price\nHauling level 3\n300\n750\n2250\n7500\n30000\nSpice Selling\n+2% spice selling price\nSpice Buying level 3\n500\n1250\n3750\n12500\n50000\nInventory Management\n+5% base inventory space\nHauling level 2\n300\n750\n2250\n7500\n30000\nCargo Management\n+5% inventory space for each open cargo slot\nInventory Management level 3\n500\n1250\n3750\n12500\n50000\nMarketing\n+1 buy and sell order\nNone\n100\n250\n750\n2500\n10000\nHigh Frequency Trading\n-5% market expedite fees\nMarketing level 2\n300\n750\n2250\n7500\n30000\nNegotiations\n+5% mission credit rewards\nNone\n100\n250\n750\n2500\n10000\nDiplomacy\n+5% mission standing rewards\nNegotiations level 3\n400\n1000\n3000\n10000\n40000\nActivity Values:\nBuying spice and items grants 0 Skill points\nSkill points from selling items can be found by dividing the number of credits obtained by 100, or divided by 40 when selling spice\n*confirmed only with NPC markets, player market purchases TBD\nExploration\nAffects the hacking of Crates and the use of Scanning Probes.\nWays to obtain XP\nDiscovering new systems*\nScanning Anomalies and Aberrations\nHacking crates found in X-Aberrations\nCompleting Exploration missions\nSkills:\nName\nEffect(s) per level\nUnlock requirement\nLevel 1 XP\nLevel 2 XP\nLevel 3 XP\nLevel 4 XP\nLevel 5 XP\nHacking\n+5% hacking operation time allowance\nNone\n100\n250\n750\n2500\n10000\nPower Systems Knowledge\n+10% chance to forgive hacking operation mistakes\nHacking level 3\n300\n750\n2250\n7500\n30000\nLockout Circumvention\n-10% hacking operation lockout time\nHacking level 4\n500\n1250\n3750\n12500\n50000\nProbe Operation\n-5% probe launch cooldown\nNone\n100\n250\n750\n2500\n10000\nProbe Longevity\n+5% system probe lifetime\nProbe Operation level 3\n400\n1000\n3000\n10000\n40000\nProbe Navigation\n+5% system probe speed\nProbe Operation level 4\n500\n1250\n3750\n12500\n50000\nProbe Radius\n+5% anomaly detection radius\nProbe Operation level 2\n300\n750\n2250\n7500\n30000\nActivity Values:\n0 Skill Points for claiming open crates, 50 for hacking locked containers\n15 Skill Points per scanned aberration, 25 per scanned anomaly\n25 Skill Points per new system*\n*This means Systems not previously visited by you; use the 'Visited systems' filter in the Galaxy Map to find undiscovered systems.\nTrivia\n6 skill trees were planned (Piloting, Combat, Industry, Commerce, Innovation, and Civics), but half were cancelled due to development issues\nThe Civics skill tree was green, Innovation was purple, and Piloting was light blue; Piloting initially included 16 skills, unlocked the ability to drive certain classes of ships, and could boost some properties of a ship class by its respective upgraded skill\nThe color of skills may have been partly inspired by the 6 main spice/system colors\nSkill trees are officially referred to as constellations, but this is only seen in-game in the Interface tutorial",
+  "content_structure": {
+    "title": "Skills",
+    "content": "",
+    "sections": [
+      {
+        "title": "Overview",
+        "content": "Added in the Next Gen Update, skills give players small buffs when elements of a specific set of skills -commonly referred to as skill trees- are upgraded. More skills are unlocked the further you progress along the tree.\nThere are currently 4 skill trees in game, which reflect the four main ventures: Combat, Industry, Commerce, and Exploration."
+      },
+      {
+        "title": "Combat",
+        "content": "Affects the damage you deal and the amount of attached ship modules you lose on death (except in wild systems).",
+        "sections": [
+          {
+            "title": "Ways to obtain XP",
+            "content": "Destroying NPC ships\nDestroying player ships\nCompleting Combat missions"
+          },
+          {
+            "title": "Skills:",
+            "content": "Name\nEffect(s) per level\nUnlock requirement\nLevel 1 XP\nLevel 2 XP\nLevel 3 XP\nLevel 4 XP\nLevel 5 XP\nWeapon Systems\n+1% damage\nNone\n100\n250\n750\n2500\n10000\nPoint Defense Turrets\n+2% damage for PDTs\nWeapon Systems level 4\n500\n1250\n3750\n12500\n50000\nKinetic Turrets\n+1% damage for kinetic turrets\nWeapon Systems level 2\n200\n500\n1500\n5000\n20000\nRailgun Operation\n+1% damage for Railguns\nKinetic Weapons level 3\n500\n1250\n3750\n12500\n50000\nCoilgun Operation\n+1% damage for Coilguns\nKinetic Weapons level 3\n500\n1250\n3750\n12500\n50000\nEnergy Turrets\n+1% damage for energy turrets\nWeapon Systems level 2\n200\n500\n1500\n5000\n20000\nBeam Operation\n+1% damage for Beams\nEnergy Turrets level 3\n500\n1250\n3750\n12500\n50000\nBlaster Operation\n+1% damage for Cannons and Blasters\nEnergy Turrets level 3\n500\n1250\n3750\n12500\n50000\nScrapper\n+5% scrap from destroyed ships\nNone\n100\n250\n750\n2500\n10000\nReclaimer\n+5% chance of saving Modules when the player's ship is destroyed\nScrapper level 3\n200\n500\n1500\n5000\n20000\nElite Reclaimer\n+5% chance of saving exotic and officer Modules when the player's ship is destroyed\nReclaimer level 4\n500\n1250\n3750\n12500\n50000"
+          },
+          {
+            "title": "Activity Values:",
+            "content": "According to current testing, all destroyed NPC ships reward the player 10 skill points regardless of the class or tier. Player kill values may be separate, but this has been neither proven nor disproven."
+          }
+        ]
+      },
+      {
+        "title": "Industry",
+        "content": "Improves statistics that affect scrapping, refining and mining.",
+        "sections": [
+          {
+            "title": "Ways to obtain XP",
+            "content": "Collecting ore\nRefining items\nManufacturing items\nScrapping items"
+          },
+          {
+            "title": "Skills:",
+            "content": "Name\nEffect(s) per level\nUnlock requirement\nLevel 1 XP\nLevel 2 XP\nLevel 3 XP\nLevel 4 XP\nLevel 5 XP\nRecycling\n+1% scrapped resource yield\nNone\n100\n250\n750\n2500\n10000\nRefining\n-2% refining job duration\nNone\n100\n250\n750\n2500\n10000\nAdvanced Refining\n+1% refining yield\nRefining level 5\n500\n1250\n3750\n12500\n50000\nAxnit Refining\n+1% Axnit refining yield\nAdvanced Refining level 2\n400\n1000\n3000\n10000\n40000\nNarcor Refining\n+1% Narcor refining yield\nAdvanced Refining level 3\n500\n1250\n3750\n12500\n50000\nRed Narcor Refining\n+1% Red Narcor refining yield\nAdvanced Refining level 4\n600\n1500\n4500\n15000\n60000\nVexnium Refining\n+1% Vexnium refining yield\nAdvanced Refining level 5\n800\n2000\n6000\n20000\n80000\nKorrelite Refining\n+1% Korrelite refining yield\nRefining level 2\n100\n250\n750\n2500\n10000\nReknite Refining\n+1% Reknite refining yield\nRefining level 3\n100\n250\n750\n2500\n10000\nGellium Refining\n+1% Gellium refining yield\nRefining level 4\n100\n250\n750\n2500\n10000\nMining\n+1% release rate for mining lasers\nNone\n100\n250\n750\n2500\n10000\nPrecision Mining\n+2% Precision Miner capture rate\nMining level 3\n400\n1000\n3000\n10000\n40000\nStrip Mining\n+2% Strip Miner release rate\nMining level 3\n400\n1000\n3000\n10000\n40000\nIce Mining\n+5% Ice Miner release rate\nMining level 3\n400\n1000\n3000\n10000\n40000\nMineral Extraction\n+1% mineable ore from asteroids\nMining level 4\n500\n1250\n3750\n12500\n50000"
+          },
+          {
+            "title": "Activity Values:",
+            "content": "Skill Point Activity\nKorrelite\nReknite\nGellium\nWater\nAxnit\nNarcor\nRed Narcor\nVexnium\nCollecting ore\n1\n1\n1\n1\n2*\n3\n5\n25\nRefining Products\n0.3\n0.4\n0.5\n0.6\n1.4\n2\n3.6\n20\n*Pristine Axnit only gives 1 skill point instead of 2.\n2nd row: Skill points from refining are based on the output of refining or scrapping. Each unit of a material always gives the same amount, regardless of what was refined to produce it, and higher quality ores give more skill points by refining into more material.\nManufacturing skill points can be calculated by dividing the default sell value of the item in credits, indicated by the green text to the right of an item name, by 10."
+          }
+        ]
+      },
+      {
+        "title": "Commerce",
+        "content": "Improves statistics that affect Hauling, inventory space, Trading and Mission rewards.",
+        "sections": [
+          {
+            "title": "Ways to obtain XP",
+            "content": "Buying and selling Spice\nDelivering Trade Union or Syndicate Supply Crates\nCompleting Hauling missions"
+          },
+          {
+            "title": "Skills:",
+            "content": "Name\nEffect(s) per level\nUnlock requirement\nLevel 1 XP\nLevel 2 XP\nLevel 3 XP\nLevel 4 XP\nLevel 5 XP\nHauling\n-5% hauling speed penalty\nNone\n100\n250\n750\n2500\n10000\nSpice Buying\n-2% spice buying price\nHauling level 3\n300\n750\n2250\n7500\n30000\nSpice Selling\n+2% spice selling price\nSpice Buying level 3\n500\n1250\n3750\n12500\n50000\nInventory Management\n+5% base inventory space\nHauling level 2\n300\n750\n2250\n7500\n30000\nCargo Management\n+5% inventory space for each open cargo slot\nInventory Management level 3\n500\n1250\n3750\n12500\n50000\nMarketing\n+1 buy and sell order\nNone\n100\n250\n750\n2500\n10000\nHigh Frequency Trading\n-5% market expedite fees\nMarketing level 2\n300\n750\n2250\n7500\n30000\nNegotiations\n+5% mission credit rewards\nNone\n100\n250\n750\n2500\n10000\nDiplomacy\n+5% mission standing rewards\nNegotiations level 3\n400\n1000\n3000\n10000\n40000"
+          },
+          {
+            "title": "Activity Values:",
+            "content": "Buying spice and items grants 0 Skill points\nSkill points from selling items can be found by dividing the number of credits obtained by 100, or divided by 40 when selling spice\n*confirmed only with NPC markets, player market purchases TBD"
+          }
+        ]
+      },
+      {
+        "title": "Exploration",
+        "content": "Affects the hacking of Crates and the use of Scanning Probes.",
+        "sections": [
+          {
+            "title": "Ways to obtain XP",
+            "content": "Discovering new systems*\nScanning Anomalies and Aberrations\nHacking crates found in X-Aberrations\nCompleting Exploration missions"
+          },
+          {
+            "title": "Skills:",
+            "content": "Name\nEffect(s) per level\nUnlock requirement\nLevel 1 XP\nLevel 2 XP\nLevel 3 XP\nLevel 4 XP\nLevel 5 XP\nHacking\n+5% hacking operation time allowance\nNone\n100\n250\n750\n2500\n10000\nPower Systems Knowledge\n+10% chance to forgive hacking operation mistakes\nHacking level 3\n300\n750\n2250\n7500\n30000\nLockout Circumvention\n-10% hacking operation lockout time\nHacking level 4\n500\n1250\n3750\n12500\n50000\nProbe Operation\n-5% probe launch cooldown\nNone\n100\n250\n750\n2500\n10000\nProbe Longevity\n+5% system probe lifetime\nProbe Operation level 3\n400\n1000\n3000\n10000\n40000\nProbe Navigation\n+5% system probe speed\nProbe Operation level 4\n500\n1250\n3750\n12500\n50000\nProbe Radius\n+5% anomaly detection radius\nProbe Operation level 2\n300\n750\n2250\n7500\n30000"
+          },
+          {
+            "title": "Activity Values:",
+            "content": "0 Skill Points for claiming open crates, 50 for hacking locked containers\n15 Skill Points per scanned aberration, 25 per scanned anomaly\n25 Skill Points per new system*\n*This means Systems not previously visited by you; use the 'Visited systems' filter in the Galaxy Map to find undiscovered systems."
+          }
+        ]
+      },
+      {
+        "title": "Trivia",
+        "content": "6 skill trees were planned (Piloting, Combat, Industry, Commerce, Innovation, and Civics), but half were cancelled due to development issues\nThe Civics skill tree was green, Innovation was purple, and Piloting was light blue; Piloting initially included 16 skills, unlocked the ability to drive certain classes of ships, and could boost some properties of a ship class by its respective upgraded skill\nThe color of skills may have been partly inspired by the 6 main spice/system colors\nSkill trees are officially referred to as constellations, but this is only seen in-game in the Interface tutorial"
+      }
+    ]
+  },
+  "images": []
+}

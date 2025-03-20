@@ -1,0 +1,28 @@
+{
+  "title": "Toucan",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Toucan",
+  "summary": "\"The Toucan is a Kavani fighter.\"",
+  "full_text": "Toucan\n\"The Toucan is a Kavani fighter.\"\nThe Toucan is a T1 fighter-class ship of the Kavani Mandator line. It is best suited as a agile fighter, taking advantage of its many subsystem slots.\nAdvantages\nThe Toucan is remarkably agile for a fighter. As a Kavani ship, it has improved energy and subsystem capabilities, allowing it to run ship-augmenting abilities or repairers for a longer period. Experienced pilots can use this to their advantage, managing their subsystems to maintain a constant edge in combat.\nDisadvantages\nThe Toucan is an T1 faction fighter, and thus will perform poorly against its upgraded counterparts. Due to its speed it has low durability and is vulnerable to heavier fighters or point defense on warships. Reckless pilots may find that three subsystem slots drain energy too quickly for more aggressive playstyles.\nAs a faction ship, its blueprint must be purchased using Loyalty Points at a faction terminal or from other players, making it less accessible to new or neutral players.\nTrivia\n- The current Toucan is modeled by ii_Cove.\nFighters\nLine\nT1\nT2\nExotic\nLegionis\nAurora\nLuminar\nHybrid Luminar\nStronghold\nSabre\nClaymore\nHybrid Claymore\nMegalodon\nPiranha\nThresher\nMandator\nToucan\nHornbill\nRighteous\nLuster\nLucent\nConstellation\nStratos\nMandator Line\nInterceptor\nFighter\nCorvette\nFrigate\nDestroyer\nCruiser\nBattleship\nT1\nParrot\nToucan\nEdict\nJudicator\nConciliator\nSubjugator\nConqueror\nT2\nMacaw\nHornbill\nExotic",
+  "content_structure": {
+    "title": "Toucan",
+    "content": "\"The Toucan is a Kavani fighter.\"\nThe Toucan is a T1 fighter-class ship of the Kavani Mandator line. It is best suited as a agile fighter, taking advantage of its many subsystem slots.",
+    "sections": [
+      {
+        "title": "Advantages",
+        "content": "The Toucan is remarkably agile for a fighter. As a Kavani ship, it has improved energy and subsystem capabilities, allowing it to run ship-augmenting abilities or repairers for a longer period. Experienced pilots can use this to their advantage, managing their subsystems to maintain a constant edge in combat."
+      },
+      {
+        "title": "Disadvantages",
+        "content": "The Toucan is an T1 faction fighter, and thus will perform poorly against its upgraded counterparts. Due to its speed it has low durability and is vulnerable to heavier fighters or point defense on warships. Reckless pilots may find that three subsystem slots drain energy too quickly for more aggressive playstyles.\nAs a faction ship, its blueprint must be purchased using Loyalty Points at a faction terminal or from other players, making it less accessible to new or neutral players."
+      },
+      {
+        "title": "Trivia",
+        "content": "- The current Toucan is modeled by ii_Cove.\nFighters\nLine\nT1\nT2\nExotic\nLegionis\nAurora\nLuminar\nHybrid Luminar\nStronghold\nSabre\nClaymore\nHybrid Claymore\nMegalodon\nPiranha\nThresher\nMandator\nToucan\nHornbill\nRighteous\nLuster\nLucent\nConstellation\nStratos\nMandator Line\nInterceptor\nFighter\nCorvette\nFrigate\nDestroyer\nCruiser\nBattleship\nT1\nParrot\nToucan\nEdict\nJudicator\nConciliator\nSubjugator\nConqueror\nT2\nMacaw\nHornbill\nExotic"
+      }
+    ],
+    "infobox": "Toucan\nShip Class\nFighter\nField Stats\nDPS\n180\nShield\nShield Regen\nDeflection\n400\n2\n0.5\nHull\nHull Regen\nArmor\n250\n0\n0\nEnergy\nEnergy Regen\n105\n1.5\nSpeed\nAcceleration\nAgility\n320\n180\n105\nOther Stats\nWarp Speed\nCharge Time\n1.40\n4\nSignal Range\nSensor Strength\n4000\n25\nCustomization\nFighter Hardpoints\nMining Hardpoints\nPDT Hardpoints\n2\n0\n0\nWEP\nDEF\nENG\nRCT\n1\n0\n1\n2\nSubsystems\n2\nCrafting\nNPC Buy\nNPC Sell\n-\n1000\nVolume\nTime\n100 m3\n5:00\nKorrelite\nReknite\nGellium\nAxnit\n300\n120\n30\n-\nBlucor\nRedcor\nVexnium\nWater\n-\n-\n-\n-\nComponent\nAmount\nToucan Blueprint\n1"
+  },
+  "images": [
+    "https://static.wikia.nocookie.net/starscape-roblox/images/e/e2/Toucan.png/revision/latest?cb=20220309220141"
+  ]
+}

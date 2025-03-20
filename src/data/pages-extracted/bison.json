@@ -1,0 +1,28 @@
+{
+  "title": "Bison",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Bison",
+  "summary": "\"The Bison is a hauler designed to have a large cargo capacity at the expense of speed and agility. It won't outrun anything, but it can make you a fortune if you manage to make it to your destination.\"",
+  "full_text": "Bison\n\"The Bison is a hauler designed to have a large cargo capacity at the expense of speed and agility. It won't outrun anything, but it can make you a fortune if you manage to make it to your destination.\"\nThe Bison is a hauler-class ship of the Mastodon line. It is best suited as a fast and cheap hauler ship.\nAdvantages\nThe Bison is a cheap upgrade from the Hyrax, and has a respectable cargo capacity, making it ideal for early-game missions where you have to supply many items or faction supply hauling with a disposable ship. Despite being slower than other fighter-style haulers, it still outpaces ships like the Zubron or the Galaxy.\nDisadvantages\nThe Bison has a large cargo capacity for its class, but still has less than half the cargo capacity of the Zubron. For more advanced pilots, warship haulers hit the Bison out of the park, with sometimes triple the cargo capacity and yet more speed and durability.\nTrivia\nThe current Bison is modeled by DANNYboy25000.\nHaulers\nLine\nT1\nT2\nCorvette\nFrigate\nNebula\nAstero\nGalaxy\nMastodon\nHyrax\nRhinoBison\nZubron\nCloak\nVeil\nShroud",
+  "content_structure": {
+    "title": "Bison",
+    "content": "\"The Bison is a hauler designed to have a large cargo capacity at the expense of speed and agility. It won't outrun anything, but it can make you a fortune if you manage to make it to your destination.\"\nThe Bison is a hauler-class ship of the Mastodon line. It is best suited as a fast and cheap hauler ship.",
+    "sections": [
+      {
+        "title": "Advantages",
+        "content": "The Bison is a cheap upgrade from the Hyrax, and has a respectable cargo capacity, making it ideal for early-game missions where you have to supply many items or faction supply hauling with a disposable ship. Despite being slower than other fighter-style haulers, it still outpaces ships like the Zubron or the Galaxy."
+      },
+      {
+        "title": "Disadvantages",
+        "content": "The Bison has a large cargo capacity for its class, but still has less than half the cargo capacity of the Zubron. For more advanced pilots, warship haulers hit the Bison out of the park, with sometimes triple the cargo capacity and yet more speed and durability."
+      },
+      {
+        "title": "Trivia",
+        "content": "The current Bison is modeled by DANNYboy25000.\nHaulers\nLine\nT1\nT2\nCorvette\nFrigate\nNebula\nAstero\nGalaxy\nMastodon\nHyrax\nRhinoBison\nZubron\nCloak\nVeil\nShroud"
+      }
+    ],
+    "infobox": "Bison\nShip Class\nHauler\nSpecial\nTurret Damage -20%\nField Stats\nDPS\n37.5\nShield\nShield Regen\nDeflection\n100\n1.5\n0\nHull\nHull Regen\nArmor\n700\n0\n1.5\nEnergy\nEnergy Regen\n100\n1.5\nSpeed\nAcceleration\nAgility\n310\n170\n75\nOther Stats\nWarp Speed\nCharge Time\n1.10\n4.5\nSignal Range\nSensor Strength\n5000\n25\nCargo Slots\n9\nCustomization\nFighter Hardpoints\nMining Hardpoints\nPDT Hardpoints\n0\n0\n3\nWEP\nDEF\nENG\nRCT\n0\n2\n1\n0\nSubsystems\n1\nCrafting\nNPC Buy\nNPC Sell\n3500\n1750\nVolume\nTime\n200 m3\n15:00\nKorrelite\nReknite\nGellium\nAxnit\n400\n-\n-\n50\nBlucor\nRedcor\nVexnium\nWater\n25\n-\n-\n-\nComponent\nAmount\nHyrax\n1"
+  },
+  "images": [
+    "https://static.wikia.nocookie.net/starscape-roblox/images/f/f6/Bison.png/revision/latest?cb=20220309222403"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Candiru",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Candiru",
+  "summary": "\"The Candiru is an upgraded variant of the Foralkan Mackerel.\"",
+  "full_text": "Candiru\n\"The Candiru is an upgraded variant of the Foralkan Mackerel.\"\nThe Candiru is a T2 interceptor-class ship of the Foralkan ship line. It is best suited as an agile yet heavy-hitting interceptor.\nAdvantages\nWith two weapon rigs and two engine rigs, the Candiru can get astounding mobility while dealing damage higher than many other fighters could. It excels at a striking playstyle, flying in to deal much damage and retreating before reinforcements arrive.\nDisadvantages\nDue to being an interceptor, it is fragile and can be shot down by kinetic weaponry because of its hull focus. Pilots may also find that due to its burst playstyle, the ship overheats too quickly. It does not endure prolonged combat very well, preferring to dart in and out of engagements.\nAs a faction ship, its blueprint must be purchased using Loyalty Points at a faction terminal or from other players, making it less accessible to new or neutral players.\nTrivia\n- The current Candiru is modeled by ii_Cove.\n- The Candiru was named without ZolarKeth's knowledge of the context behind the name.\nInterceptors\nLine\nT1\nT2\nExotic\nDefiance\nFalcon\nParagon\nHybrid Paragon\nValiance\nZenith\nPolaris\nHybrid Polaris\nMegalodon\nMackerel\nCandiru\nMandator\nParrot\nMacaw\nRighteous\nTetra\nTriazo\nMegalodon Line\nInterceptor\nFighter\nCorvette\nFrigate\nDestroyer\nCruiser\nBattleship\nT1\nMackeral\nPiranha\nKnifejaw\nBarracuda\nLoxodon\nSunfish\nPtychodus\nT2\nCandiru\nThresher\nExotic",
+  "content_structure": {
+    "title": "Candiru",
+    "content": "\"The Candiru is an upgraded variant of the Foralkan Mackerel.\"\nThe Candiru is a T2 interceptor-class ship of the Foralkan ship line. It is best suited as an agile yet heavy-hitting interceptor.",
+    "sections": [
+      {
+        "title": "Advantages",
+        "content": "With two weapon rigs and two engine rigs, the Candiru can get astounding mobility while dealing damage higher than many other fighters could. It excels at a striking playstyle, flying in to deal much damage and retreating before reinforcements arrive."
+      },
+      {
+        "title": "Disadvantages",
+        "content": "Due to being an interceptor, it is fragile and can be shot down by kinetic weaponry because of its hull focus. Pilots may also find that due to its burst playstyle, the ship overheats too quickly. It does not endure prolonged combat very well, preferring to dart in and out of engagements.\nAs a faction ship, its blueprint must be purchased using Loyalty Points at a faction terminal or from other players, making it less accessible to new or neutral players."
+      },
+      {
+        "title": "Trivia",
+        "content": "- The current Candiru is modeled by ii_Cove.\n- The Candiru was named without ZolarKeth's knowledge of the context behind the name.\nInterceptors\nLine\nT1\nT2\nExotic\nDefiance\nFalcon\nParagon\nHybrid Paragon\nValiance\nZenith\nPolaris\nHybrid Polaris\nMegalodon\nMackerel\nCandiru\nMandator\nParrot\nMacaw\nRighteous\nTetra\nTriazo\nMegalodon Line\nInterceptor\nFighter\nCorvette\nFrigate\nDestroyer\nCruiser\nBattleship\nT1\nMackeral\nPiranha\nKnifejaw\nBarracuda\nLoxodon\nSunfish\nPtychodus\nT2\nCandiru\nThresher\nExotic"
+      }
+    ],
+    "infobox": "Candiru\nShip Class\nInterceptor\nField Stats\nDPS\n240\nShield\nShield Regen\nDeflection\n150\n2\n0\nHull\nHull Regen\nArmor\n150\n0\n0\nEnergy\nEnergy Regen\n105\n1.2\nSpeed\nAcceleration\nAgility\n440\n190\n123\nOther Stats\nWarp Speed\nCharge Time\n1.50\n3\nSignal Range\nSensor Strength\n4000\n25\nCustomization\nFighter Hardpoints\nMining Hardpoints\nPDT Hardpoints\n3\n0\n0\nWEP\nDEF\nENG\nRCT\n2\n0\n2\n0\nSubsystems\n2\nCrafting\nNPC Buy\nNPC Sell\n-\n2000\nVolume\nTime\n100 m3\n10:00\nKorrelite\nReknite\nGellium\nAxnit\n-\n-\n-\n-\nBlucor\nRedcor\nVexnium\nWater\n50\n-\n-\n-\nComponent\nAmount\nMackerel\n1\nComponent\nAmount\nCandiru Blueprint\n1"
+  },
+  "images": [
+    "https://static.wikia.nocookie.net/starscape-roblox/images/2/2a/Candiru.png/revision/latest?cb=20220309220628"
+  ]
+}

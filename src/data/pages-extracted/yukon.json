@@ -1,0 +1,28 @@
+{
+  "title": "Yukon",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Yukon",
+  "summary": "\"The Yukon is a giant mining platform which can efficiently strip mine entire asteroid fields.\"",
+  "full_text": "Yukon\n\"The Yukon is a giant mining platform which can efficiently strip mine entire asteroid fields.\"\nThe Yukon is a miner-class ship of the Everest ship line. It is best suited as an expensive but powerful miner, boasting the highest mining rates in the game.\nAdvantages\nThe Yukon has more health and more rig slots than the lighter ships in its line, the Ozark and Kodiak. It also has more PDT slots, as well as some small-turret slots on its underside, allowing for better self-defense ability against weak enemies.\nThe addition of two cargo slots allows it to store more ore and stay in wild for longer.\nThe Yukon has a +125% mining speed bonus, compared to Ozark's and Kodiak's +100%.\nDisadvantages\nAs a heavy destroyer-miner, it has very poor mobility.\nAlthough it can equip combat turrets, it's not a combat ship and has fewer hitpoints than combat destroyers, as well as a non-ideal turret placement. Do not use the Yukon as a combat ship.\nIt is very expensive and requires more resources to craft than other destroyers.\nTrivia\nThe current Yukon is modeled by Drezzlez.\nThere's a hidden 20% damage debuff on the Yukon. This can be seen in the Yukon's stats in the Test Server.\nDue to its mining turret limitations, pilots can equip 4 combat turrets on the Yukon without sacrificing any mining capability.\nMiners\nLine\nT1\nT2\nCorvette\nFrigate\nDestroyer\nBadger\nBadger\nHoney Badger\nMarlin\nMarlin\nMako\nEverest\nOzark\nKodiak\nYukon\nKoronis\nKoronis\nEos\nVesta",
+  "content_structure": {
+    "title": "Yukon",
+    "content": "\"The Yukon is a giant mining platform which can efficiently strip mine entire asteroid fields.\"\nThe Yukon is a miner-class ship of the Everest ship line. It is best suited as an expensive but powerful miner, boasting the highest mining rates in the game.",
+    "sections": [
+      {
+        "title": "Advantages",
+        "content": "The Yukon has more health and more rig slots than the lighter ships in its line, the Ozark and Kodiak. It also has more PDT slots, as well as some small-turret slots on its underside, allowing for better self-defense ability against weak enemies.\nThe addition of two cargo slots allows it to store more ore and stay in wild for longer.\nThe Yukon has a +125% mining speed bonus, compared to Ozark's and Kodiak's +100%."
+      },
+      {
+        "title": "Disadvantages",
+        "content": "As a heavy destroyer-miner, it has very poor mobility.\nAlthough it can equip combat turrets, it's not a combat ship and has fewer hitpoints than combat destroyers, as well as a non-ideal turret placement. Do not use the Yukon as a combat ship.\nIt is very expensive and requires more resources to craft than other destroyers."
+      },
+      {
+        "title": "Trivia",
+        "content": "The current Yukon is modeled by Drezzlez.\nThere's a hidden 20% damage debuff on the Yukon. This can be seen in the Yukon's stats in the Test Server.\nDue to its mining turret limitations, pilots can equip 4 combat turrets on the Yukon without sacrificing any mining capability.\nMiners\nLine\nT1\nT2\nCorvette\nFrigate\nDestroyer\nBadger\nBadger\nHoney Badger\nMarlin\nMarlin\nMako\nEverest\nOzark\nKodiak\nYukon\nKoronis\nKoronis\nEos\nVesta"
+      }
+    ],
+    "infobox": "Yukon\nShip Class\nMiner\nSpecial\nMining Rate +125%Tractor Speed +75%Turret Damage -20%Max Combat Turrets: 6Max Mining Turrets: 6\nField Stats\nDPS\n470\nShield\nShield Regen\nDeflection\n1800\n12\n2\nHull\nHull Regen\nArmor\n8400\n0\n4\nEnergy\nEnergy Regen\n900\n9\nSpeed\nAcceleration\nAgility\n100\n20\n22\nOther Stats\nWarp Speed\nCharge Time\n0.70\n6\nSignal Range\nSensor Strength\n10000\n55\nCargo Slots\n2\nCustomization\nPDT Turrets\nSmall Turrets\n4\n10\nWEP\nDEF\nENG\nRCT\n0\n2\n1\n1\nSubsystems\n1\nCrafting\nNPC Buy\nNPC Sell\n-\n40000\nVolume\nTime\n750 m3\n6:00:00\nKorrelite\nReknite\nGellium\nAxnit\n19000\n11300\n7600\n2600\nBlucor\nRedcor\nVexnium\nWater\n800\n300\n25\n-"
+  },
+  "images": [
+    "https://static.wikia.nocookie.net/starscape-roblox/images/5/5d/Yukon.png/revision/latest?cb=20220309222243"
+  ]
+}

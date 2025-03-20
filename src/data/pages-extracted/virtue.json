@@ -1,0 +1,28 @@
+{
+  "title": "Virtue",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Virtue",
+  "summary": "\"Like many Lycentian ships, the Virtue is a blocky (and thus sturdy) warship. It finds itself taking on many different roles in the Lycentian Navy.\"",
+  "full_text": "Virtue\n\"Like many Lycentian ships, the Virtue is a blocky (and thus sturdy) warship. It finds itself taking on many different roles in the Lycentian Navy.\"\nThe Virtue is a frigate-class ship of the Righteous ship line. It is best suited as a fleet escort ship due to its shielding, PDTs, and turret agility.\nAdvantages\nThe Virtue has good shielding and deflection that can be further enhanced with defense rigs. \nAs a frigate, it features 4 point-defense slots, making it a good escort and screener ship. It has balanced turret placement and can deal with threats from many angles. \nBecause of its high shield strength, the Virtue has a higher chance of successfully retreating into a station in PvP, since hulled ships are unable to enter stations. \nDisadvantages\nThe Virtue has a low hull pool and will die quickly if shields go down. \nIt is also rather slow and can be easily kited by faster enemies. \nOverall, the Virtue is more fleet-centered/defensive, and requires a skilled and cautious player to survive unsupported PvP. Unlike the Justice, it does not have broadside capabilities. \nAs a Lycentian ship, its blueprint must be purchased using Loyalty Points at a Lycentian terminal or from other players, making it less accessible to new or neutral players.\nTrivia\nThe current Virtue is modeled by AVeryDandyLad.\nIf two Hybrid Hardlight Shield modifications are added to this ship, it will have more shield than a basic Justice.\nWarships\nLine\nCorvette\nFrigate\nDestroyer\nLegionis\nChevron\nPhalanx\nEchelon\nConstellation\nRadix\nHalo\nHorizon\nValiance\nInfinity\nAdamant\nFortitude\nStronghold\nBulwark\nMegalodon\nKnifejaw\nBarracuda\nLoxodon\nMandator\nEdict\nJudicator\nConciliator\nRighteous\nLiberty\nVirtue\nJustice\nRighteous Line\nInterceptor\nFighter\nCorvette\nFrigate\nDestroyer\nCruiser\nBattleship\nT1\nTetra\nLuster\nLiberty\nVirtue\nJustice\nDignity*\nNobility**\nT2\nTriazo\nLucent\nExotic",
+  "content_structure": {
+    "title": "Virtue",
+    "content": "\"Like many Lycentian ships, the Virtue is a blocky (and thus sturdy) warship. It finds itself taking on many different roles in the Lycentian Navy.\"\nThe Virtue is a frigate-class ship of the Righteous ship line. It is best suited as a fleet escort ship due to its shielding, PDTs, and turret agility.",
+    "sections": [
+      {
+        "title": "Advantages",
+        "content": "The Virtue has good shielding and deflection that can be further enhanced with defense rigs. \nAs a frigate, it features 4 point-defense slots, making it a good escort and screener ship. It has balanced turret placement and can deal with threats from many angles. \nBecause of its high shield strength, the Virtue has a higher chance of successfully retreating into a station in PvP, since hulled ships are unable to enter stations. "
+      },
+      {
+        "title": "Disadvantages",
+        "content": "The Virtue has a low hull pool and will die quickly if shields go down. \nIt is also rather slow and can be easily kited by faster enemies. \nOverall, the Virtue is more fleet-centered/defensive, and requires a skilled and cautious player to survive unsupported PvP. Unlike the Justice, it does not have broadside capabilities. \nAs a Lycentian ship, its blueprint must be purchased using Loyalty Points at a Lycentian terminal or from other players, making it less accessible to new or neutral players."
+      },
+      {
+        "title": "Trivia",
+        "content": "The current Virtue is modeled by AVeryDandyLad.\nIf two Hybrid Hardlight Shield modifications are added to this ship, it will have more shield than a basic Justice.\nWarships\nLine\nCorvette\nFrigate\nDestroyer\nLegionis\nChevron\nPhalanx\nEchelon\nConstellation\nRadix\nHalo\nHorizon\nValiance\nInfinity\nAdamant\nFortitude\nStronghold\nBulwark\nMegalodon\nKnifejaw\nBarracuda\nLoxodon\nMandator\nEdict\nJudicator\nConciliator\nRighteous\nLiberty\nVirtue\nJustice\nRighteous Line\nInterceptor\nFighter\nCorvette\nFrigate\nDestroyer\nCruiser\nBattleship\nT1\nTetra\nLuster\nLiberty\nVirtue\nJustice\nDignity*\nNobility**\nT2\nTriazo\nLucent\nExotic"
+      }
+    ],
+    "infobox": "Virtue\nShip Class\nFrigate\nSpecial\nTurret Agility +75%\nField Stats\nDPS\n302\nShield\nShield Regen\nDeflection\n7200\n8\n2.5\nHull\nHull Regen\nArmor\n2000\n0\n2.5\nEnergy\nEnergy Regen\n520\n6.8\nSpeed\nAcceleration\nAgility\n130\n46\n37\nOther Stats\nWarp Speed\nCharge Time\n0.70\n6\nSignal Range\nSensor Strength\n8000\n40\nCustomization\nPDT Turrets\nSmall Turrets\nMed. Turrets\n4\n6\n0\nWEP\nDEF\nENG\nRCT\n1\n2\n1\n1\nSubsystems\n1\nCrafting\nNPC Buy\nNPC Sell\n-\n20000\nVolume\nTime\n400 m3\n2:30:00\nKorrelite\nReknite\nGellium\nAxnit\n4800\n2900\n1800\n700\nBlucor\nRedcor\nVexnium\nWater\n250\n100\n-\n-\nComponent\nAmount\nVirtue Blueprint\n1"
+  },
+  "images": [
+    "https://static.wikia.nocookie.net/starscape-roblox/images/4/4d/Virtue.png/revision/latest?cb=20220309210505"
+  ]
+}

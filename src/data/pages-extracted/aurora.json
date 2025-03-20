@@ -1,0 +1,28 @@
+{
+  "title": "Aurora",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Aurora",
+  "summary": "\"The Aurora is a general-purpose fighter spacecraft that can perform well in a large array of situations.\"",
+  "full_text": "Aurora\n\"The Aurora is a general-purpose fighter spacecraft that can perform well in a large array of situations.\"\nThe Aurora is an entry-level fighter-class ship of the Legionis ship line. It is best suited as a generally balanced fighter, with a shield focus and generous energy.\nAdvantages\nThe Aurora is a balanced fighter, but has a focus on shields. This allows it to be resistant to forms of kinetic weaponry, and it can fill many roles rather than excelling in just one. It is not as bulky or slow as the Sabre, letting it have some degree of attack avoidance.\nDisadvantages\nThe Aurora is an entry-level ship, and thus will perform poorly against upgraded fightercraft. As a slow fighter, it is easily outmaneuvered despite being faster than the Sabre. Taking a fight in a heavy fighter like the Aurora is dangerous for new pilots, as you have no chance to disengage unless your opponent withdraws or dies. New pilots may also have trouble managing their shield level, and find their hull stripped away before they can retreat.\nTrivia\n- The current Aurora is modeled by AVeryDandyLad.\nFighters\nLine\nT1\nT2\nExotic\nLegionis\nAurora\nLuminar\nHybrid Luminar\nStronghold\nSabre\nClaymore\nHybrid Claymore\nMegalodon\nPiranha\nThresher\nMandator\nToucan\nHornbill\nRighteous\nLuster\nLucent\nConstellation\nStratos\nLegionis Line\nInterceptor\nFighter\nCorvette\nFrigate\nDestroyer\nT1\nAurora\nChevron\nPhalanx\nEchelon\nT2\nLuminar\nExotic\nHybrid Luminar",
+  "content_structure": {
+    "title": "Aurora",
+    "content": "\"The Aurora is a general-purpose fighter spacecraft that can perform well in a large array of situations.\"\nThe Aurora is an entry-level fighter-class ship of the Legionis ship line. It is best suited as a generally balanced fighter, with a shield focus and generous energy.",
+    "sections": [
+      {
+        "title": "Advantages",
+        "content": "The Aurora is a balanced fighter, but has a focus on shields. This allows it to be resistant to forms of kinetic weaponry, and it can fill many roles rather than excelling in just one. It is not as bulky or slow as the Sabre, letting it have some degree of attack avoidance."
+      },
+      {
+        "title": "Disadvantages",
+        "content": "The Aurora is an entry-level ship, and thus will perform poorly against upgraded fightercraft. As a slow fighter, it is easily outmaneuvered despite being faster than the Sabre. Taking a fight in a heavy fighter like the Aurora is dangerous for new pilots, as you have no chance to disengage unless your opponent withdraws or dies. New pilots may also have trouble managing their shield level, and find their hull stripped away before they can retreat."
+      },
+      {
+        "title": "Trivia",
+        "content": "- The current Aurora is modeled by AVeryDandyLad.\nFighters\nLine\nT1\nT2\nExotic\nLegionis\nAurora\nLuminar\nHybrid Luminar\nStronghold\nSabre\nClaymore\nHybrid Claymore\nMegalodon\nPiranha\nThresher\nMandator\nToucan\nHornbill\nRighteous\nLuster\nLucent\nConstellation\nStratos\nLegionis Line\nInterceptor\nFighter\nCorvette\nFrigate\nDestroyer\nT1\nAurora\nChevron\nPhalanx\nEchelon\nT2\nLuminar\nExotic\nHybrid Luminar"
+      }
+    ],
+    "infobox": "Aurora\nShip Class\nFighter\nField Stats\nDPS\n220.1\nShield\nShield Regen\nDeflection\n450\n2\n0.5\nHull\nHull Regen\nArmor\n200\n0\n0.5\nEnergy\nEnergy Regen\n100\n1.5\nSpeed\nAcceleration\nAgility\n320\n130\n97\nOther Stats\nWarp Speed\nCharge Time\n1.10\n4\nSignal Range\nSensor Strength\n4750\n25\nCustomization\nFighter Hardpoints\nMining Hardpoints\nPDT Hardpoints\n3\n0\n0\nWEP\nDEF\nENG\nRCT\n1\n1\n0\n1\nSubsystems\n1\nCrafting\nNPC Buy\nNPC Sell\n1600\n800\nVolume\nTime\n100 m3\n5:00\nKorrelite\nReknite\nGellium\nAxnit\n225\n100\n30\n-\nBlucor\nRedcor\nVexnium\nWater\n-\n-\n-\n-"
+  },
+  "images": [
+    "https://static.wikia.nocookie.net/starscape-roblox/images/8/89/Aurora.png/revision/latest?cb=20220309212757"
+  ]
+}

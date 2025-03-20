@@ -1,0 +1,28 @@
+{
+  "title": "Piranha",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Piranha",
+  "summary": "\"The Piranha is a Foralkan fighter based on the Sabre chassis. It is more nimble than the Sabre, though also cannot take quite as much of a beating during a fight.\"",
+  "full_text": "Piranha\n\"The Piranha is a Foralkan fighter based on the Sabre chassis. It is more nimble than the Sabre, though also cannot take quite as much of a beating during a fight.\"\nThe Piranha is a T1 fighter-class ship of the Foralkan ship line. It is best suited as an assault fighter, taking down ships in quick bursts of damage.\nAdvantages\nThe Piranha has impressive speed and agility for an entry-level fighter, and a small overall profile, making it harder to hit.\nIt deals the highest damage per-projectile of all fighters and interceptors, making high deflection and armor a non-issue. On top of having two weapon module slots to further amplify its damage or prolong its volleys of fire.\nDisadvantages\nAs a tier 1 fighter, it may not always perform up to par against more reliable, higher-tier fighters and interceptors.\nIt lacks any means of self-preservation and has weak shields and hull. Making it easy to kill for PDT's.\nAs a faction ship, its blueprint must be purchased using Loyalty Points at a faction terminal or from other players, making it less accessible to new or neutral players.\nTrivia\n- The current Piranha is modeled by ii_Cove.\nFighters\nLine\nT1\nT2\nExotic\nLegionis\nAurora\nLuminar\nHybrid Luminar\nStronghold\nSabre\nClaymore\nHybrid Claymore\nMegalodon\nPiranha\nThresher\nMandator\nToucan\nHornbill\nRighteous\nLuster\nLucent\nConstellation\nStratos\nMegalodon Line\nInterceptor\nFighter\nCorvette\nFrigate\nDestroyer\nCruiser\nBattleship\nT1\nMackeral\nPiranha\nKnifejaw\nBarracuda\nLoxodon\nSunfish\nPtychodus\nT2\nCandiru\nThresher\nExotic",
+  "content_structure": {
+    "title": "Piranha",
+    "content": "\"The Piranha is a Foralkan fighter based on the Sabre chassis. It is more nimble than the Sabre, though also cannot take quite as much of a beating during a fight.\"\nThe Piranha is a T1 fighter-class ship of the Foralkan ship line. It is best suited as an assault fighter, taking down ships in quick bursts of damage.",
+    "sections": [
+      {
+        "title": "Advantages",
+        "content": "The Piranha has impressive speed and agility for an entry-level fighter, and a small overall profile, making it harder to hit.\nIt deals the highest damage per-projectile of all fighters and interceptors, making high deflection and armor a non-issue. On top of having two weapon module slots to further amplify its damage or prolong its volleys of fire."
+      },
+      {
+        "title": "Disadvantages",
+        "content": "As a tier 1 fighter, it may not always perform up to par against more reliable, higher-tier fighters and interceptors.\nIt lacks any means of self-preservation and has weak shields and hull. Making it easy to kill for PDT's.\nAs a faction ship, its blueprint must be purchased using Loyalty Points at a faction terminal or from other players, making it less accessible to new or neutral players."
+      },
+      {
+        "title": "Trivia",
+        "content": "- The current Piranha is modeled by ii_Cove.\nFighters\nLine\nT1\nT2\nExotic\nLegionis\nAurora\nLuminar\nHybrid Luminar\nStronghold\nSabre\nClaymore\nHybrid Claymore\nMegalodon\nPiranha\nThresher\nMandator\nToucan\nHornbill\nRighteous\nLuster\nLucent\nConstellation\nStratos\nMegalodon Line\nInterceptor\nFighter\nCorvette\nFrigate\nDestroyer\nCruiser\nBattleship\nT1\nMackeral\nPiranha\nKnifejaw\nBarracuda\nLoxodon\nSunfish\nPtychodus\nT2\nCandiru\nThresher\nExotic"
+      }
+    ],
+    "infobox": "Piranha\nShip Class\nFighter\nField Stats\nDPS\n260.0\nShield\nShield Regen\nDeflection\n100\n1\n0\nHull\nHull Regen\nArmor\n350\n0\n0.5\nEnergy\nEnergy Regen\n90\n1.2\nSpeed\nAcceleration\nAgility\n320\n140\n112\nOther Stats\nWarp Speed\nCharge Time\n1.30\n4\nSignal Range\nSensor Strength\n4500\n25\nCustomization\nFighter Hardpoints\nMining Hardpoints\nPDT Hardpoints\n2\n0\n0\nWEP\nDEF\nENG\nRCT\n2\n0\n1\n0\nSubsystems\n1\nCrafting\nNPC Buy\nNPC Sell\n-\n1000\nVolume\nTime\n100 m3\n5:00\nKorrelite\nReknite\nGellium\nAxnit\n300\n120\n30\n-\nBlucor\nRedcor\nVexnium\nWater\n-\n-\n-\n-\nComponent\nAmount\nPiranha Blueprint\n1"
+  },
+  "images": [
+    "https://static.wikia.nocookie.net/starscape-roblox/images/4/43/Piranha.png/revision/latest?cb=20220309220538"
+  ]
+}

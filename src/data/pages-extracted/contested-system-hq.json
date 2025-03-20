@@ -1,0 +1,71 @@
+{
+  "title": "Contested System HQ",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Contested_System_HQ",
+  "summary": "A Contested System HQ is a military station with a docking bay on either side, and 4 \"modules.\" On the outside, they also have their respective faction's color on the sovereignty beacon, with Lycentian being light blue, Foralkan red, and Kavani light green.",
+  "full_text": "Contested System HQ\nA Contested System HQ is a military station with a docking bay on either side, and 4 \"modules.\" On the outside, they also have their respective faction's color on the sovereignty beacon, with Lycentian being light blue, Foralkan red, and Kavani light green.\nA faction's contested system can be upgraded by supplies brought from a staging point's supply dock to the HQ's cargo dock. Upgrades include turrets that will protect the generators, and if there a turret platform(s) is built, then a shield will form around the generator. These will need to be destroyed to disable the generator. \nThe HQ has a patrol fleet moving around it, always consisting of a cruiser, 2 destroyers, and smaller warships and fighters that vary in ace/veteran ranks. \nHeadquarter Tiers\n \nT0 - New Claim\nNew Claims are recent systems that have been taken by a faction. They contain only the base headquarter with no modules. These systems are very weak and can be re-captured with 1-3 players in warships. You will gain 1000 standing/loyalty points after capturing a New Claim, which is distributed evenly among the attacking players in the system. The sovereignty beacon of a New Claim will have 200K health. \nT1 - Outpost\nAn HQ needs 100 supply crates to be upgraded into an Outpost. The HQ gains a Repair and Medbay module, with a turret tower also appearing on either side of the HQ. All structures will also be slightly strengthened in health and damage, and a fighter hangar can also be built. You will gain 2000 standing/loyalty points after capturing an Outpost, which is distributed evenly among the attacking players in the system.\nT2 - Garrison\nAn HQ needs 300 additional crates to be upgraded into a Garrison. The HQ gains a Refinery and Manufacturing module, and also gets an additional two turret towers. Mining platform constructors will become available, and structures get another buff in hitpoints and damage. You will gain 3500 standing/loyalty points after capturing, which is distributed evenly among the attacking players in the system.\nT3-Stronghold\nAn HQ needs 1000 additional crates to be upgraded into a Stronghold. All structures will once again be buffed significantly, with the Capital Shipyard being unlocked. You will gain a substantial 7500 standing/loyalty points after capturing, which is distributed evenly among the attacking players in the system. \nStructures\nAs the HQ gets upgraded, more and more structures will be available to be built. The structures built will not add on to the standing/loyalty points you earn when capturing the system.\nSystem Headquarters\nThe HQ is the command center of the entire system, being protected by an invulnerable shield until all 3 generators have been disabled. Above every HQ there is a sovereignty beacon. This must be destroyed in order to gain control of the system. Once it is destroyed, the HQ will explode, passing control over to the faction that destroyed the beacon. Then a new HQ will be built, taking 30(?) minutes to complete. A new beacon will regenerate upon the completion of the HQ, and the shield will form around the HQ. \nGenerators\nThese structures are responsible for maintaining a shield around the system HQ. They can be upgraded by delivering supplies to the system HQ, and will increase in turret amount, size, and health. Once fully upgraded, they will have an assortment of small cannon and beam turrets, totalling up 32 turrets. All 3 generators in a system must be disabled in order to attack the sovereignty beacon and destroy the HQ. \nCapital Shipyard\nA massive shipyard capable of constructing battleships for the corresponding faction. It will take 1 hour for the shipyard to be built, and then another hour for until the battleship is complete. Once the battleship has finished construction, it will sound a loud foghorn which can be heard by any player at the warp hub. It will then proceed to patrol the area around the shipyard, firing on any hostile players or NPCs. If the faction battleship is destroyed, then another battleship will be constructed, again taking 1 hour. \nDefense Platforms\nDefense Platforms can be built around generators and fleet hangers. They take 50 crates and 15 minutes to construct and they project a shield over the structure they are defending, requiring the platform to be destroyed to expose the structure in combat. Their defense consists of 8 small turrets, with 2 beam turrets and 2 cannon turrets on either side.\n \nFleet Hangers\nFleet hangers takes 75 crates and 30 minutes to construct. They will spawn NPCs fighters and interceptors (6 per levels), which patrol the system, responds to attacks (structure being attacked or beacon being captured) and are gradually replaced if destroyed. It takes an additional 100 and 150 crates to level up the hangar to level 2 and 3, increasing its health, the amount of fighters and the amount of Defence Platforms around it (2 per level). \nWhile not dangerous by any means to bigger ships, the swarm of fighters can help disorient the enemy (if fighting alongside it in your own fighter) or pile up minor amount of damage to bother the shield/hull regeneration of enemies. \nMining Platforms\nMining Platforms take 75 crates and 30 minutes to construct. They boost the quality of ore spawned in the asteroid field it belongs to. \nTurret Towers\nTurret towers contain 2L and 8M turrets. There will be 2 large beam turrets on the top and bottom of the structure, with 4 medium cannon turrets mounted on a ring surrounding the structure. These will be automatically added around the system HQ as the system is upgraded, with a maximum of 6 turret towers surrounding the station.",
+  "content_structure": {
+    "title": "Contested System HQ",
+    "content": "A Contested System HQ is a military station with a docking bay on either side, and 4 \"modules.\" On the outside, they also have their respective faction's color on the sovereignty beacon, with Lycentian being light blue, Foralkan red, and Kavani light green.\nA faction's contested system can be upgraded by supplies brought from a staging point's supply dock to the HQ's cargo dock. Upgrades include turrets that will protect the generators, and if there a turret platform(s) is built, then a shield will form around the generator. These will need to be destroyed to disable the generator. \nThe HQ has a patrol fleet moving around it, always consisting of a cruiser, 2 destroyers, and smaller warships and fighters that vary in ace/veteran ranks. ",
+    "sections": [
+      {
+        "title": "Headquarter Tiers",
+        "content": " ",
+        "sections": [
+          {
+            "title": "T0 - New Claim",
+            "content": "New Claims are recent systems that have been taken by a faction. They contain only the base headquarter with no modules. These systems are very weak and can be re-captured with 1-3 players in warships. You will gain 1000 standing/loyalty points after capturing a New Claim, which is distributed evenly among the attacking players in the system. The sovereignty beacon of a New Claim will have 200K health. "
+          },
+          {
+            "title": "T1 - Outpost",
+            "content": "An HQ needs 100 supply crates to be upgraded into an Outpost. The HQ gains a Repair and Medbay module, with a turret tower also appearing on either side of the HQ. All structures will also be slightly strengthened in health and damage, and a fighter hangar can also be built. You will gain 2000 standing/loyalty points after capturing an Outpost, which is distributed evenly among the attacking players in the system."
+          },
+          {
+            "title": "T2 - Garrison",
+            "content": "An HQ needs 300 additional crates to be upgraded into a Garrison. The HQ gains a Refinery and Manufacturing module, and also gets an additional two turret towers. Mining platform constructors will become available, and structures get another buff in hitpoints and damage. You will gain 3500 standing/loyalty points after capturing, which is distributed evenly among the attacking players in the system."
+          },
+          {
+            "title": "T3-Stronghold",
+            "content": "An HQ needs 1000 additional crates to be upgraded into a Stronghold. All structures will once again be buffed significantly, with the Capital Shipyard being unlocked. You will gain a substantial 7500 standing/loyalty points after capturing, which is distributed evenly among the attacking players in the system. "
+          }
+        ]
+      },
+      {
+        "title": "Structures",
+        "content": "As the HQ gets upgraded, more and more structures will be available to be built. The structures built will not add on to the standing/loyalty points you earn when capturing the system.",
+        "sections": [
+          {
+            "title": "System Headquarters",
+            "content": "The HQ is the command center of the entire system, being protected by an invulnerable shield until all 3 generators have been disabled. Above every HQ there is a sovereignty beacon. This must be destroyed in order to gain control of the system. Once it is destroyed, the HQ will explode, passing control over to the faction that destroyed the beacon. Then a new HQ will be built, taking 30(?) minutes to complete. A new beacon will regenerate upon the completion of the HQ, and the shield will form around the HQ. "
+          },
+          {
+            "title": "Generators",
+            "content": "These structures are responsible for maintaining a shield around the system HQ. They can be upgraded by delivering supplies to the system HQ, and will increase in turret amount, size, and health. Once fully upgraded, they will have an assortment of small cannon and beam turrets, totalling up 32 turrets. All 3 generators in a system must be disabled in order to attack the sovereignty beacon and destroy the HQ. "
+          },
+          {
+            "title": "Capital Shipyard",
+            "content": "A massive shipyard capable of constructing battleships for the corresponding faction. It will take 1 hour for the shipyard to be built, and then another hour for until the battleship is complete. Once the battleship has finished construction, it will sound a loud foghorn which can be heard by any player at the warp hub. It will then proceed to patrol the area around the shipyard, firing on any hostile players or NPCs. If the faction battleship is destroyed, then another battleship will be constructed, again taking 1 hour. "
+          },
+          {
+            "title": "Defense Platforms",
+            "content": "Defense Platforms can be built around generators and fleet hangers. They take 50 crates and 15 minutes to construct and they project a shield over the structure they are defending, requiring the platform to be destroyed to expose the structure in combat. Their defense consists of 8 small turrets, with 2 beam turrets and 2 cannon turrets on either side.\n "
+          },
+          {
+            "title": "Fleet Hangers",
+            "content": "Fleet hangers takes 75 crates and 30 minutes to construct. They will spawn NPCs fighters and interceptors (6 per levels), which patrol the system, responds to attacks (structure being attacked or beacon being captured) and are gradually replaced if destroyed. It takes an additional 100 and 150 crates to level up the hangar to level 2 and 3, increasing its health, the amount of fighters and the amount of Defence Platforms around it (2 per level). \nWhile not dangerous by any means to bigger ships, the swarm of fighters can help disorient the enemy (if fighting alongside it in your own fighter) or pile up minor amount of damage to bother the shield/hull regeneration of enemies. "
+          },
+          {
+            "title": "Mining Platforms",
+            "content": "Mining Platforms take 75 crates and 30 minutes to construct. They boost the quality of ore spawned in the asteroid field it belongs to. "
+          },
+          {
+            "title": "Turret Towers",
+            "content": "Turret towers contain 2L and 8M turrets. There will be 2 large beam turrets on the top and bottom of the structure, with 4 medium cannon turrets mounted on a ring surrounding the structure. These will be automatically added around the system HQ as the system is upgraded, with a maximum of 6 turret towers surrounding the station."
+          }
+        ]
+      }
+    ]
+  },
+  "images": [
+    "https://static.wikia.nocookie.net/starscape-roblox/images/4/48/Hanger_under_construction.jpg/revision/latest?cb=20240530045239"
+  ]
+}

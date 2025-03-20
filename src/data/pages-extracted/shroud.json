@@ -1,0 +1,28 @@
+{
+  "title": "Shroud",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Shroud",
+  "summary": "\"The Shroud is a large and stealthy hauling frigate. It uses a combination of speed, low signal range, and adequate defenses to run blockades and evade dangerous encounters.\"",
+  "full_text": "Shroud\n\"The Shroud is a large and stealthy hauling frigate. It uses a combination of speed, low signal range, and adequate defenses to run blockades and evade dangerous encounters.\"\nThe Shroud is a hauler-class ship of the Cloak line. It is best suited as a fast and stealthy hauler.\nAdvantages\nThe Shroud has a similar speed as the Veil but features more durability and capacity. The Shroud excels as a solo hauling ships on dangerous routes, such as the frontlines of contested space or systems that have possible hostile threats. While carrying less crates than the Galaxy, it has a much faster warp speed/charge time, resulting in similar profits. The Shroud also makes an amazing ship for X-structure hunting and wild space exploration in general, due to its large inventory space and good speed.\nDisadvantages\nThe Shroud is fragile if caught, despite being a frigate, and pilots should take care not to be hit by stray shots or be caught off guard. Compared to its Trade Union counterpart, the Shroud hauls fewer crates and is not as useful in contested systems that have already been secured.\nAs a faction ship, its blueprint must be purchased using Loyalty Points at a faction terminal or from other players, making it less accessible to new or neutral players.\nTrivia\n- The current Shroud is modeled by swindle150 and ii_Cove.\nHaulers\nLine\nT1\nT2\nT3\nCorvette\nFrigate\nNebula\nAstero\nGalaxy\nMastodon\nHyrax\nRhino\nBison\nZubron\nCloak\nVeil\nShroud",
+  "content_structure": {
+    "title": "Shroud",
+    "content": "\"The Shroud is a large and stealthy hauling frigate. It uses a combination of speed, low signal range, and adequate defenses to run blockades and evade dangerous encounters.\"\nThe Shroud is a hauler-class ship of the Cloak line. It is best suited as a fast and stealthy hauler.",
+    "sections": [
+      {
+        "title": "Advantages",
+        "content": "The Shroud has a similar speed as the Veil but features more durability and capacity. The Shroud excels as a solo hauling ships on dangerous routes, such as the frontlines of contested space or systems that have possible hostile threats. While carrying less crates than the Galaxy, it has a much faster warp speed/charge time, resulting in similar profits. The Shroud also makes an amazing ship for X-structure hunting and wild space exploration in general, due to its large inventory space and good speed."
+      },
+      {
+        "title": "Disadvantages",
+        "content": "The Shroud is fragile if caught, despite being a frigate, and pilots should take care not to be hit by stray shots or be caught off guard. Compared to its Trade Union counterpart, the Shroud hauls fewer crates and is not as useful in contested systems that have already been secured.\nAs a faction ship, its blueprint must be purchased using Loyalty Points at a faction terminal or from other players, making it less accessible to new or neutral players."
+      },
+      {
+        "title": "Trivia",
+        "content": "- The current Shroud is modeled by swindle150 and ii_Cove.\nHaulers\nLine\nT1\nT2\nT3\nCorvette\nFrigate\nNebula\nAstero\nGalaxy\nMastodon\nHyrax\nRhino\nBison\nZubron\nCloak\nVeil\nShroud"
+      }
+    ],
+    "infobox": "Shroud\nShip Class\nHauler\nField Stats\nDPS\n218\nShield\nShield Regen\nDeflection\n1750\n7\n1\nHull\nHull Regen\nArmor\n2400\n0\n2\nEnergy\nEnergy Regen\n480\n7.5\nSpeed\nAcceleration\nAgility\n170\n40\n52\nOther Stats\nWarp Speed\nCharge Time\n0.85\n4\nSignal Range\nSensor Strength\n4500\n40\nCargo Slots\n24\nCustomization\nPDT Turrets\nSmall Turrets\n4\n4\nWEP\nDEF\nENG\nRCT\n0\n1\n2\n1\nSubsystems\n1\nCrafting\nNPC Buy\nNPC Sell\n-\n20000\nVolume\nTime\n400 m3\n2:30:00\nKorrelite\nReknite\nGellium\nAxnit\n5200\n3100\n1950\n750\nBlucor\nRedcor\nVexnium\nWater\n275\n100\n-\n-\nComponent\nAmount\nShroud Blueprint\n1"
+  },
+  "images": [
+    "https://static.wikia.nocookie.net/starscape-roblox/images/9/9f/Shroud.png/revision/latest?cb=20220309222453"
+  ]
+}

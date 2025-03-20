@@ -1,0 +1,25 @@
+{
+  "title": "Hunting",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Hunting",
+  "summary": "Template:Tocright",
+  "full_text": "Hunting\nTemplate:Tocright\nHunting is the process of killing and looting NPC vessels such as drones, pirates, or NPC faction ships for their modules. This career is vital to supplying rare modules such as Hybrids. This overview of hunting will be split up into three sections: Methods, Sources, and Strategies.\nMethods\nWhen you warp in, look for threats in all planets. To do this, scan all planets with a probe. If a red exclamation mark appears, then there is a threat that can be destroyed. These will also appear in the quickwarp menu as red icons, if the planet has already been scanned.\nThreats can also appear in rings.\nLocations\nLocations are the different places players can hunt, ranging from fighting drone fleets to destroying NPC structures and stations.\nLocations\nLocation\nInfo\nDrone Factories\nStructures that you can destroy the obtain loot. They call in drones of varying levels every time you destroy a part of the factory.\nPirate Dens\nStructures that you can destroy the obtain loot. They call in pirates of varying levels every time you destroy a part of the den.\nAnomalies\nWhile not the most efficient, certainly possible. DH anomalies may drop rare items.\nFleets\nDrone fleets can be a source of hybrid loot. Drone factories are generally easier and drop better loot. Pirate fleets are the Dread counterpart of this, behaving in the exact same way.\nKeep in mind of these things\nPlayers on the other side of a wormhole pathway and those who warp into your system.\nDon’t trust anybody, there is no guarantee the opposite party doesn’t want to lure you or kill you.\nLarge Dens and Drone Battleships can kill even Destroyers, you need to use other ways to finish them off.\nWarp out if you’re in really bad shape, to a harmless anomaly would be better!\nTemplate:Version1.10.1",
+  "content_structure": {
+    "title": "Hunting",
+    "content": "Template:Tocright\nHunting is the process of killing and looting NPC vessels such as drones, pirates, or NPC faction ships for their modules. This career is vital to supplying rare modules such as Hybrids. This overview of hunting will be split up into three sections: Methods, Sources, and Strategies.",
+    "sections": [
+      {
+        "title": "Methods",
+        "content": "When you warp in, look for threats in all planets. To do this, scan all planets with a probe. If a red exclamation mark appears, then there is a threat that can be destroyed. These will also appear in the quickwarp menu as red icons, if the planet has already been scanned.\nThreats can also appear in rings."
+      },
+      {
+        "title": "Locations",
+        "content": "Locations are the different places players can hunt, ranging from fighting drone fleets to destroying NPC structures and stations.\nLocations\nLocation\nInfo\nDrone Factories\nStructures that you can destroy the obtain loot. They call in drones of varying levels every time you destroy a part of the factory.\nPirate Dens\nStructures that you can destroy the obtain loot. They call in pirates of varying levels every time you destroy a part of the den.\nAnomalies\nWhile not the most efficient, certainly possible. DH anomalies may drop rare items.\nFleets\nDrone fleets can be a source of hybrid loot. Drone factories are generally easier and drop better loot. Pirate fleets are the Dread counterpart of this, behaving in the exact same way."
+      },
+      {
+        "title": "Keep in mind of these things",
+        "content": "Players on the other side of a wormhole pathway and those who warp into your system.\nDon’t trust anybody, there is no guarantee the opposite party doesn’t want to lure you or kill you.\nLarge Dens and Drone Battleships can kill even Destroyers, you need to use other ways to finish them off.\nWarp out if you’re in really bad shape, to a harmless anomaly would be better!\nTemplate:Version1.10.1"
+      }
+    ]
+  },
+  "images": []
+}

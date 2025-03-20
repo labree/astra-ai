@@ -1,0 +1,37 @@
+{
+  "title": "Cargo dock",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Cargo_dock",
+  "summary": "The Cargo Dock is a station part found on all non-Residential stations throughout the galaxy. It is an essential part of Hauling and Hauling missions.",
+  "full_text": "Cargo dock\nThe Cargo Dock is a station part found on all non-Residential stations throughout the galaxy. It is an essential part of Hauling and Hauling missions.\nUse\nPress F to interact with a dock. A menu will appear, and in there will be tabs for the market and storage. All spices can be sold at a standard cargo dock, prices vary depending on the distance from the color region of spice. Items that can be picked up for hauling missions will also appear. \nWith the storage tab, cargo on the ship and items in storage can be viewed. Cargo can be loaded onto a hauler ship from storage, or transferred from the ship into storage. A station can only store 32 cargo, and that cargo can only be accessed from that station. You can view the cargo in stations at any time in the inventory. Under assets > storage there is a dropdown menu to view cargo in stations.\nA third tab may appear when hauling missions are in progress, called \"Missions\". This tab simply shows a list of mission supplies/items that can be picked up/unloaded pertaining to a mission. All cargo docks involved will have a yellow tracker icon.\nVariations\n\nContested System HQ\nSee also: Contested system HQ\nContested System HQs will buy Trade Union Supplies, Syndicate Supplies, and Faction Supplies from their faction. Cargo cannot be stored in them.\nSpice Platforms\nSee also: Spice Platforms\nSpice platforms, unlike station platforms, only sell one type of colored spice. It does not buy any kind of cargo, and cargo cannot be stored on it. Spice Platform within the borders of The syndicate will always sell Silver Spice.\nFrontier Outposts\nSee also: Frontier Outposts\nFrontier Outposts are similar to Spice Platforms in that they sell one type of Gemstone Spice, however they also will buy any variety of spice at various prices, depending on location, higher than that of normal stations because of the inherent distance of being in Wild Space",
+  "content_structure": {
+    "title": "Cargo dock",
+    "content": "The Cargo Dock is a station part found on all non-Residential stations throughout the galaxy. It is an essential part of Hauling and Hauling missions.",
+    "sections": [
+      {
+        "title": "Use",
+        "content": "Press F to interact with a dock. A menu will appear, and in there will be tabs for the market and storage. All spices can be sold at a standard cargo dock, prices vary depending on the distance from the color region of spice. Items that can be picked up for hauling missions will also appear. \nWith the storage tab, cargo on the ship and items in storage can be viewed. Cargo can be loaded onto a hauler ship from storage, or transferred from the ship into storage. A station can only store 32 cargo, and that cargo can only be accessed from that station. You can view the cargo in stations at any time in the inventory. Under assets > storage there is a dropdown menu to view cargo in stations.\nA third tab may appear when hauling missions are in progress, called \"Missions\". This tab simply shows a list of mission supplies/items that can be picked up/unloaded pertaining to a mission. All cargo docks involved will have a yellow tracker icon."
+      },
+      {
+        "title": "Variations",
+        "content": "",
+        "sections": [
+          {
+            "title": "Contested System HQ",
+            "content": "See also: Contested system HQ\nContested System HQs will buy Trade Union Supplies, Syndicate Supplies, and Faction Supplies from their faction. Cargo cannot be stored in them."
+          },
+          {
+            "title": "Spice Platforms",
+            "content": "See also: Spice Platforms\nSpice platforms, unlike station platforms, only sell one type of colored spice. It does not buy any kind of cargo, and cargo cannot be stored on it. Spice Platform within the borders of The syndicate will always sell Silver Spice."
+          },
+          {
+            "title": "Frontier Outposts",
+            "content": "See also: Frontier Outposts\nFrontier Outposts are similar to Spice Platforms in that they sell one type of Gemstone Spice, however they also will buy any variety of spice at various prices, depending on location, higher than that of normal stations because of the inherent distance of being in Wild Space"
+          }
+        ]
+      }
+    ]
+  },
+  "images": [
+    "https://static.wikia.nocookie.net/starscape-roblox/images/c/c6/Cargooooooooooo.PNG/revision/latest?cb=20200615040539"
+  ]
+}

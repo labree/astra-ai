@@ -1,0 +1,28 @@
+{
+  "title": "Koronis",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Koronis",
+  "summary": "\"The Koronis combines modest mining ability with the ability to haul cargo, allowing it to support itself on long-duration mining missions or take on multiple roles.\"",
+  "full_text": "Koronis\n\"The Koronis combines modest mining ability with the ability to haul cargo, allowing it to support itself on long-duration mining missions or take on multiple roles.\"\nThe Koronis is a miner-class ship of the Koronis Line. It is best suited as a fast mining ship for long expeditions.\nAdvantages\nThe Koronis is cheaper than warship miners, which allows it to try for more dangerous expeditions. With 2 cargo crates, and a good mix of weapon and engine rigs, it is a cheap but effective generalist miner.\nDisadvantages\nDespite being a fighter-style miner, it requires a blueprint to build, so most experienced players opt for a warship miner such as the Eos or Ozark instead. Much like other fighter-style miners, it is fragile.\nAs a faction ship, its blueprint must be purchased using Loyalty Points at a faction terminal or from other players, making it less accessible to new or neutral players.\nTrivia\nThe current Koronis is modeled by Ocean_tsunamii.\nThe Koronis is the only ship whose blueprint can be acquired from more than one faction.\nMiners\nLine\nT1\nT2\nCorvette\nFrigate\nDestroyer\nBadger\nBadger\nHoney Badger\nMarlin\nMarlin\nMako\nEverest\nOzark\nKodiak\nYukon\nEos\nKoronis\nEos\nVesta",
+  "content_structure": {
+    "title": "Koronis",
+    "content": "\"The Koronis combines modest mining ability with the ability to haul cargo, allowing it to support itself on long-duration mining missions or take on multiple roles.\"\nThe Koronis is a miner-class ship of the Koronis Line. It is best suited as a fast mining ship for long expeditions.",
+    "sections": [
+      {
+        "title": "Advantages",
+        "content": "The Koronis is cheaper than warship miners, which allows it to try for more dangerous expeditions. With 2 cargo crates, and a good mix of weapon and engine rigs, it is a cheap but effective generalist miner."
+      },
+      {
+        "title": "Disadvantages",
+        "content": "Despite being a fighter-style miner, it requires a blueprint to build, so most experienced players opt for a warship miner such as the Eos or Ozark instead. Much like other fighter-style miners, it is fragile.\nAs a faction ship, its blueprint must be purchased using Loyalty Points at a faction terminal or from other players, making it less accessible to new or neutral players."
+      },
+      {
+        "title": "Trivia",
+        "content": "The current Koronis is modeled by Ocean_tsunamii.\nThe Koronis is the only ship whose blueprint can be acquired from more than one faction.\nMiners\nLine\nT1\nT2\nCorvette\nFrigate\nDestroyer\nBadger\nBadger\nHoney Badger\nMarlin\nMarlin\nMako\nEverest\nOzark\nKodiak\nYukon\nEos\nKoronis\nEos\nVesta"
+      }
+    ],
+    "infobox": "Koronis\nShip Class\nMiner\nField Stats\nDPS\n106\nShield\nShield Regen\nDeflection\n200\n2\n0\nHull\nHull Regen\nArmor\n300\n0\n0\nEnergy\nEnergy Regen\n120\n1.4\nSpeed\nAcceleration\nAgility\n330\n220\n135\nOther Stats\nWarp Speed\nCharge Time\n0.80\n4\nSignal Range\nSensor Strength\n5000\n25\nCargo Slots\n2\nCustomization\nFighter Hardpoints\nMining Hardpoints\nPDT Hardpoints\n0\n1\n1\nWEP\nDEF\nENG\nRCT\n1\n0\n2\n2\nSubsystems\n2\nCrafting\nNPC Buy\nNPC Sell\n-\n1200\nVolume\nTime\n100 m3\n5:00\nKorrelite\nReknite\nGellium\nAxnit\n300\n120\n30\n-\nBlucor\nRedcor\nVexnium\nWater\n-\n-\n-\n-\nComponent\nAmount\nKoronis Blueprint\n1"
+  },
+  "images": [
+    "https://static.wikia.nocookie.net/starscape-roblox/images/b/be/Koronis.png/revision/latest?cb=20220309222310"
+  ]
+}

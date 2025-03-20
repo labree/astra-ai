@@ -1,0 +1,28 @@
+{
+  "title": "Edict",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Edict",
+  "summary": "\"The Edict corvette is a tough and agile warship. It is commonly used by the Kavani in patrol and rapid response fleets.\"",
+  "full_text": "Edict\n\"The Edict corvette is a tough and agile warship. It is commonly used by the Kavani in patrol and rapid response fleets.\"\nThe Edict is a corvette-class ship of the Kavani ship line. It is best suited as a fast tech-based ship due to its high energy and subsystem slots.\nAdvantages\nThe Edict has impressive energy for a corvette, and can make good use of its subsystem slots. While the base stats of the Edict are not impressive alone, augmented with subsystems and rigs makes it a deadly ship in the hand of an aware pilot.\nDisadvantages\nDue to the Edict's reliance on modules, it can be very expensive to replace if modules are lost in combat. In addition, it is more fragile compared to other corvette-class ships.\nBecause Edict is seen to be very agile and dodging many turrets easily, if the Edict get into a Stasis Field, its speed and agility would degrade and can get hit by turrets easier, depending on what tier this subsystem is in.\nAdditionally, because of it's top-heavy turret placement, the Edict has limited options to defend itself from attacks from below, and should be wary of fighters sneaking under it to minimize the amount of damage they take.\nAs a faction ship, its blueprint must be purchased using Loyalty Points at a faction terminal or from other players, making it less accessible to new or neutral players.\nTrivia\n- The current Edict is modeled by Ocean_tsunamii.\nWarships\nLine\nCorvette\nFrigate\nDestroyer\nLegionis\nChevron\nPhalanx\nEchelon\nConstellation\nRadix\nHalo\nHorizon\nValiance\nInfinity\nAdamant\nFortitude\nStronghold\nBulwark\nMegalodon\nKnifejaw\nBarracuda\nLoxodon\nMandator\nEdict\nJudicator\nConciliator\nRighteous\nLiberty\nVirtue\nJustice\nMandator Line\nInterceptor\nFighter\nCorvette\nFrigate\nDestroyer\nCruiser\nBattleship\nT1\nParrot\nToucan\nEdict\nJudicator\nConciliator\nSubjugator\nConqueror\nT2\nMacaw\nHornbill\nExotic",
+  "content_structure": {
+    "title": "Edict",
+    "content": "\"The Edict corvette is a tough and agile warship. It is commonly used by the Kavani in patrol and rapid response fleets.\"\nThe Edict is a corvette-class ship of the Kavani ship line. It is best suited as a fast tech-based ship due to its high energy and subsystem slots.",
+    "sections": [
+      {
+        "title": "Advantages",
+        "content": "The Edict has impressive energy for a corvette, and can make good use of its subsystem slots. While the base stats of the Edict are not impressive alone, augmented with subsystems and rigs makes it a deadly ship in the hand of an aware pilot."
+      },
+      {
+        "title": "Disadvantages",
+        "content": "Due to the Edict's reliance on modules, it can be very expensive to replace if modules are lost in combat. In addition, it is more fragile compared to other corvette-class ships.\nBecause Edict is seen to be very agile and dodging many turrets easily, if the Edict get into a Stasis Field, its speed and agility would degrade and can get hit by turrets easier, depending on what tier this subsystem is in.\nAdditionally, because of it's top-heavy turret placement, the Edict has limited options to defend itself from attacks from below, and should be wary of fighters sneaking under it to minimize the amount of damage they take.\nAs a faction ship, its blueprint must be purchased using Loyalty Points at a faction terminal or from other players, making it less accessible to new or neutral players."
+      },
+      {
+        "title": "Trivia",
+        "content": "- The current Edict is modeled by Ocean_tsunamii.\nWarships\nLine\nCorvette\nFrigate\nDestroyer\nLegionis\nChevron\nPhalanx\nEchelon\nConstellation\nRadix\nHalo\nHorizon\nValiance\nInfinity\nAdamant\nFortitude\nStronghold\nBulwark\nMegalodon\nKnifejaw\nBarracuda\nLoxodon\nMandator\nEdict\nJudicator\nConciliator\nRighteous\nLiberty\nVirtue\nJustice\nMandator Line\nInterceptor\nFighter\nCorvette\nFrigate\nDestroyer\nCruiser\nBattleship\nT1\nParrot\nToucan\nEdict\nJudicator\nConciliator\nSubjugator\nConqueror\nT2\nMacaw\nHornbill\nExotic"
+      }
+    ],
+    "infobox": "Edict\nShip Class\nCorvette\nField Stats\nDPS\n193\nShield\nShield Regen\nDeflection\n1500\n15\n2\nHull\nHull Regen\nArmor\n3500\n0\n1.5\nEnergy\nEnergy Regen\n420\n5\nSpeed\nAcceleration\nAgility\n220\n100\n60\nOther Stats\nWarp Speed\nCharge Time\n0.95\n4\nSignal Range\nSensor Strength\n6500\n35\nCustomization\nPDT Turrets\nSmall Turrets\nMed. Turrets\n2\n4\n0\nWEP\nDEF\nENG\nRCT\n1\n0\n1\n2\nSubsystems\n2\nCrafting\nNPC Buy\nNPC Sell\n-\n10000\nVolume\nTime\n225 m3\n1:00:00\nKorrelite\nReknite\nGellium\nAxnit\n2000\n1200\n750\n300\nBlucor\nRedcor\nVexnium\nWater\n100\n-\n-\n-\nComponent\nAmount\nEdict Blueprint\n1"
+  },
+  "images": [
+    "https://static.wikia.nocookie.net/starscape-roblox/images/8/84/Edict.png/revision/latest?cb=20220309210356"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "title": "SSLB",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/SSLB",
+  "summary": "The SSLB is a tier 3 automatic rifle that can be bought through Lycentian faction terminals.",
+  "full_text": "SSLB\nThe SSLB is a tier 3 automatic rifle that can be bought through Lycentian faction terminals.\nFull Statistics\nDamage per second\n53.3\nDamage per shot\n10\nRate of fire\n320\nLaser speed\n450\nHeat per second\n18.6\nSpread\n6\nWeight\n0.6\nAction\nAuto\nLaser color\nWhite\nVolume\n1 m3",
+  "content_structure": {
+    "title": "SSLB",
+    "content": "The SSLB is a tier 3 automatic rifle that can be bought through Lycentian faction terminals.",
+    "sections": [
+      {
+        "title": "Full Statistics",
+        "content": "Damage per second\n53.3\nDamage per shot\n10\nRate of fire\n320\nLaser speed\n450\nHeat per second\n18.6\nSpread\n6\nWeight\n0.6\nAction\nAuto\nLaser color\nWhite\nVolume\n1 m3"
+      }
+    ],
+    "infobox": "SSLB\nThe SSLB is a capable rifle that is the weapon of choice for Lycentian marines.\nSource\nLycentian Faction Terminals\nCost to buy\n1200\nCost to sell\n600"
+  },
+  "images": [
+    "https://static.wikia.nocookie.net/starscape-roblox/images/0/09/SSLB.png/revision/latest?cb=20201204010254"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Ion turret",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Ion_turret",
+  "summary": "Small Turrets can only be equipped onto ships with S Turret Slots. Small ships such as Badger, Aurora, or Bison do not have S turret slots and cannot have S-turrets equipped. For the small autoturrets that some small ships have, see PDT.",
+  "full_text": "Ion turret\nSmall Turrets can only be equipped onto ships with S Turret Slots. Small ships such as Badger, Aurora, or Bison do not have S turret slots and cannot have S-turrets equipped. For the small autoturrets that some small ships have, see PDT.\nIon Turrets (Small)\nIon turrets are like inverted coilguns. They do 0.65x damage do hull, and 1.25x damage to shield.\nBecause most ships are hull-based, these turrets are not popular; however, they would be quite effective against Righteous-line or Constellation-line ships.\n Ion turrets come in Tier 1, Tier 2, Tier 3, and an Exotic variant. The Ion turret's only Exotic variant is Hybrid. Hybrid Ion turrets must be crafted from Drone Cores, Power Cells, a Tier 3 Ion turret, and a Hybrid Ion blueprint dropped by high-tier Drones and Drone Factories.\nIon-M Turrets (Medium)\nIon-M turrets are very similar to their S variant. They have greater firepower and lower maneuverability. Medium turrets can only be equipped onto ships with Medium Turret Slots.\nIon-M turrets can be Tier 1, Tier 2, Tier 3, or an Exotic variant. The Ion-M's only Exotic variant is Hybrid. Hybrid Ion-M turrets must be crafted from Drone Cores, a Tier 3 Ion-M turret, and a Hybrid Ion-M blueprint dropped by high-tier Drones and Drone Factories.\nManufacturing\nIon (Small)\nTier 1\n80 Korrelite, 60 Reknite, 40 Gellium\nTier 2\n40 Axnit, 20 Narcor, Ion I\nTier 3\n20 Red Narcor, Ion II\nHybrid\n10 Drone core, 10 Power cell, Ion III, Hybrid Ion blueprint\nIon-M (Medium)\nTier 1\n160 Korrelite, 120 Reknite, 80 Gellium\nTier 2\n80 Axnit, 40 Narcor, Ion-M I\nTier 3\n40 Red Narcor, Ion-M II\nHybrid\n20 Drone core, 20 Power cell, Ion-M III, Hybrid Ion-M blueprint",
+  "content_structure": {
+    "title": "Ion turret",
+    "content": "Small Turrets can only be equipped onto ships with S Turret Slots. Small ships such as Badger, Aurora, or Bison do not have S turret slots and cannot have S-turrets equipped. For the small autoturrets that some small ships have, see PDT.",
+    "sections": [
+      {
+        "title": "Ion Turrets (Small)",
+        "content": "Ion turrets are like inverted coilguns. They do 0.65x damage do hull, and 1.25x damage to shield.\nBecause most ships are hull-based, these turrets are not popular; however, they would be quite effective against Righteous-line or Constellation-line ships.\n Ion turrets come in Tier 1, Tier 2, Tier 3, and an Exotic variant. The Ion turret's only Exotic variant is Hybrid. Hybrid Ion turrets must be crafted from Drone Cores, Power Cells, a Tier 3 Ion turret, and a Hybrid Ion blueprint dropped by high-tier Drones and Drone Factories."
+      },
+      {
+        "title": "Ion-M Turrets (Medium)",
+        "content": "Ion-M turrets are very similar to their S variant. They have greater firepower and lower maneuverability. Medium turrets can only be equipped onto ships with Medium Turret Slots.\nIon-M turrets can be Tier 1, Tier 2, Tier 3, or an Exotic variant. The Ion-M's only Exotic variant is Hybrid. Hybrid Ion-M turrets must be crafted from Drone Cores, a Tier 3 Ion-M turret, and a Hybrid Ion-M blueprint dropped by high-tier Drones and Drone Factories."
+      },
+      {
+        "title": "Manufacturing",
+        "content": "Ion (Small)\nTier 1\n80 Korrelite, 60 Reknite, 40 Gellium\nTier 2\n40 Axnit, 20 Narcor, Ion I\nTier 3\n20 Red Narcor, Ion II\nHybrid\n10 Drone core, 10 Power cell, Ion III, Hybrid Ion blueprint\nIon-M (Medium)\nTier 1\n160 Korrelite, 120 Reknite, 80 Gellium\nTier 2\n80 Axnit, 40 Narcor, Ion-M I\nTier 3\n40 Red Narcor, Ion-M II\nHybrid\n20 Drone core, 20 Power cell, Ion-M III, Hybrid Ion-M blueprint"
+      }
+    ],
+    "infobox": "Ion Turret\nDamage per shot\n20 (Tier 1) to 23 (Hybrid)\nRate of fire\n120\nDamage per second\n40 (Tier 1) to 46 (Hybrid)\nProjectile Speed\n2000\nProjectile Range\n4000\nTurn Speed\n70\nShield Multiplier\nHull Multiplier\n1.25\n0.65\nIon-M Turret\nDamage per shot\n45 (Tier 1) to 54 (Hybrid)\nRate of fire\n120\nDamage per second\n90 (Tier 1) to 108 (Hybrid)\nProjectile Speed\n2000\nProjectile Range\n4000\nTurn Speed\n45\nShield Multiplier\nHull Multiplier\n1.25\n0.65"
+  },
+  "images": []
+}

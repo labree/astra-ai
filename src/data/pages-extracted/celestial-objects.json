@@ -1,0 +1,29 @@
+{
+  "title": "Celestial Objects",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Celestial_Objects",
+  "summary": "Celestial objects are objects in solar systems on the macro scale - planets, rings and moons that make up the playable space of Starscape.",
+  "full_text": "Celestial Objects\nCelestial objects are objects in solar systems on the macro scale - planets, rings and moons that make up the playable space of Starscape.\nPlanets\nPlanets can be found in every system, and every planet (except for those in Uncharted Gate Systems) can be warped to without scanning or probing. They are the hubs when you warp into the system and will always be the same planet you will warp into if you're warping from the same system. This could lead to system camping, where pirates could attack you as soon as you warp in as they predict what planet you will warp to. Planets could be filled with stations, asteroid fields, spice platforms, graveyards, and minefields.\nRings\nRings are found at planets that could be warped into with light cruise, using 10% of your energy and could be seen orbiting around a planet like a ring. (Hence the ring name) Inside rings, there could be asteroids and soon ice inside the rings that players could mine. Rings can also have aberrations, like deposits, which can have more high-quality ores, or rarely X-Structures, which store rare and common loot only found in more dangerous systems. Aberrations can only be warped into with a planet probe scanning the ring.\nMoons\nMoons can be found in orbit around planets (after zooming in). Players can align to these moons, but there is currently not much else you can do with them - you can't warp to them or interact at all.\nStars\nStars are found in every system. They are the center of all of the planets, and you can click on them for more details. You cannot warp to them or interact with them but you they can help you find intact x structures by changing your map filter to spectral class. The spectral class of these stars shows how hot they are and which type of stars they are.",
+  "content_structure": {
+    "title": "Celestial Objects",
+    "content": "Celestial objects are objects in solar systems on the macro scale - planets, rings and moons that make up the playable space of Starscape.",
+    "sections": [
+      {
+        "title": "Planets",
+        "content": "Planets can be found in every system, and every planet (except for those in Uncharted Gate Systems) can be warped to without scanning or probing. They are the hubs when you warp into the system and will always be the same planet you will warp into if you're warping from the same system. This could lead to system camping, where pirates could attack you as soon as you warp in as they predict what planet you will warp to. Planets could be filled with stations, asteroid fields, spice platforms, graveyards, and minefields."
+      },
+      {
+        "title": "Rings",
+        "content": "Rings are found at planets that could be warped into with light cruise, using 10% of your energy and could be seen orbiting around a planet like a ring. (Hence the ring name) Inside rings, there could be asteroids and soon ice inside the rings that players could mine. Rings can also have aberrations, like deposits, which can have more high-quality ores, or rarely X-Structures, which store rare and common loot only found in more dangerous systems. Aberrations can only be warped into with a planet probe scanning the ring."
+      },
+      {
+        "title": "Moons",
+        "content": "Moons can be found in orbit around planets (after zooming in). Players can align to these moons, but there is currently not much else you can do with them - you can't warp to them or interact at all."
+      },
+      {
+        "title": "Stars",
+        "content": "Stars are found in every system. They are the center of all of the planets, and you can click on them for more details. You cannot warp to them or interact with them but you they can help you find intact x structures by changing your map filter to spectral class. The spectral class of these stars shows how hot they are and which type of stars they are."
+      }
+    ]
+  },
+  "images": []
+}

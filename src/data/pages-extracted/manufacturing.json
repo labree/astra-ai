@@ -1,0 +1,51 @@
+{
+  "title": "Manufacturing",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Manufacturing",
+  "summary": "Crafting is a system in Starscape that allows you to create and upgrade certain items using materials you've collected throughout the universe.",
+  "full_text": "Manufacturing\nCrafting is a system in Starscape that allows you to create and upgrade certain items using materials you've collected throughout the universe.\nAnother word of importance is that it will only be made and completed at the Manufacturing bay you originally made it. That means, yes, you have to go back all the way to that system, find the station, and go into the menu to collect it.\nCraftable items\n\nShips\nYou cannot craft a Stratos.\nSHIP TYPE\nTIME TO CRAFT\nINTERCEPTOR (T1)\n5m\nFIGHTER (T1)\nMINER (T1)\nINTERCEPTOR (T2)\n10m\nFIGHTER (T2)\nMINER (T2)\n10m or 15m\nHYBRID SHIPS\n1h\nCORVETTES\nFRIGATES\n2h 30m\nDESTROYERS\n6h\nModules\nYou can craft T1, T2, and T3 modules.\nYou cannot craft Exotic modules.\nYou cannot craft Lightburners.\nModules take 30 seconds to craft.\nTurrets\nYou can craft T1, T2, T3, Hybrid, and Dread turrets.\nYou cannot craft Ancient turrets.\nSmall turrets take 30 seconds to craft, Medium turrets 1 minute and Mining turrets - 10 seconds.\nDeployables\nYou can craft Spacemines.\nYou cannot craft Fireworks.\nYou can craft Warp Disruptors of T1-T3\nDeployables take 10 seconds to craft.\nWeapons\nYou can craft Pistols and Rifles.\nWeapons take 10 seconds to craft.\nArmor\nYou can craft Helmets, Torsos and Legs.\nArmor takes 10 seconds to craft.\nComponents\nYou can craft a Heat Sink.\nComponents take 10 seconds to craft.\nTrivia\nLeaving the game while crafting something that takes long will still craft and will continue crafting untill the craft is done.\nAs of the \"Getting Around\" Update there is only one craftable component in the game - that being the Heat Sink.",
+  "content_structure": {
+    "title": "Manufacturing",
+    "content": "Crafting is a system in Starscape that allows you to create and upgrade certain items using materials you've collected throughout the universe.\nAnother word of importance is that it will only be made and completed at the Manufacturing bay you originally made it. That means, yes, you have to go back all the way to that system, find the station, and go into the menu to collect it.",
+    "sections": [
+      {
+        "title": "Craftable items",
+        "content": "",
+        "sections": [
+          {
+            "title": "Ships",
+            "content": "You cannot craft a Stratos.\nSHIP TYPE\nTIME TO CRAFT\nINTERCEPTOR (T1)\n5m\nFIGHTER (T1)\nMINER (T1)\nINTERCEPTOR (T2)\n10m\nFIGHTER (T2)\nMINER (T2)\n10m or 15m\nHYBRID SHIPS\n1h\nCORVETTES\nFRIGATES\n2h 30m\nDESTROYERS\n6h"
+          },
+          {
+            "title": "Modules",
+            "content": "You can craft T1, T2, and T3 modules.\nYou cannot craft Exotic modules.\nYou cannot craft Lightburners.\nModules take 30 seconds to craft."
+          },
+          {
+            "title": "Turrets",
+            "content": "You can craft T1, T2, T3, Hybrid, and Dread turrets.\nYou cannot craft Ancient turrets.\nSmall turrets take 30 seconds to craft, Medium turrets 1 minute and Mining turrets - 10 seconds."
+          },
+          {
+            "title": "Deployables",
+            "content": "You can craft Spacemines.\nYou cannot craft Fireworks.\nYou can craft Warp Disruptors of T1-T3\nDeployables take 10 seconds to craft."
+          },
+          {
+            "title": "Weapons",
+            "content": "You can craft Pistols and Rifles.\nWeapons take 10 seconds to craft."
+          },
+          {
+            "title": "Armor",
+            "content": "You can craft Helmets, Torsos and Legs.\nArmor takes 10 seconds to craft."
+          },
+          {
+            "title": "Components",
+            "content": "You can craft a Heat Sink.\nComponents take 10 seconds to craft."
+          }
+        ]
+      },
+      {
+        "title": "Trivia",
+        "content": "Leaving the game while crafting something that takes long will still craft and will continue crafting untill the craft is done.\nAs of the \"Getting Around\" Update there is only one craftable component in the game - that being the Heat Sink."
+      }
+    ]
+  },
+  "images": []
+}

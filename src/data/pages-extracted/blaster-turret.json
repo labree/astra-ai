@@ -1,0 +1,26 @@
+{
+  "title": "Blaster Turret",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Blaster_Turret",
+  "summary": "Small Turrets can only be equipped onto ships with S Turret Slots. Small ships such as Badger, Aurora, or Bison do not have S turret slots and cannot have S-turrets equipped. For the small autoturrets that some small ships have, see PDT.",
+  "full_text": "Blaster Turret\nSmall Turrets can only be equipped onto ships with S Turret Slots. Small ships such as Badger, Aurora, or Bison do not have S turret slots and cannot have S-turrets equipped. For the small autoturrets that some small ships have, see PDT.\nBlaster Turrets\nBlaster turrets are well-rounded , fast-firing energy-based turrets. These turrets have an average turn rate, average accuracy, and deal average damage. They have no buffs or debuffs against certain types of health. \nBlasters come in Tier 1, Tier 2, Tier 3, and an Exotic variant. The Blaster's Exotic variant is Hybrid. Hybrid Blasters must be crafted from Drone Cores, a Tier 3 Blaster, and a Hybrid Blaster blueprint dropped by high-tier Drones and Drone Factories. \nBlaster-M Turrets\nBlaster-M turrets are very similar to their S variant. They have greater firepower and lower maneuverability. Medium turrets can only be equipped onto ships with Medium Turret Slots.\nBlaster-M turrets can be Tier 1, Tier 2, Tier 3, or an Exotic variant. The Blaster-M's only Exotic variant is Hybrid. Hybrid Blaster-M turrets must be crafted from Drone Cores, a Tier 3 Beam-M turret, and a Hybrid Blaster-M blueprint dropped by high-tier Drones and Drone Factories.\nManufacturing\nManufacturing costs are listed as below:\nBlaster\nTier 1\n80 Korrelite, 60 Reknite, 40 Gellium\nTier 2\n40 Axnit, 20 Narcor, Blaster I\nTier 3\n20 Red Narcor, Blaster II\nHybrid\n10 Drone core, 10 Power cell, Blaster III, Hybrid Blaster blueprint\nBlaster-M\nTier 1\n160 Korrelite, 120 Reknite, 80 Gellium\nTier 2\n80 Axnit, 40 Nacor, Blaster-M I\nTier 3\n40 Red Nacor, Blaster-M II\nHybrid\n20 Drone core, 20 Power cell, Blaster-M III, Hybrid Blaster-M blueprint",
+  "content_structure": {
+    "title": "Blaster Turret",
+    "content": "Small Turrets can only be equipped onto ships with S Turret Slots. Small ships such as Badger, Aurora, or Bison do not have S turret slots and cannot have S-turrets equipped. For the small autoturrets that some small ships have, see PDT.",
+    "sections": [
+      {
+        "title": "Blaster Turrets",
+        "content": "Blaster turrets are well-rounded , fast-firing energy-based turrets. These turrets have an average turn rate, average accuracy, and deal average damage. They have no buffs or debuffs against certain types of health. \nBlasters come in Tier 1, Tier 2, Tier 3, and an Exotic variant. The Blaster's Exotic variant is Hybrid. Hybrid Blasters must be crafted from Drone Cores, a Tier 3 Blaster, and a Hybrid Blaster blueprint dropped by high-tier Drones and Drone Factories. "
+      },
+      {
+        "title": "Blaster-M Turrets",
+        "content": "Blaster-M turrets are very similar to their S variant. They have greater firepower and lower maneuverability. Medium turrets can only be equipped onto ships with Medium Turret Slots.\nBlaster-M turrets can be Tier 1, Tier 2, Tier 3, or an Exotic variant. The Blaster-M's only Exotic variant is Hybrid. Hybrid Blaster-M turrets must be crafted from Drone Cores, a Tier 3 Beam-M turret, and a Hybrid Blaster-M blueprint dropped by high-tier Drones and Drone Factories."
+      },
+      {
+        "title": "Manufacturing",
+        "content": "Manufacturing costs are listed as below:\nBlaster\nTier 1\n80 Korrelite, 60 Reknite, 40 Gellium\nTier 2\n40 Axnit, 20 Narcor, Blaster I\nTier 3\n20 Red Narcor, Blaster II\nHybrid\n10 Drone core, 10 Power cell, Blaster III, Hybrid Blaster blueprint\nBlaster-M\nTier 1\n160 Korrelite, 120 Reknite, 80 Gellium\nTier 2\n80 Axnit, 40 Nacor, Blaster-M I\nTier 3\n40 Red Nacor, Blaster-M II\nHybrid\n20 Drone core, 20 Power cell, Blaster-M III, Hybrid Blaster-M blueprint"
+      }
+    ],
+    "infobox": "Blaster Turret\nDamage per shot\n14 (Tier 1) to 17 (Hybrid)\nRate of fire\n180\nDamage per second\n42 (Tier 1) to 51 (Hybrid)\nProjectile Speed\n3200\nProjectile Range\n4200\nTurn Speed\n80\nShield Multiplier\nHull Multiplier\n1\n1\nBlaster-M Turret\nDamage per shot\n32 (Tier 1) to 38 (Hybrid)\nRate of fire\n180\nDamage per second\n96 (Tier 1) to 114 (Hybrid)\nProjectile Speed\n2500\nProjectile Range\n4000\nTurn Speed\n45\nShield Multiplier\nHull Multiplier\n1\n1"
+  },
+  "images": []
+}

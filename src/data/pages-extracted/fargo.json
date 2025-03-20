@@ -1,0 +1,28 @@
+{
+  "title": "Fargo",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Fargo",
+  "summary": "\"The Fargo is an entry-level vendor, a ship with the ability to sell items directly to other pilots through its onboard store.\"",
+  "full_text": "Fargo\n\"The Fargo is an entry-level vendor, a ship with the ability to sell items directly to other pilots through its onboard store.\"\nThe Fargo is a vendor-class ship of the Fargo line that can sell up to 4 items at a time in the same way that Trade Union and Syndicate ships sell items in space.\nAdvantages\nThe Fargo provides a unique way to sell items to other players. Selling items from a Fargo offers higher visibility than placing an item on the market while also being less hassle than a direct trade. If the marketplace is taken offline, vendors become the best option to sell items.\nDisadvantages\nThe Fargo has no weaponry of any kind, leaving it completely unable to defend itself. It's also very slow, with poor acceleration, low top speed, and slow warp speed. It's a less capable vendor than the Yuma, with 2 display screens instead of 4 and less than half the item capacity.\nTrivia\nThe crafting recipe was removed in the Next Gen Update, but was later added back Version 11.2.0, along with the Yuma.\nBecause it has no weapons whatsoever, its weapon rig slot is completely useless.\nThe current Fargo is modeled by Jeff_D.\nVendors\nShip Line\nT1\nT2\nFargo\nFargo\nYuma",
+  "content_structure": {
+    "title": "Fargo",
+    "content": "\"The Fargo is an entry-level vendor, a ship with the ability to sell items directly to other pilots through its onboard store.\"\nThe Fargo is a vendor-class ship of the Fargo line that can sell up to 4 items at a time in the same way that Trade Union and Syndicate ships sell items in space.",
+    "sections": [
+      {
+        "title": "Advantages",
+        "content": "The Fargo provides a unique way to sell items to other players. Selling items from a Fargo offers higher visibility than placing an item on the market while also being less hassle than a direct trade. If the marketplace is taken offline, vendors become the best option to sell items."
+      },
+      {
+        "title": "Disadvantages",
+        "content": "The Fargo has no weaponry of any kind, leaving it completely unable to defend itself. It's also very slow, with poor acceleration, low top speed, and slow warp speed. It's a less capable vendor than the Yuma, with 2 display screens instead of 4 and less than half the item capacity."
+      },
+      {
+        "title": "Trivia",
+        "content": "The crafting recipe was removed in the Next Gen Update, but was later added back Version 11.2.0, along with the Yuma.\nBecause it has no weapons whatsoever, its weapon rig slot is completely useless.\nThe current Fargo is modeled by Jeff_D.\nVendors\nShip Line\nT1\nT2\nFargo\nFargo\nYuma"
+      }
+    ],
+    "infobox": "Fargo\nShip Class\nVendor\nField Stats\nDPS\n0\nShield\nShield Regen\nDeflection\n100\n1\n0\nHull\nHull Regen\nArmor\n300\n0\n0\nEnergy\nEnergy Regen\n125\n4.5\nSpeed\nAcceleration\nAgility\n160\n60\n75\nOther Stats\nWarp Speed\nCharge Time\n0.70\n5\nSignal Range\nSensor Strength\n5000\n25\nCustomization\nFighter Hardpoints\nMining Hardpoints\nPDT Hardpoints\n0\n0\n0\nWEP\nDEF\nENG\nRCT\n1\n1\n1\n1\nSubsystems\n1\nCrafting\nNPC Buy\nNPC Sell\n1500\n750\nVolume\nTime\n100 m3\n7:30\nKorrelite\nReknite\nGellium\nAxnit\n200\n60\n30\n-\nBlucor\nRedcor\nVexnium\nWater\n-\n-\n-\n-"
+  },
+  "images": [
+    "https://static.wikia.nocookie.net/starscape-roblox/images/a/a3/Fargo.png/revision/latest?cb=20241217032736"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Shrapnel turret",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Shrapnel_turret",
+  "summary": "Small Turrets can only be equipped onto ships with S Turret Slots. Small ships such as Badger, Aurora, or Bison do not have S turret slots and cannot have S-turrets equipped. For the small autoturrets that some small ships have, see PDT.",
+  "full_text": "Shrapnel turret\nSmall Turrets can only be equipped onto ships with S Turret Slots. Small ships such as Badger, Aurora, or Bison do not have S turret slots and cannot have S-turrets equipped. For the small autoturrets that some small ships have, see PDT.\nShrapnel Turret (Small)\nShrapnel turrets are kinetic turret similar to a real-life shotgun. They are unique in that they fire 5 projectiles in a spread pattern.\nIt is best used for close-range engagements against warships. In large quantities, it can also produce a screen of projectiles useful for keeping away fighters.\nShrapnel turrets come in Tier 1, Tier 2, Tier 3, and an Exotic variant. The Shrapnel turret's only Exotic variant is Dread. Dread Shrapnel turrets must be crafted from scrap, a Tier 3 Shrapnel turret, and a Dread Shrapnel blueprint, obtained from Dread Pirates and Pirate Dens.\nShrapnel does not have a Medium variant.\nManufacturing\nThe manufacturing costs for each Shrapnel variant are listed as follows:\nShrapnel (Small)\nTier 1\n80 Korrelite, 60 Reknite, 40 Gellium\nTier 2\n40 Axnit, 20 Narcor, Shrapnel I\nTier 3\n20 Red Narcor, Shrapnel II\nDread\n100 Metal scraps, 10 Power cell, Shrapnel III, Dread Shrapnel blueprint",
+  "content_structure": {
+    "title": "Shrapnel turret",
+    "content": "Small Turrets can only be equipped onto ships with S Turret Slots. Small ships such as Badger, Aurora, or Bison do not have S turret slots and cannot have S-turrets equipped. For the small autoturrets that some small ships have, see PDT.",
+    "sections": [
+      {
+        "title": "Shrapnel Turret (Small)",
+        "content": "Shrapnel turrets are kinetic turret similar to a real-life shotgun. They are unique in that they fire 5 projectiles in a spread pattern.\nIt is best used for close-range engagements against warships. In large quantities, it can also produce a screen of projectiles useful for keeping away fighters.\nShrapnel turrets come in Tier 1, Tier 2, Tier 3, and an Exotic variant. The Shrapnel turret's only Exotic variant is Dread. Dread Shrapnel turrets must be crafted from scrap, a Tier 3 Shrapnel turret, and a Dread Shrapnel blueprint, obtained from Dread Pirates and Pirate Dens.\nShrapnel does not have a Medium variant."
+      },
+      {
+        "title": "Manufacturing",
+        "content": "The manufacturing costs for each Shrapnel variant are listed as follows:\nShrapnel (Small)\nTier 1\n80 Korrelite, 60 Reknite, 40 Gellium\nTier 2\n40 Axnit, 20 Narcor, Shrapnel I\nTier 3\n20 Red Narcor, Shrapnel II\nDread\n100 Metal scraps, 10 Power cell, Shrapnel III, Dread Shrapnel blueprint"
+      }
+    ],
+    "infobox": "Shrapnel Turret\nDamage per shot\n100 (Tier 1) to 115 (Dread)\nRate of fire\n35\nDamage per second\n58.3 (Tier 1) to 67.1 (Dread)\nProjectile Speed\n1500\nProjectile Range\n2500\nTurn Speed\n50\nShield Multiplier\nHull Multiplier\n0.65\n1.25"
+  },
+  "images": []
+}

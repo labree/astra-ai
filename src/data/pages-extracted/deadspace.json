@@ -1,0 +1,25 @@
+{
+  "title": "Deadspace",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Deadspace",
+  "summary": "Deadspace is a playable area in Starscape that cannot be visited without specific credentials. For example, mission sites are only accessible by the player who accepted the missions and their squad members. Squads bypass deadspace restrictions - anyone in your squad can warp towards your location.",
+  "full_text": "Deadspace\nDeadspace is a playable area in Starscape that cannot be visited without specific credentials. For example, mission sites are only accessible by the player who accepted the missions and their squad members. Squads bypass deadspace restrictions - anyone in your squad can warp towards your location.\nMissions\nMission sites are accepted from an agent at a Field Office. They can only ever be accessed by your player, and disappear once complete and you leave.\nAncient Structures\nIf you have an Ancient Beacon and navigate to the correct system, a deadspace Ancient Structure is generated. No other player can warp to this unless they are in your squad.\nAberrations\nAny normally warpable aberration will become a deadspace site after all crates are looted or asteroids are mined. Leaving a looted aberration will make it disappear from your map, but users still inside will remain there.",
+  "content_structure": {
+    "title": "Deadspace",
+    "content": "Deadspace is a playable area in Starscape that cannot be visited without specific credentials. For example, mission sites are only accessible by the player who accepted the missions and their squad members. Squads bypass deadspace restrictions - anyone in your squad can warp towards your location.",
+    "sections": [
+      {
+        "title": "Missions",
+        "content": "Mission sites are accepted from an agent at a Field Office. They can only ever be accessed by your player, and disappear once complete and you leave."
+      },
+      {
+        "title": "Ancient Structures",
+        "content": "If you have an Ancient Beacon and navigate to the correct system, a deadspace Ancient Structure is generated. No other player can warp to this unless they are in your squad."
+      },
+      {
+        "title": "Aberrations",
+        "content": "Any normally warpable aberration will become a deadspace site after all crates are looted or asteroids are mined. Leaving a looted aberration will make it disappear from your map, but users still inside will remain there."
+      }
+    ]
+  },
+  "images": []
+}

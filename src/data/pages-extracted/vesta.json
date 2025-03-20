@@ -1,0 +1,28 @@
+{
+  "title": "Vesta",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Vesta",
+  "summary": "“The Vesta is a large combined miner-hauler. While not as capable of a miner as the Kodiak, its cargo capacity allows it to sustain unaided mining expeditions for longer periods of time.”",
+  "full_text": "Vesta\n“The Vesta is a large combined miner-hauler. While not as capable of a miner as the Kodiak, its cargo capacity allows it to sustain unaided mining expeditions for longer periods of time.”\nThe Vesta is a miner-class ship of the Koronis Line. It is best suited as a powerful long-distance mining warship.\nAdvantages\nThe Vesta features 8 cargo slots, keeping in line with the Mining Guild line's focus on space. It can take longer trips into wild space, and is effectively a direct upgrade to the Eos. Were a Vesta to fill all its crates to the brim, it would outclass even the Yukon in terms of profit from a single run (50,000 refined common ores compared to the Yukon's 20,000). The Vesta also has a fair amount of PDT slots, along with a weapon rig, lending it more defensive capabilities compared to other warship miners that focus on industrial efficiency.\nDisadvantages\nAs a miner, it is less agile than other ships of its class. Due to its many cargo crates, it is a juicy target, and it does not have much in the way of combat capabilities: it has less hitpoints compared to other frigates, with rigs mostly focused on industry. Compared to the Kodiak, it has sacrificed mining efficiency for longer mining periods.\nAs a faction ship, its blueprint must be purchased using Loyalty Points at a faction terminal or from other players, making it less accessible to new or neutral players.\nTrivia\nThe current Vesta is modeled by swindle150 and ii_Cove.\nThe Vesta is most likely named after 4 Vesta, the second-largest protoplanet (to Ceres) in the asteroid belt. This is also supported by the fact that the shapes of the protoplanet and the ship are irregular.\nPrior to the Getting Around update, this was a Trade Union ship.\nMiners\nLine\nT1\nT2\nCorvette\nFrigate\nDestroyer\nBadger\nBadger\nHoney Badger\nMarlin\nMarlin\nMako\nEverest\nOzark\nKodiak\nYukon\nEos\nKoronis\nEos\nVesta",
+  "content_structure": {
+    "title": "Vesta",
+    "content": "“The Vesta is a large combined miner-hauler. While not as capable of a miner as the Kodiak, its cargo capacity allows it to sustain unaided mining expeditions for longer periods of time.”\nThe Vesta is a miner-class ship of the Koronis Line. It is best suited as a powerful long-distance mining warship.",
+    "sections": [
+      {
+        "title": "Advantages",
+        "content": "The Vesta features 8 cargo slots, keeping in line with the Mining Guild line's focus on space. It can take longer trips into wild space, and is effectively a direct upgrade to the Eos. Were a Vesta to fill all its crates to the brim, it would outclass even the Yukon in terms of profit from a single run (50,000 refined common ores compared to the Yukon's 20,000). The Vesta also has a fair amount of PDT slots, along with a weapon rig, lending it more defensive capabilities compared to other warship miners that focus on industrial efficiency."
+      },
+      {
+        "title": "Disadvantages",
+        "content": "As a miner, it is less agile than other ships of its class. Due to its many cargo crates, it is a juicy target, and it does not have much in the way of combat capabilities: it has less hitpoints compared to other frigates, with rigs mostly focused on industry. Compared to the Kodiak, it has sacrificed mining efficiency for longer mining periods.\nAs a faction ship, its blueprint must be purchased using Loyalty Points at a faction terminal or from other players, making it less accessible to new or neutral players."
+      },
+      {
+        "title": "Trivia",
+        "content": "The current Vesta is modeled by swindle150 and ii_Cove.\nThe Vesta is most likely named after 4 Vesta, the second-largest protoplanet (to Ceres) in the asteroid belt. This is also supported by the fact that the shapes of the protoplanet and the ship are irregular.\nPrior to the Getting Around update, this was a Trade Union ship.\nMiners\nLine\nT1\nT2\nCorvette\nFrigate\nDestroyer\nBadger\nBadger\nHoney Badger\nMarlin\nMarlin\nMako\nEverest\nOzark\nKodiak\nYukon\nEos\nKoronis\nEos\nVesta"
+      }
+    ],
+    "infobox": "Vesta\nShip Class\nMiner\nSpecial\nMining Rate +75%Tractor Speed +50%Turret Damage -20%\nField Stats\nDPS\n218\nShield\nShield Regen\nDeflection\n1250\n6\n1\nHull\nHull Regen\nArmor\n4000\n0\n3\nEnergy\nEnergy Regen\n600\n5.4\nSpeed\nAcceleration\nAgility\n134\n30\n41\nOther Stats\nWarp Speed\nCharge Time\n0.60\n4\nSignal Range\nSensor Strength\n8000\n40\nCargo Slots\n8\nCustomization\nPDT Turrets\nSmall Turrets\n4\n4\nWEP\nDEF\nENG\nRCT\n1\n1\n0\n1\nSubsystems\n1\nCrafting\nNPC Buy\nNPC Sell\n-\n20000\nVolume\nTime\n400 m3\n2:30:00\nKorrelite\nReknite\nGellium\nAxnit\n6000\n3400\n2050\n800\nBlucor\nRedcor\nVexnium\nWater\n300\n100\n-\n-\nComponent\nAmount\nVesta Blueprint\n1"
+  },
+  "images": [
+    "https://static.wikia.nocookie.net/starscape-roblox/images/1/10/Vesta.png/revision/latest?cb=20220309222325"
+  ]
+}

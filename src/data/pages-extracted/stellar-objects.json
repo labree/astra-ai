@@ -1,0 +1,35 @@
+{
+  "title": "Stellar Objects",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Stellar_Objects",
+  "summary": "",
+  "full_text": "Stellar Objects\n\nOverview\nStellar Objects are non-interactable objects located at the playable area of a system, meaning unlike Stations, Spice Platforms, and Landmarks, they cannot be directly interacted with with the F key. This includes but is not limited to: Minefields, Wreckage Fields, Asteroid Fields, etc.\nMinefields\nMinefields generate in contested, unsecure, and wild systems. They regenerate after a certain period of time and can be detonated by going into the grey sphere, which is the activation range. It can also be detonated by shooting them. Using this to your advantage, you can go through minefields without dodging by shooting the mines beforehand. Mines can also create chain reactions if they are close enough, dealing more damage than intended. Mines currently deal 50 damage, so if you're in a warship, you're mostly safe.\nWreckage Fields\nThese are found in all but core systems, it resembles a battle that has happened in the area. You can scavenge these areas to find weapons, armor, junk, and ore. These are usually ignored for better loot elsewhere, as they have little to nothing of interest to the players. The crates will regenerate over time. The ships in the wreckage fields are legacy faction ships and fightercraft, and they might not be changing anytime soon. Drone ships can spawn here, but it's mostly harmless for the player unless you're in wild.\nAsteroid Fields\nFound in all types of systems, the asteroid field yields many types of ore, usually Korrelite, Reknite, and Gellium. In rare instances, you can also find axnit and narcor in more dangerous systems, like wild or unsecure/contested. These are used for new miners, but they will quickly realize that anomalies and R-Deposits will give higher quality ore than asteroid fields. These tend to have much larger asteroids than anomalies.\nNebula\nA fairly useless remains of a star that has experienced the last stages of its life. It is recognizable with the colorful space dust in the warp hub. Currently, it's not of use, but it may change in the future, with the announcing of player stations, players may be able to collect gas to use it as fuel to use it to power their stations.",
+  "content_structure": {
+    "title": "Stellar Objects",
+    "content": "",
+    "sections": [
+      {
+        "title": "Overview",
+        "content": "Stellar Objects are non-interactable objects located at the playable area of a system, meaning unlike Stations, Spice Platforms, and Landmarks, they cannot be directly interacted with with the F key. This includes but is not limited to: Minefields, Wreckage Fields, Asteroid Fields, etc.",
+        "sections": [
+          {
+            "title": "Minefields",
+            "content": "Minefields generate in contested, unsecure, and wild systems. They regenerate after a certain period of time and can be detonated by going into the grey sphere, which is the activation range. It can also be detonated by shooting them. Using this to your advantage, you can go through minefields without dodging by shooting the mines beforehand. Mines can also create chain reactions if they are close enough, dealing more damage than intended. Mines currently deal 50 damage, so if you're in a warship, you're mostly safe."
+          },
+          {
+            "title": "Wreckage Fields",
+            "content": "These are found in all but core systems, it resembles a battle that has happened in the area. You can scavenge these areas to find weapons, armor, junk, and ore. These are usually ignored for better loot elsewhere, as they have little to nothing of interest to the players. The crates will regenerate over time. The ships in the wreckage fields are legacy faction ships and fightercraft, and they might not be changing anytime soon. Drone ships can spawn here, but it's mostly harmless for the player unless you're in wild."
+          },
+          {
+            "title": "Asteroid Fields",
+            "content": "Found in all types of systems, the asteroid field yields many types of ore, usually Korrelite, Reknite, and Gellium. In rare instances, you can also find axnit and narcor in more dangerous systems, like wild or unsecure/contested. These are used for new miners, but they will quickly realize that anomalies and R-Deposits will give higher quality ore than asteroid fields. These tend to have much larger asteroids than anomalies."
+          },
+          {
+            "title": "Nebula",
+            "content": "A fairly useless remains of a star that has experienced the last stages of its life. It is recognizable with the colorful space dust in the warp hub. Currently, it's not of use, but it may change in the future, with the announcing of player stations, players may be able to collect gas to use it as fuel to use it to power their stations."
+          }
+        ]
+      }
+    ]
+  },
+  "images": []
+}

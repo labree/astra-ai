@@ -1,0 +1,28 @@
+{
+  "title": "Lucent",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Lucent",
+  "summary": "\"The Lucent is an upgraded variant of the Lycentian Luster fighter.\"",
+  "full_text": "Lucent\n\"The Lucent is an upgraded variant of the Lycentian Luster fighter.\"\nThe Lucent is a T2 fighter-class ship of the Lycentian Righteous line. It is best suited as a deflection-focused fighter.\nAdvantages\nThe Lucent ties with the Hybrid Luminar for the highest deflection rating of all fighters and can more effectively withstand PDTs.\nIt deals very high damage per-projectile, which helps it achieve quick kills.\nThe lucent has 2 defense modules, which can help make up for the low durability\nDisadvantages\nThe Lucent has weak overall durability, which can be exacerbated by certain modules, thus often necessitating repairer subsystems to offset this downside.\nThe lack of weapon rigs limits its damage potential, as being unable to boost its damage or lengthen its volleys of fire turns problematic quickly.\nAs a faction ship, its blueprint must be purchased using Loyalty Points at a faction terminal or from other players, making it less accessible to new or neutral players.\nTrivia\nThe current Lucent is modeled by ii_Cove.\nFighters\nLine\nT1\nT2\nExotic\nLegionis\nAurora\nLuminar\nHybrid Luminar\nStronghold\nSabre\nClaymore\nHybrid Claymore\nMegalodon\nPiranha\nThresher\nMandator\nToucan\nHornbill\nRighteous\nLuster\nLucent\nConstellation\nStratos\nRighteous Line\nInterceptor\nFighter\nCorvette\nFrigate\nDestroyer\nCruiser\nBattleship\nT1\nTetra\nLuster\nLiberty\nVirtue\nJustice\nDignity\nNobility\nT2\nTriazo\nLucent\nExotic",
+  "content_structure": {
+    "title": "Lucent",
+    "content": "\"The Lucent is an upgraded variant of the Lycentian Luster fighter.\"\nThe Lucent is a T2 fighter-class ship of the Lycentian Righteous line. It is best suited as a deflection-focused fighter.",
+    "sections": [
+      {
+        "title": "Advantages",
+        "content": "The Lucent ties with the Hybrid Luminar for the highest deflection rating of all fighters and can more effectively withstand PDTs.\nIt deals very high damage per-projectile, which helps it achieve quick kills.\nThe lucent has 2 defense modules, which can help make up for the low durability"
+      },
+      {
+        "title": "Disadvantages",
+        "content": "The Lucent has weak overall durability, which can be exacerbated by certain modules, thus often necessitating repairer subsystems to offset this downside.\nThe lack of weapon rigs limits its damage potential, as being unable to boost its damage or lengthen its volleys of fire turns problematic quickly.\nAs a faction ship, its blueprint must be purchased using Loyalty Points at a faction terminal or from other players, making it less accessible to new or neutral players."
+      },
+      {
+        "title": "Trivia",
+        "content": "The current Lucent is modeled by ii_Cove.\nFighters\nLine\nT1\nT2\nExotic\nLegionis\nAurora\nLuminar\nHybrid Luminar\nStronghold\nSabre\nClaymore\nHybrid Claymore\nMegalodon\nPiranha\nThresher\nMandator\nToucan\nHornbill\nRighteous\nLuster\nLucent\nConstellation\nStratos\nRighteous Line\nInterceptor\nFighter\nCorvette\nFrigate\nDestroyer\nCruiser\nBattleship\nT1\nTetra\nLuster\nLiberty\nVirtue\nJustice\nDignity\nNobility\nT2\nTriazo\nLucent\nExotic"
+      }
+    ],
+    "infobox": "Lucent\nShip Class\nFighter\nField Stats\nDPS\n220.1\nShield\nShield Regen\nDeflection\n300\n2.5\n1.5\nHull\nHull Regen\nArmor\n250\n0\n0\nEnergy\nEnergy Regen\n115\n1.2\nSpeed\nAcceleration\nAgility\n310\n130\n93\nOther Stats\nWarp Speed\nCharge Time\n1.30\n4\nSignal Range\nSensor Strength\n4500\n25\nCustomization\nFighter Hardpoints\nMining Hardpoints\nPDT Hardpoints\n2\n0\n0\nWEP\nDEF\nENG\nRCT\n0\n2\n1\n1\nSubsystems\n2\nCrafting\nNPC Buy\nNPC Sell\n-\n2000\nVolume\nTime\n100 m3\n10:00\nKorrelite\nReknite\nGellium\nAxnit\n-\n-\n-\n-\nBlucor\nRedcor\nVexnium\nWater\n50\n-\n-\n-\nComponent\nAmount\nLuster\n1\nComponent\nAmount\nLucent Blueprint\n1"
+  },
+  "images": [
+    "https://static.wikia.nocookie.net/starscape-roblox/images/3/36/Lucent.png/revision/latest?cb=20220309220102"
+  ]
+}

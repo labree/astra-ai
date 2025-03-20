@@ -1,0 +1,21 @@
+{
+  "title": "Loyalty Points",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Loyalty_Points",
+  "summary": "Loyalty Points (often abbreviated as LP) are an in-game currency that is earned when faction standing is gained. They can be used to buy items in faction shops.",
+  "full_text": "Loyalty Points\nLoyalty Points (often abbreviated as LP) are an in-game currency that is earned when faction standing is gained. They can be used to buy items in faction shops.\nObtaining\nLoyalty points are obtained at a 1:1 ratio with Faction Standing. When you complete a mission, You earn standing along with loyalty points. You can also earn loyalty points by turning in items to the field offices. Hauling crates from staging areas to the HQ of a contested system will also earn you loyalty points.\nMilitary Promotions\nIf you talk to a Foralkan, Kavani, or Lycentian recruiter, You can ask them to promote your rank. In order to be promoted, You must earn a certain amount of Loyalty Points. Once you have enough, You can spend your LP to go to the next rank, unlocking more items in faction shops and receiving a reward.",
+  "content_structure": {
+    "title": "Loyalty Points",
+    "content": "Loyalty Points (often abbreviated as LP) are an in-game currency that is earned when faction standing is gained. They can be used to buy items in faction shops.",
+    "sections": [
+      {
+        "title": "Obtaining",
+        "content": "Loyalty points are obtained at a 1:1 ratio with Faction Standing. When you complete a mission, You earn standing along with loyalty points. You can also earn loyalty points by turning in items to the field offices. Hauling crates from staging areas to the HQ of a contested system will also earn you loyalty points."
+      },
+      {
+        "title": "Military Promotions",
+        "content": "If you talk to a Foralkan, Kavani, or Lycentian recruiter, You can ask them to promote your rank. In order to be promoted, You must earn a certain amount of Loyalty Points. Once you have enough, You can spend your LP to go to the next rank, unlocking more items in faction shops and receiving a reward."
+      }
+    ]
+  },
+  "images": []
+}

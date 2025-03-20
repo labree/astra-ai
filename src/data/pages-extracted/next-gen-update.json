@@ -1,0 +1,25 @@
+{
+  "title": "Next Gen Update",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Next_Gen_Update",
+  "summary": "The Next Gen Update was a major update released for Starscape on January 8, 2022. This update introduced:",
+  "full_text": "Next Gen Update\nThe Next Gen Update was a major update released for Starscape on January 8, 2022. This update introduced:\nGameplay\nSkill Trees\nA reworked HUD with improved graphics and a Mini-map that displays enemy ships\nA meter below asteroids showing how much ore is left\nShip Insurance changes - the previous insurance system is replaced with a salvage system that completely repairs lost ships (not including equipped turrets and modules) over time for free in all systems apart from wild systems; ships destroyed in wild space are permanently lost.\nProbes are now infinite and do not need to be bought or crafted. They can be launched from the ship menu by holding Ctrl or Z.\nRefining and manufacturing all materials and items now takes time to complete\nModels and Features\nNumerous Ship Remodels (Pre-Next Gen models are referred to as Legacy)\nAn overhauled upgrade system, using different modules and subsystems than the previous fighter-upgrade and warship-warmod system\nModules and subsystems can now be removed from ships without being destroyed\nValiance ship line is added\nPoint Defense Turrets (PDTs), which automatically fire at ships you lock them onto.\nChainguns, Repeaters, and Tractor Beams were changed from S turrets to P turrets. the Pulse P turret was introduced to complement them.\nMajor reworks of some rigs and upgrades\nRemoved Items\nTractor Beam modules/turrets were removed (replaced by tractor PDT)\nAll Mk II ships were removed\nThe Otter small miner was removed.\nThe Yuma and Fargo both had their crafting recipe removed during this update. They were not, however, removed from player inventories.",
+  "content_structure": {
+    "title": "Next Gen Update",
+    "content": "The Next Gen Update was a major update released for Starscape on January 8, 2022. This update introduced:",
+    "sections": [
+      {
+        "title": "Gameplay",
+        "content": "Skill Trees\nA reworked HUD with improved graphics and a Mini-map that displays enemy ships\nA meter below asteroids showing how much ore is left\nShip Insurance changes - the previous insurance system is replaced with a salvage system that completely repairs lost ships (not including equipped turrets and modules) over time for free in all systems apart from wild systems; ships destroyed in wild space are permanently lost.\nProbes are now infinite and do not need to be bought or crafted. They can be launched from the ship menu by holding Ctrl or Z.\nRefining and manufacturing all materials and items now takes time to complete"
+      },
+      {
+        "title": "Models and Features",
+        "content": "Numerous Ship Remodels (Pre-Next Gen models are referred to as Legacy)\nAn overhauled upgrade system, using different modules and subsystems than the previous fighter-upgrade and warship-warmod system\nModules and subsystems can now be removed from ships without being destroyed\nValiance ship line is added\nPoint Defense Turrets (PDTs), which automatically fire at ships you lock them onto.\nChainguns, Repeaters, and Tractor Beams were changed from S turrets to P turrets. the Pulse P turret was introduced to complement them.\nMajor reworks of some rigs and upgrades"
+      },
+      {
+        "title": "Removed Items",
+        "content": "Tractor Beam modules/turrets were removed (replaced by tractor PDT)\nAll Mk II ships were removed\nThe Otter small miner was removed.\nThe Yuma and Fargo both had their crafting recipe removed during this update. They were not, however, removed from player inventories."
+      }
+    ]
+  },
+  "images": []
+}

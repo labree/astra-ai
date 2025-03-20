@@ -1,0 +1,33 @@
+{
+  "title": "Cloning",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Cloning",
+  "summary": "Cloning is the main way of “resurrection” for players.",
+  "full_text": "Cloning\nCloning is the main way of “resurrection” for players.\nUpon dying in Starscape, you will respawn in a cloning bay and be charged a cloning fee of 500 credits if you have more than 5,000 credits. The default spawnpoint is the cloning bay in the Citadel.\nFor any faction other than CoreSec, as a tier 3 standing reward you can set your spawnpoint to their capital system for a fee of 1,000 credits. To move your spawnpoint, visit the desired cloning bay and interact with the terminal therein. For military factions, it is on the military station in the faction capital. For industrial factions, it will be found on the commercial station. Cloning bays are exclusive to Core systems.\nCloning Bay Locations\n\nCoreSec\n The Citadel (The Citadel)\nMilitary Factions\n Lycentia (Lycentia Prime)\n Vanos\n Hippa\nIndustrial Factions\n Harbor (Union Station)\n Syndica (Base Zero)\n Quarry (Headquarters)",
+  "content_structure": {
+    "title": "Cloning",
+    "content": "Cloning is the main way of “resurrection” for players.\nUpon dying in Starscape, you will respawn in a cloning bay and be charged a cloning fee of 500 credits if you have more than 5,000 credits. The default spawnpoint is the cloning bay in the Citadel.\nFor any faction other than CoreSec, as a tier 3 standing reward you can set your spawnpoint to their capital system for a fee of 1,000 credits. To move your spawnpoint, visit the desired cloning bay and interact with the terminal therein. For military factions, it is on the military station in the faction capital. For industrial factions, it will be found on the commercial station. Cloning bays are exclusive to Core systems.",
+    "sections": [
+      {
+        "title": "Cloning Bay Locations",
+        "content": "",
+        "sections": [
+          {
+            "title": "CoreSec",
+            "content": " The Citadel (The Citadel)"
+          },
+          {
+            "title": "Military Factions",
+            "content": " Lycentia (Lycentia Prime)\n Vanos\n Hippa"
+          },
+          {
+            "title": "Industrial Factions",
+            "content": " Harbor (Union Station)\n Syndica (Base Zero)\n Quarry (Headquarters)"
+          }
+        ]
+      }
+    ]
+  },
+  "images": [
+    "https://static.wikia.nocookie.net/starscape-roblox/images/d/da/Trade_union_logo_large.png/revision/latest?cb=20220509204517"
+  ]
+}

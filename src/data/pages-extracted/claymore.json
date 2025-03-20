@@ -1,0 +1,28 @@
+{
+  "title": "Claymore",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Claymore",
+  "summary": "\"The Claymore, an advanced upgrade of the successful Sabre chassis, is a hull tanking machine with remarkably strong damage output.\"",
+  "full_text": "Claymore\n\"The Claymore, an advanced upgrade of the successful Sabre chassis, is a hull tanking machine with remarkably strong damage output.\"\nThe Claymore is a fighter-class ship of the Stronghold ship line. It is best suited as a bulky, heavy-hitting fighter, and is the upgraded version of the Sabre.\nAdvantages\nThe Claymore has the highest durability and damage of any non-exotic fighter, making it a devastating ship in its class if shots manage to land. This makes it extremely effective in swarms, with a few dealing damage rivaling that of a warship. \nDisadvantages\nThe Claymore's durability comes at the cost of its agility. When engaged in direct combat, it is one of the easiest fighters to shoot, being targetable by even main guns on warships. This means that while it is heavy hitting, it can easily be outmaneuvered and gunned down.\nTrivia\n- The current Claymore is modeled by Jeff_D.\n- Do not underestimate Claymores- a Claymore swarm was able to take down over 14 destroyers in an RGB event.\nFighters\nLine\nT1\nT2\nExotic\nLegionis\nAurora\nLuminar\nHybrid Luminar\nStronghold\nSabre\nClaymore\nHybrid Claymore\nMegalodon\nPiranha\nThresher\nMandator\nToucan\nHornbill\nRighteous\nLuster\nLucent\nConstellation\nStratos\nStronghold Line\nInterceptor\nFighter\nCorvette\nFrigate\nDestroyer\nT1\nSabre\nBulwark\nT2\nClaymore\nExotic\nHybrid Claymore",
+  "content_structure": {
+    "title": "Claymore",
+    "content": "\"The Claymore, an advanced upgrade of the successful Sabre chassis, is a hull tanking machine with remarkably strong damage output.\"\nThe Claymore is a fighter-class ship of the Stronghold ship line. It is best suited as a bulky, heavy-hitting fighter, and is the upgraded version of the Sabre.",
+    "sections": [
+      {
+        "title": "Advantages",
+        "content": "The Claymore has the highest durability and damage of any non-exotic fighter, making it a devastating ship in its class if shots manage to land. This makes it extremely effective in swarms, with a few dealing damage rivaling that of a warship. "
+      },
+      {
+        "title": "Disadvantages",
+        "content": "The Claymore's durability comes at the cost of its agility. When engaged in direct combat, it is one of the easiest fighters to shoot, being targetable by even main guns on warships. This means that while it is heavy hitting, it can easily be outmaneuvered and gunned down."
+      },
+      {
+        "title": "Trivia",
+        "content": "- The current Claymore is modeled by Jeff_D.\n- Do not underestimate Claymores- a Claymore swarm was able to take down over 14 destroyers in an RGB event.\nFighters\nLine\nT1\nT2\nExotic\nLegionis\nAurora\nLuminar\nHybrid Luminar\nStronghold\nSabre\nClaymore\nHybrid Claymore\nMegalodon\nPiranha\nThresher\nMandator\nToucan\nHornbill\nRighteous\nLuster\nLucent\nConstellation\nStratos\nStronghold Line\nInterceptor\nFighter\nCorvette\nFrigate\nDestroyer\nT1\nSabre\nBulwark\nT2\nClaymore\nExotic\nHybrid Claymore"
+      }
+    ],
+    "infobox": "Claymore\nShip Class\nFighter\nField Stats\nDPS\n280.1\nShield\nShield Regen\nDeflection\n150\n1.5\n0\nHull\nHull Regen\nArmor\n650\n0\n1\nEnergy\nEnergy Regen\n80\n1.5\nSpeed\nAcceleration\nAgility\n310\n120\n90\nOther Stats\nWarp Speed\nCharge Time\n1.10\n4\nSignal Range\nSensor Strength\n5000\n25\nCustomization\nFighter Hardpoints\nMining Hardpoints\nPDT Hardpoints\n4\n0\n0\nWEP\nDEF\nENG\nRCT\n2\n2\n0\n0\nSubsystems\n2\nCrafting\nNPC Buy\nNPC Sell\n-\n2200\nVolume\nTime\n100 m3\n10:00\nKorrelite\nReknite\nGellium\nAxnit\n-\n-\n-\n-\nBlucor\nRedcor\nVexnium\nWater\n65\n-\n-\n-\nComponent\nAmount\nSabre\n1"
+  },
+  "images": [
+    "https://static.wikia.nocookie.net/starscape-roblox/images/0/0c/Claymore.png/revision/latest?cb=20220309213005"
+  ]
+}

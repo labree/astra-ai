@@ -1,0 +1,28 @@
+{
+  "title": "Liberty",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Liberty",
+  "summary": "\"The Liberty corvette is a sturdy and powerful warship. It is the Lycentian go-to for routine patrols, station defense, and filling out a combat fleet.\"",
+  "full_text": "Liberty\n\"The Liberty corvette is a sturdy and powerful warship. It is the Lycentian go-to for routine patrols, station defense, and filling out a combat fleet.\"\nThe Liberty is a corvette-class ship of the Righteous ship line. It is best suited as a sturdy fleet ship due to its high shield strength and turret agility. \nAdvantages\nThe Liberty has a sizable shield and deflection pool, allowing it to tank on the same levels as the Chevron while still having natural regeneration as a shield-based warship. It's shield capacity can be enhanced with the right defense rigs. Its high shield strength means it has a better chance of retreating into stations in PvP, since hulled ships can't enter stations. \nIn addition, the turret agility bonus allows it to more easily track small, fast targets. \nIt has fairly balanced turret placement, able to deal with threats from many angles \nOverall, the Liberty can tank damage and provide fire support/point defense in a fleet. It is a decent, though unpopular, choice for early game PvE. \nDisadvantages\nThe Liberty is relatively slow compared to other corvettes and has very low hull. Pilots should take care to watch their shields, as once they lose them, their hull will not last long at all. \nIt also has poor shield regen, though this can be fixed with the right subsystem. \nAs a Lycentian ship, its blueprint must be purchased using Loyalty Points at a Lycentian terminal or from other players, making it less accessible to new or neutral players.\nTrivia\n- The current Liberty is modeled by AVeryDandyLad.\nWarships\nLine\nCorvette\nFrigate\nDestroyer\nLegionis\nChevron\nPhalanx\nEchelon\nConstellation\nRadix\nHalo\nHorizon\nValiance\nInfinity\nAdamant\nFortitude\nStronghold\nBulwark\nMegalodon\nKnifejaw\nBarracuda\nLoxodon\nMandator\nEdict\nJudicator\nConciliator\nRighteous\nLiberty\nVirtue\nJustice\nRighteous Line\nInterceptor\nFighter\nCorvette\nFrigate\nDestroyer\nCruiser\nBattleship\nT1\nTetra\nLuster\nLiberty\nVirtue\nJustice\nDignity\nNobility\nT2\nTriazo\nLucent\nExotic",
+  "content_structure": {
+    "title": "Liberty",
+    "content": "\"The Liberty corvette is a sturdy and powerful warship. It is the Lycentian go-to for routine patrols, station defense, and filling out a combat fleet.\"\nThe Liberty is a corvette-class ship of the Righteous ship line. It is best suited as a sturdy fleet ship due to its high shield strength and turret agility. ",
+    "sections": [
+      {
+        "title": "Advantages",
+        "content": "The Liberty has a sizable shield and deflection pool, allowing it to tank on the same levels as the Chevron while still having natural regeneration as a shield-based warship. It's shield capacity can be enhanced with the right defense rigs. Its high shield strength means it has a better chance of retreating into stations in PvP, since hulled ships can't enter stations. \nIn addition, the turret agility bonus allows it to more easily track small, fast targets. \nIt has fairly balanced turret placement, able to deal with threats from many angles \nOverall, the Liberty can tank damage and provide fire support/point defense in a fleet. It is a decent, though unpopular, choice for early game PvE. "
+      },
+      {
+        "title": "Disadvantages",
+        "content": "The Liberty is relatively slow compared to other corvettes and has very low hull. Pilots should take care to watch their shields, as once they lose them, their hull will not last long at all. \nIt also has poor shield regen, though this can be fixed with the right subsystem. \nAs a Lycentian ship, its blueprint must be purchased using Loyalty Points at a Lycentian terminal or from other players, making it less accessible to new or neutral players."
+      },
+      {
+        "title": "Trivia",
+        "content": "- The current Liberty is modeled by AVeryDandyLad.\nWarships\nLine\nCorvette\nFrigate\nDestroyer\nLegionis\nChevron\nPhalanx\nEchelon\nConstellation\nRadix\nHalo\nHorizon\nValiance\nInfinity\nAdamant\nFortitude\nStronghold\nBulwark\nMegalodon\nKnifejaw\nBarracuda\nLoxodon\nMandator\nEdict\nJudicator\nConciliator\nRighteous\nLiberty\nVirtue\nJustice\nRighteous Line\nInterceptor\nFighter\nCorvette\nFrigate\nDestroyer\nCruiser\nBattleship\nT1\nTetra\nLuster\nLiberty\nVirtue\nJustice\nDignity\nNobility\nT2\nTriazo\nLucent\nExotic"
+      }
+    ],
+    "infobox": "Liberty\nShip Class\nCorvette\nSpecial\nTurret Agility +75%\nField Stats\nDPS\n193\nShield\nShield Regen\nDeflection\n4600\n6\n1.5\nHull\nHull Regen\nArmor\n1500\n0\n1.5\nEnergy\nEnergy Regen\n380\n5\nSpeed\nAcceleration\nAgility\n200\n50\n52\nOther Stats\nWarp Speed\nCharge Time\n0.70\n5\nSignal Range\nSensor Strength\n6500\n35\nCustomization\nPDT Turrets\nSmall Turrets\nMed. Turrets\n2\n4\n0\nWEP\nDEF\nENG\nRCT\n1\n2\n0\n1\nSubsystems\n1\nCrafting\nNPC Buy\nNPC Sell\n-\n10000\nVolume\nTime\n225 m3\n1:00:00\nKorrelite\nReknite\nGellium\nAxnit\n2000\n1200\n750\n300\nBlucor\nRedcor\nVexnium\nWater\n100\n-\n-\n-\nComponent\nAmount\nLiberty Blueprint\n1"
+  },
+  "images": [
+    "https://static.wikia.nocookie.net/starscape-roblox/images/5/54/Liberty.png/revision/latest?cb=20220309210337"
+  ]
+}

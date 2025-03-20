@@ -1,0 +1,28 @@
+{
+  "title": "Tetra",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Tetra",
+  "summary": "\"The Tetra is a Lycentian interceptor.\"",
+  "full_text": "Tetra\n\"The Tetra is a Lycentian interceptor.\"\nThe Tetra is a T1 interceptor-class ship of the Lycentian Righteous line. It is best suited as a tanky interceptor, with agility and durability in a powerful combination.\nAdvantages\nThe Tetra has a balanced rig layout allowing for many different builds. At base stats, it is an improved version of the Paragon's hitpoints with slightly less speed and agility. It excels at roles involving combat with slower, easier-to-track ships.\nDisadvantages\nThe Tetra is an T1 faction interceptor, and thus will perform poorly against its upgraded counterparts. In addition, it's shield-based health pool causes it to be vulnerable to ion-class weapons. It is less agile compared to similar interceptor-class ships, and can be outmaneuvered.\nAs a faction ship, its blueprint must be purchased using Loyalty Points at a faction terminal or from other players, making it less accessible to new or neutral players.\nTrivia\n- The current Tetra is modeled by ii_Cove.\nInterceptors\nLine\nT1\nT2\nExotic\nDefiance\nFalcon\nParagon\nHybrid Paragon\nValiance\nZenith\nPolaris\nHybrid Polaris\nMegalodon\nMackerel\nCandiru\nMandator\nParrot\nMacaw\nRighteous\nTetra\nTriazo\nRighteous Line\nInterceptor\nFighter\nCorvette\nFrigate\nDestroyer\nCruiser\nBattleship\nT1\nTetra\nLuster\nLiberty\nVirtue\nJustice\nDignity\nNobility\nT2\nTriazo\nLucent\nExotic",
+  "content_structure": {
+    "title": "Tetra",
+    "content": "\"The Tetra is a Lycentian interceptor.\"\nThe Tetra is a T1 interceptor-class ship of the Lycentian Righteous line. It is best suited as a tanky interceptor, with agility and durability in a powerful combination.",
+    "sections": [
+      {
+        "title": "Advantages",
+        "content": "The Tetra has a balanced rig layout allowing for many different builds. At base stats, it is an improved version of the Paragon's hitpoints with slightly less speed and agility. It excels at roles involving combat with slower, easier-to-track ships."
+      },
+      {
+        "title": "Disadvantages",
+        "content": "The Tetra is an T1 faction interceptor, and thus will perform poorly against its upgraded counterparts. In addition, it's shield-based health pool causes it to be vulnerable to ion-class weapons. It is less agile compared to similar interceptor-class ships, and can be outmaneuvered.\nAs a faction ship, its blueprint must be purchased using Loyalty Points at a faction terminal or from other players, making it less accessible to new or neutral players."
+      },
+      {
+        "title": "Trivia",
+        "content": "- The current Tetra is modeled by ii_Cove.\nInterceptors\nLine\nT1\nT2\nExotic\nDefiance\nFalcon\nParagon\nHybrid Paragon\nValiance\nZenith\nPolaris\nHybrid Polaris\nMegalodon\nMackerel\nCandiru\nMandator\nParrot\nMacaw\nRighteous\nTetra\nTriazo\nRighteous Line\nInterceptor\nFighter\nCorvette\nFrigate\nDestroyer\nCruiser\nBattleship\nT1\nTetra\nLuster\nLiberty\nVirtue\nJustice\nDignity\nNobility\nT2\nTriazo\nLucent\nExotic"
+      }
+    ],
+    "infobox": "Tetra\nShip Class\nInterceptor\nField Stats\nDPS\n160.1\nShield\nShield Regen\nDeflection\n250\n2\n0.5\nHull\nHull Regen\nArmor\n200\n0\n0\nEnergy\nEnergy Regen\n120\n1.2\nSpeed\nAcceleration\nAgility\n390\n140\n101\nOther Stats\nWarp Speed\nCharge Time\n1.30\n3\nSignal Range\nSensor Strength\n4000\n25\nCustomization\nFighter Hardpoints\nMining Hardpoints\nPDT Hardpoints\n2\n0\n0\nWEP\nDEF\nENG\nRCT\n1\n1\n1\n0\nSubsystems\n1\nCrafting\nNPC Buy\nNPC Sell\n-\n1000\nVolume\nTime\n100 m3\n5:00\nKorrelite\nReknite\nGellium\nAxnit\n300\n120\n30\n-\nBlucor\nRedcor\nVexnium\nWater\n-\n-\n-\n-\nComponent\nAmount\nTetra Blueprint\n1"
+  },
+  "images": [
+    "https://static.wikia.nocookie.net/starscape-roblox/images/1/13/Tetra.png/revision/latest?cb=20220309220113"
+  ]
+}

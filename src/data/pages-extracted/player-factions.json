@@ -1,0 +1,79 @@
+{
+  "title": "Player Factions",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Player_Factions",
+  "summary": "Player factions are unofficial factions that players can create and join. The political and management state of each faction is dependent on its owner. Factions can be used in a variety of ways (like as groups for mining, drone hunting, etc), but most are made to create organized groups within the game.",
+  "full_text": "Player Factions\nPlayer factions are unofficial factions that players can create and join. The political and management state of each faction is dependent on its owner. Factions can be used in a variety of ways (like as groups for mining, drone hunting, etc), but most are made to create organized groups within the game.\nWIKI RULES ON PLAYER FACTIONS\nPlayer faction pages are not to be created to prevent drama and flame wars. Any created player faction pages that are found will be marked for deletion, then terminated.\nMaking a Faction\nA player can view the faction they are currently in by opening their inventory and clicking on the star icon on the left of the GUI. If the player is not already a member of a player faction, then they can choose to create one for 25,000 credits.\nFaction management\n\nFaction Upgrades\nFactions have 4 levels, each level unlocking unique perks and features. Each successful upgrade will cost an amount of credits; which are credits that come from a faction's treasury. In total, a fully upgraded faction will cost 1,375,000 credits, but it is advised to only upgrade to level 4 when you have reached your member limit. Level 3 is something all factions should be levelled at.\nFaction levels\nFaction Level\nCost to buy from previous level\nUnlocked rewards\nI (Company)\n25,000 CR\n50 member limit\nII (Corporation)\n100,000 CR\n100 member limit, Customizable faction tag\nIII (Enterprise)\n250,000 CR\n200 member limit, Customizable faction skin, Customizable faction insignia\nIV (Nation)\n1,000,000 CR\n500 member limit\nFaction Treasury\nThe faction treasury is a feature used for storing funds in a faction. These funds can be used to upgrade factions, or for other miscellaneous purposes. Leaders and treasurers have the authority to withdraw credits from their treasury's funds, while members without this authority may donate credits for their treasury to fund their faction.\nFaction Menu\n\nOverview\nThis tab allows players to view announcements, which are rarely used unless the faction has no discord; the description of the faction, the faction statistics, and allows them to leave or donate to the faction.\nMembers\nThis tab allows players with recruiter permissions to recruit people remotely (as long as they are online and you know their username)It also lists members, their period in the faction, and their roles.\nLeader - all access\nAnnouncer - ability to create announcements\nAmbassador - ability to change faction relations\nTreasurer - ability to take from the treasury \nAuditor - ability to see the audit log\nRemover - ability to remove members\nRecruiter - ability to add members\nRelations\nThis tab allows players to see a faction's relations to other factions. Faction relations can be set by having ambassador permissions, clicking the name of a player in a faction, and setting relations from there. A player faction can have relations with 250 other factions, at most. Faction relations are as follows:\nAlly - Blue\nFriendly - Light Blue\nNeutral - Yellow\nSuspect - Orange\nEnemy - Red\nUnlisted - No Color (Grey in player list)\nSpecial Note, that just because a faction is set a certain color, does NOT mean that they also have you set as that color. Make sure agreements between you and other factions are comprehensive and thorough, and all members are notified. \nAudit Log\nThis tab allows people with sufficient permissions to see things happening in the faction, including but not limited to donations, level upgrades, withdraw of credits from the treasury, etc.\nAdmin\nThis tab allows people with admin permissions to change the tag of their faction, which is displayed next to a person's name. It also allows leaders to set skins for their factions, as well as change the public faction description.\nFaction Cosmetics\nFaction cosmetics can be unlocked by upgrading your faction. Tier II unlocks a tag, Tier III unlocks the Faction Insignia and Skin.\nFaction Tag\nFaction Tag is the set of letters or dashes (numbers are not allowed due to Roblox's chat filter) that appear next to your name in the server’s player list. This is unlocked when you upgrade your faction to Tier II. It’s free to initially set one, but costs 25K to change.\nFaction Skin\nFaction Skins are customizable colored ship skins that you can make which faction members can equip. You can only create one skin per faction. This is unlocked when you upgrade your faction to tier III. It’s free to initially set the skin but costs 25K to change. The player selects which colors will be Primary, Secondary, Tertiary, and Quaternary, though Quaternary colors are only visible on Lycentian warships and subcapitals.\nFaction Symbol\nFaction Symbols are set by uploading a decal to Roblox, then copy the decal ID to the symbol creator (The ID is the set of numbers in the URL). Then you can preview the set symbol. You can only set one symbol for a faction. \nNote: If you cannot see your symbol, or if it’s blank, then it will be set as blank! If you can't see your faction symbol, please wait a few minutes for Roblox to verify your decal, or reupload it with one pixel’s color changed.\nThis is unlocked when you upgrade your faction to Tier III. It’s free to initially set one, but costs 25K to change.",
+  "content_structure": {
+    "title": "Player Factions",
+    "content": "Player factions are unofficial factions that players can create and join. The political and management state of each faction is dependent on its owner. Factions can be used in a variety of ways (like as groups for mining, drone hunting, etc), but most are made to create organized groups within the game.",
+    "sections": [
+      {
+        "title": "WIKI RULES ON PLAYER FACTIONS",
+        "content": "Player faction pages are not to be created to prevent drama and flame wars. Any created player faction pages that are found will be marked for deletion, then terminated."
+      },
+      {
+        "title": "Making a Faction",
+        "content": "A player can view the faction they are currently in by opening their inventory and clicking on the star icon on the left of the GUI. If the player is not already a member of a player faction, then they can choose to create one for 25,000 credits."
+      },
+      {
+        "title": "Faction management",
+        "content": "",
+        "sections": [
+          {
+            "title": "Faction Upgrades",
+            "content": "Factions have 4 levels, each level unlocking unique perks and features. Each successful upgrade will cost an amount of credits; which are credits that come from a faction's treasury. In total, a fully upgraded faction will cost 1,375,000 credits, but it is advised to only upgrade to level 4 when you have reached your member limit. Level 3 is something all factions should be levelled at.\nFaction levels\nFaction Level\nCost to buy from previous level\nUnlocked rewards\nI (Company)\n25,000 CR\n50 member limit\nII (Corporation)\n100,000 CR\n100 member limit, Customizable faction tag\nIII (Enterprise)\n250,000 CR\n200 member limit, Customizable faction skin, Customizable faction insignia\nIV (Nation)\n1,000,000 CR\n500 member limit"
+          },
+          {
+            "title": "Faction Treasury",
+            "content": "The faction treasury is a feature used for storing funds in a faction. These funds can be used to upgrade factions, or for other miscellaneous purposes. Leaders and treasurers have the authority to withdraw credits from their treasury's funds, while members without this authority may donate credits for their treasury to fund their faction."
+          }
+        ]
+      },
+      {
+        "title": "Faction Menu",
+        "content": "",
+        "sections": [
+          {
+            "title": "Overview",
+            "content": "This tab allows players to view announcements, which are rarely used unless the faction has no discord; the description of the faction, the faction statistics, and allows them to leave or donate to the faction."
+          },
+          {
+            "title": "Members",
+            "content": "This tab allows players with recruiter permissions to recruit people remotely (as long as they are online and you know their username)It also lists members, their period in the faction, and their roles.\nLeader - all access\nAnnouncer - ability to create announcements\nAmbassador - ability to change faction relations\nTreasurer - ability to take from the treasury \nAuditor - ability to see the audit log\nRemover - ability to remove members\nRecruiter - ability to add members"
+          },
+          {
+            "title": "Relations",
+            "content": "This tab allows players to see a faction's relations to other factions. Faction relations can be set by having ambassador permissions, clicking the name of a player in a faction, and setting relations from there. A player faction can have relations with 250 other factions, at most. Faction relations are as follows:\nAlly - Blue\nFriendly - Light Blue\nNeutral - Yellow\nSuspect - Orange\nEnemy - Red\nUnlisted - No Color (Grey in player list)\nSpecial Note, that just because a faction is set a certain color, does NOT mean that they also have you set as that color. Make sure agreements between you and other factions are comprehensive and thorough, and all members are notified. "
+          },
+          {
+            "title": "Audit Log",
+            "content": "This tab allows people with sufficient permissions to see things happening in the faction, including but not limited to donations, level upgrades, withdraw of credits from the treasury, etc."
+          },
+          {
+            "title": "Admin",
+            "content": "This tab allows people with admin permissions to change the tag of their faction, which is displayed next to a person's name. It also allows leaders to set skins for their factions, as well as change the public faction description."
+          }
+        ]
+      },
+      {
+        "title": "Faction Cosmetics",
+        "content": "Faction cosmetics can be unlocked by upgrading your faction. Tier II unlocks a tag, Tier III unlocks the Faction Insignia and Skin.",
+        "sections": [
+          {
+            "title": "Faction Tag",
+            "content": "Faction Tag is the set of letters or dashes (numbers are not allowed due to Roblox's chat filter) that appear next to your name in the server’s player list. This is unlocked when you upgrade your faction to Tier II. It’s free to initially set one, but costs 25K to change."
+          },
+          {
+            "title": "Faction Skin",
+            "content": "Faction Skins are customizable colored ship skins that you can make which faction members can equip. You can only create one skin per faction. This is unlocked when you upgrade your faction to tier III. It’s free to initially set the skin but costs 25K to change. The player selects which colors will be Primary, Secondary, Tertiary, and Quaternary, though Quaternary colors are only visible on Lycentian warships and subcapitals."
+          },
+          {
+            "title": "Faction Symbol",
+            "content": "Faction Symbols are set by uploading a decal to Roblox, then copy the decal ID to the symbol creator (The ID is the set of numbers in the URL). Then you can preview the set symbol. You can only set one symbol for a faction. \nNote: If you cannot see your symbol, or if it’s blank, then it will be set as blank! If you can't see your faction symbol, please wait a few minutes for Roblox to verify your decal, or reupload it with one pixel’s color changed.\nThis is unlocked when you upgrade your faction to Tier III. It’s free to initially set one, but costs 25K to change."
+          }
+        ]
+      }
+    ]
+  },
+  "images": []
+}

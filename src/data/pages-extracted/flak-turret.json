@@ -1,0 +1,22 @@
+{
+  "title": "Flak Turret",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Flak_Turret",
+  "summary": "Small Turrets can only be equipped onto ships with S Turret Slots. Small ships such as Badger, Aurora, or Bison do not have S turret slots and cannot have S-turrets equipped. For the small autoturrets that some small ships have, see PDT.",
+  "full_text": "Flak Turret\nSmall Turrets can only be equipped onto ships with S Turret Slots. Small ships such as Badger, Aurora, or Bison do not have S turret slots and cannot have S-turrets equipped. For the small autoturrets that some small ships have, see PDT.\nFlak Turrets (Small)\nFlak Turrets are a turret that was introduced into the game on October 27, 2020, with the version 1.5 game Update. Developed by CoreSec, the turret is made to be effective against lighter ships such as Fighters and Interceptors. It uses projectiles which explode once within a close enough range of a target. While being effective against smaller ships, they are far less useful against larger ships such as corvettes or frigates. \nFlak turrets come in Tier 1, Tier 2, Tier 3, and an Exotic variant. The Flak turret's only Exotic variant is Dread. Dread Flak turrets must be crafted from scrap, a Tier 3 Flak turret, and a Dread Flak blueprint, obtained from Dread Pirates and Pirate Dens.\nFlak turrets, along with Shrapnel turrets, do not have a Medium variant.\nFlaks have their own announcement trailer.\nManufacturing\nFlak (Small)\nTier 1\n80 Korrelite, 60 Reknite, 40 Gellium\nTier 2\n40 Axnit, 20 Narcor, Flak I\nTier 3\n20 Red Narcor, Flak II\nDread\n100 Metal scraps, 10 Power cell, Flak III, Dread Flak blueprint",
+  "content_structure": {
+    "title": "Flak Turret",
+    "content": "Small Turrets can only be equipped onto ships with S Turret Slots. Small ships such as Badger, Aurora, or Bison do not have S turret slots and cannot have S-turrets equipped. For the small autoturrets that some small ships have, see PDT.",
+    "sections": [
+      {
+        "title": "Flak Turrets (Small)",
+        "content": "Flak Turrets are a turret that was introduced into the game on October 27, 2020, with the version 1.5 game Update. Developed by CoreSec, the turret is made to be effective against lighter ships such as Fighters and Interceptors. It uses projectiles which explode once within a close enough range of a target. While being effective against smaller ships, they are far less useful against larger ships such as corvettes or frigates. \nFlak turrets come in Tier 1, Tier 2, Tier 3, and an Exotic variant. The Flak turret's only Exotic variant is Dread. Dread Flak turrets must be crafted from scrap, a Tier 3 Flak turret, and a Dread Flak blueprint, obtained from Dread Pirates and Pirate Dens.\nFlak turrets, along with Shrapnel turrets, do not have a Medium variant.\nFlaks have their own announcement trailer."
+      },
+      {
+        "title": "Manufacturing",
+        "content": "Flak (Small)\nTier 1\n80 Korrelite, 60 Reknite, 40 Gellium\nTier 2\n40 Axnit, 20 Narcor, Flak I\nTier 3\n20 Red Narcor, Flak II\nDread\n100 Metal scraps, 10 Power cell, Flak III, Dread Flak blueprint"
+      }
+    ],
+    "infobox": "Flak Turret\nDamage per shot\n7 (Tier 1) to 10 (Dread)\nRate of fire\n120\nDamage per second\n14 (Tier 1) to 20 (Dread)\nProjectile Speed\n3200\nProjectile Range\n4000\nTurn Speed\n150 (Tier 1) to 180 (Dread)\nBurst Proximity\n100\nExplosion Radius\n200 (Tier 1) to 260 (Dread)"
+  },
+  "images": []
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Anomaly:CM",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Anomaly:CM",
+  "summary": "The CM Anomaly, also known as Comet or Comet Field, is an anomaly that contains a large comet with a trail of smaller asteroids. It is the only known source of obtaining water.",
+  "full_text": "Anomaly:CM\nThe CM Anomaly, also known as Comet or Comet Field, is an anomaly that contains a large comet with a trail of smaller asteroids. It is the only known source of obtaining water.\nTopography and Usage\n \nThe comet anomaly can be found in all systems except core, with a \"CM\" indicator in its anomaly name. The anomaly contains a large comet, with a blueish white trail containing many smaller rocks. Some contain ice, and can be recognized from a distance by light-blue patches of ice on their surface. Other rocks are barren fragments that contain no useful material and cannot be mined.\nIce cores can be mined using any mining method, but normal mining lasers and turrets will burn a significant portion of the ice. Efficient extraction requires ice miner turrets, though these require water to craft. Currently the only purpose of water is the crafting of tier III and IV miner turrets through heat sinks.\nLike all asteroid anomalies, the anomaly will disappear once all the ice has been mined. If an anomaly seems devoid of ice cores, another player has already mined out the comet but missed an ice core.\nNo drones or other hostile ships spawn in a CM anomaly, and thus they can be used as a safe haven from hostile NPCs.\nTrivia\nThis anomaly type was introduced in version 1.6.0 as part of the Faction Warfare update.\nAnother resource called deuterium was intended to be found here and used as fuel for player bases.",
+  "content_structure": {
+    "title": "Anomaly:CM",
+    "content": "The CM Anomaly, also known as Comet or Comet Field, is an anomaly that contains a large comet with a trail of smaller asteroids. It is the only known source of obtaining water.",
+    "sections": [
+      {
+        "title": "Topography and Usage",
+        "content": " \nThe comet anomaly can be found in all systems except core, with a \"CM\" indicator in its anomaly name. The anomaly contains a large comet, with a blueish white trail containing many smaller rocks. Some contain ice, and can be recognized from a distance by light-blue patches of ice on their surface. Other rocks are barren fragments that contain no useful material and cannot be mined.\nIce cores can be mined using any mining method, but normal mining lasers and turrets will burn a significant portion of the ice. Efficient extraction requires ice miner turrets, though these require water to craft. Currently the only purpose of water is the crafting of tier III and IV miner turrets through heat sinks.\nLike all asteroid anomalies, the anomaly will disappear once all the ice has been mined. If an anomaly seems devoid of ice cores, another player has already mined out the comet but missed an ice core.\nNo drones or other hostile ships spawn in a CM anomaly, and thus they can be used as a safe haven from hostile NPCs."
+      },
+      {
+        "title": "Trivia",
+        "content": "This anomaly type was introduced in version 1.6.0 as part of the Faction Warfare update.\nAnother resource called deuterium was intended to be found here and used as fuel for player bases."
+      }
+    ]
+  },
+  "images": [
+    "https://static.wikia.nocookie.net/starscape-roblox/images/e/e2/Ice_core.png/revision/latest?cb=20210409234716"
+  ]
+}

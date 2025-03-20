@@ -1,0 +1,28 @@
+{
+  "title": "Mako",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Mako",
+  "summary": "\"An advanced upgrade of the Marlin, the Mako has an improved speed and mining rate over its predecessor.\"",
+  "full_text": "Mako\n\"An advanced upgrade of the Marlin, the Mako has an improved speed and mining rate over its predecessor.\"\nThe Mako is a miner-class ship of an unknown ship line. It is best suited as a fast mining ship.\nAdvantages\nThe Mako is still reasonably cheap compared to warship miners, allowing it to get in spaces larger ships could not. With two engine slots, it can greatly reduce its signal range or warp charge time, making it good at mining in more dangerous zones such as near NPC structures. The Mako also boasts the fastest warp speed in the game.\nDisadvantages\nThe Mako is fragile due to its durability being traded for its speed, and a stray volley can easily destroy it. Its PDTs lend it some self-defense, but they are usually used for more convenient tractor turrets.\nTrivia\n- The current Mako is modeled by Ocean_tsunamii.\nMiners\nLine\nT1\nT2\nCorvette\nFrigate\nDestroyer\nBadger\nBadger\nHoney Badger\nMarlin\nMarlin\nMako\nEverest\nOzark\nKodiak\nYukon\nEos\nKoronis\nEos\nVesta",
+  "content_structure": {
+    "title": "Mako",
+    "content": "\"An advanced upgrade of the Marlin, the Mako has an improved speed and mining rate over its predecessor.\"\nThe Mako is a miner-class ship of an unknown ship line. It is best suited as a fast mining ship.",
+    "sections": [
+      {
+        "title": "Advantages",
+        "content": "The Mako is still reasonably cheap compared to warship miners, allowing it to get in spaces larger ships could not. With two engine slots, it can greatly reduce its signal range or warp charge time, making it good at mining in more dangerous zones such as near NPC structures. The Mako also boasts the fastest warp speed in the game."
+      },
+      {
+        "title": "Disadvantages",
+        "content": "The Mako is fragile due to its durability being traded for its speed, and a stray volley can easily destroy it. Its PDTs lend it some self-defense, but they are usually used for more convenient tractor turrets."
+      },
+      {
+        "title": "Trivia",
+        "content": "- The current Mako is modeled by Ocean_tsunamii.\nMiners\nLine\nT1\nT2\nCorvette\nFrigate\nDestroyer\nBadger\nBadger\nHoney Badger\nMarlin\nMarlin\nMako\nEverest\nOzark\nKodiak\nYukon\nEos\nKoronis\nEos\nVesta"
+      }
+    ],
+    "infobox": "Mako\nShip Class\nMiner\nField Stats\nDPS\n95.4\nShield\nShield Regen\nDeflection\n100\n3.5\n1\nHull\nHull Regen\nArmor\n225\n0\n0\nEnergy\nEnergy Regen\n90\n1.7\nSpeed\nAcceleration\nAgility\n430\n225\n135\nOther Stats\nWarp Speed\nCharge Time\n1.70\n3\nSignal Range\nSensor Strength\n3750\n25\nCargo Slots\n0\nCustomization\nFighter Hardpoints\nMining Hardpoints\nPDT Hardpoints\n0\n1\n1\nWEP\nDEF\nENG\nRCT\n0\n1\n2\n1\nSubsystems\n2\nCrafting\nNPC Buy\nNPC Sell\n-\n1000\nVolume\nTime\n100 m3\n10:00\nKorrelite\nReknite\nGellium\nAxnit\n-\n-\n-\n-\nBlucor\nRedcor\nVexnium\nWater\n40\n-\n-\n-\nComponent\nAmount\nMarlin\n1"
+  },
+  "images": [
+    "https://static.wikia.nocookie.net/starscape-roblox/images/a/a6/Mako.png/revision/latest?cb=20220309222209"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Comms Chatter",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Comms_Chatter",
+  "summary": "",
+  "full_text": "Comms Chatter\n\nOverview\nNPC Comms Chatter messages appear on the bottom of your screen when you get close to one of them. This can help you identify their next move, what their actions are currently, or you can watch them talk during your gameplay. You can toggle the comms chatter in the settings, with 3 options; On, Silent (removes the tick when they're talking), and off. Drones do not produce Radio Chatter, though there is a bug that occasionally allows them to.\nIdle\nWhen NPC's are patrolling or flying around, they may make comments or reports on their status.\n\"Beautiful day to be out in space.”\n\"Nothing to report here.”\n\"Another day on patrol.”\n\"Everything appears to be in order.”\n\"Local conditions appear nominal.”\n\"Nothing unusual to report.”\n\"Continuing to next waypoint.”\n\"Continuing patrol route.”\nAttack\nWhen the NPC's are engaging a target, the NPC's will report their actions or status and attack the target. These are exclusive to NPC fightercraft.\n\"I've got a clear shot!”\n\"Commencing attack run.”\n\"The enemy is in my sights!”\n\"Beginning strafing run.”\n\"Going in for an attack run.”\nTargeting\nIf the NPC's have found a new target, or if they get attacked, they will report on who they're attacking.\n“Found a new target.”\n\"This one's mine.”\n\"Adjusting target priority…”\n\"Target acquired.”\n\"Engaging target.”\nHulled\nIf the NPC has lost their shields and starts to take hull damage, they will give a report on their situation.\n\"Shields are down!”\n\"We've lost shields.”\n\"The hull is taking damage!”\nTailed\nThis is mainly from fighters and rarely warships where if the NPC is getting tailed and can't engage the target properly, they will give a report on their situation.\n\"I'm being tailed!”\n\"I'm trying to lose them!”\n\"Taking evasive maneuvers!”\nWarp\nThis is exclusive to Faction Fleets and freighters, since they are the only types of NPC ships that warp out. The warp can be interplanetary or interstellar.\n\"Establishing warp-vector.”\n\"Warping out.”\n“Our job is done here, warping out.”\n“Preparing to warp.\"\nDestroyed\nThis can happen with any ship, and has a chance to occur when they are destroyed.\n\"Systems failing - we can't-\"\n\"Incomprehensible screaming\"\n\"AHHHHHH!\"\n\"The hull is breached! Life support-\"\n\"Hull containment failed! We can't-\"",
+  "content_structure": {
+    "title": "Comms Chatter",
+    "content": "",
+    "sections": [
+      {
+        "title": "Overview",
+        "content": "NPC Comms Chatter messages appear on the bottom of your screen when you get close to one of them. This can help you identify their next move, what their actions are currently, or you can watch them talk during your gameplay. You can toggle the comms chatter in the settings, with 3 options; On, Silent (removes the tick when they're talking), and off. Drones do not produce Radio Chatter, though there is a bug that occasionally allows them to."
+      },
+      {
+        "title": "Idle",
+        "content": "When NPC's are patrolling or flying around, they may make comments or reports on their status.\n\"Beautiful day to be out in space.”\n\"Nothing to report here.”\n\"Another day on patrol.”\n\"Everything appears to be in order.”\n\"Local conditions appear nominal.”\n\"Nothing unusual to report.”\n\"Continuing to next waypoint.”\n\"Continuing patrol route.”"
+      },
+      {
+        "title": "Attack",
+        "content": "When the NPC's are engaging a target, the NPC's will report their actions or status and attack the target. These are exclusive to NPC fightercraft.\n\"I've got a clear shot!”\n\"Commencing attack run.”\n\"The enemy is in my sights!”\n\"Beginning strafing run.”\n\"Going in for an attack run.”"
+      },
+      {
+        "title": "Targeting",
+        "content": "If the NPC's have found a new target, or if they get attacked, they will report on who they're attacking.\n“Found a new target.”\n\"This one's mine.”\n\"Adjusting target priority…”\n\"Target acquired.”\n\"Engaging target.”"
+      },
+      {
+        "title": "Hulled",
+        "content": "If the NPC has lost their shields and starts to take hull damage, they will give a report on their situation.\n\"Shields are down!”\n\"We've lost shields.”\n\"The hull is taking damage!”"
+      },
+      {
+        "title": "Tailed",
+        "content": "This is mainly from fighters and rarely warships where if the NPC is getting tailed and can't engage the target properly, they will give a report on their situation.\n\"I'm being tailed!”\n\"I'm trying to lose them!”\n\"Taking evasive maneuvers!”"
+      },
+      {
+        "title": "Warp",
+        "content": "This is exclusive to Faction Fleets and freighters, since they are the only types of NPC ships that warp out. The warp can be interplanetary or interstellar.\n\"Establishing warp-vector.”\n\"Warping out.”\n“Our job is done here, warping out.”\n“Preparing to warp.\""
+      },
+      {
+        "title": "Destroyed",
+        "content": "This can happen with any ship, and has a chance to occur when they are destroyed.\n\"Systems failing - we can't-\"\n\"Incomprehensible screaming\"\n\"AHHHHHH!\"\n\"The hull is breached! Life support-\"\n\"Hull containment failed! We can't-\""
+      }
+    ]
+  },
+  "images": []
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Point Defense Turrets",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Point_Defense_Turrets",
+  "summary": "",
+  "full_text": "Point Defense Turrets\n\nOverview\nPoint Defense Turrets (PDTs) are a variety of turrets added in the Next Gen Update. There are currently 4 PDT class turrets. These are the Tractor, Repeater, Pulse, and Chaingun. \nPDTs are installed directly from the Ship Edit menu for a fee of credits. They are not items. Hover over the PDT and click on it to change them, and to find them, hover your cursor over the PDT UI in the upper-right corner. Drag right click to view over the ship. \nThe Tractor, when given line of sight, pulls targeted ores towards the ship, allowing the user to collect them without moving. This is similar to how it functioned before the update moved them to the PDT slot. The other PDTs behave in a unique manner, allowing the user to select up to 4 targets for the turrets to automatically fire upon when given line of sight. This makes them exceptional for dealing with smaller ships that would either be difficult to manually aim at or would otherwise have distracted from larger threats.\nTurret Information\n\nPulse Turret:\nPulse is the PDT variant of the Beam Turret. It boasts the highest range, as well as the highest damage per shot, but is not as well qualified for taking on fighters and interceptors due to its slow turning speed. \nRepeater Turret:\nRepeater turrets fire a concentrated burst of energy that is lower damage than other turrets but more effective against fighters and agile ships due to high turning and fire rates\nRepeaters used to be a regular turret item, but was not used widely because it was very inefficient in dealing damage. They are now a Point Defence Turret that is used more than its previous turret counterpart.\nChaingun Turret:\nChaingun turrets are kinetic weapons designed to be extremely effective at taking out small fast targets and delivering substantial damage to targeted hulls in close quarters.\nChainguns are efficient in taking out fighters and interceptors because of its fast fire rate.\nThe Chaingun also suffered the old problem as the old Repeater turret, which was also turned into a PDT.\nBoth Repeaters and Chainguns were then made into a PDT since they are not a full on damage dealer to the point to be a small turret(smallest size for a regular controllable turret) \nTractor Turret:\nTractor turrets can be used to retrieve ore which is broken off of asteroids and into open space.\nTractor lock ores using the tractor hotkey, and the tractor beam will pull them in.\nThe tractor turret used to be a regular S turret before PDTs were added. Although they were used with mining, they did not count as a Mining turret and were not affected by mining turret limits on mining ships.",
+  "content_structure": {
+    "title": "Point Defense Turrets",
+    "content": "",
+    "sections": [
+      {
+        "title": "Overview",
+        "content": "Point Defense Turrets (PDTs) are a variety of turrets added in the Next Gen Update. There are currently 4 PDT class turrets. These are the Tractor, Repeater, Pulse, and Chaingun. \nPDTs are installed directly from the Ship Edit menu for a fee of credits. They are not items. Hover over the PDT and click on it to change them, and to find them, hover your cursor over the PDT UI in the upper-right corner. Drag right click to view over the ship. \nThe Tractor, when given line of sight, pulls targeted ores towards the ship, allowing the user to collect them without moving. This is similar to how it functioned before the update moved them to the PDT slot. The other PDTs behave in a unique manner, allowing the user to select up to 4 targets for the turrets to automatically fire upon when given line of sight. This makes them exceptional for dealing with smaller ships that would either be difficult to manually aim at or would otherwise have distracted from larger threats."
+      },
+      {
+        "title": "Turret Information",
+        "content": "",
+        "sections": [
+          {
+            "title": "Pulse Turret:",
+            "content": "Pulse is the PDT variant of the Beam Turret. It boasts the highest range, as well as the highest damage per shot, but is not as well qualified for taking on fighters and interceptors due to its slow turning speed. "
+          },
+          {
+            "title": "Repeater Turret:",
+            "content": "Repeater turrets fire a concentrated burst of energy that is lower damage than other turrets but more effective against fighters and agile ships due to high turning and fire rates\nRepeaters used to be a regular turret item, but was not used widely because it was very inefficient in dealing damage. They are now a Point Defence Turret that is used more than its previous turret counterpart."
+          },
+          {
+            "title": "Chaingun Turret:",
+            "content": "Chaingun turrets are kinetic weapons designed to be extremely effective at taking out small fast targets and delivering substantial damage to targeted hulls in close quarters.\nChainguns are efficient in taking out fighters and interceptors because of its fast fire rate.\nThe Chaingun also suffered the old problem as the old Repeater turret, which was also turned into a PDT.\nBoth Repeaters and Chainguns were then made into a PDT since they are not a full on damage dealer to the point to be a small turret(smallest size for a regular controllable turret) "
+          },
+          {
+            "title": "Tractor Turret:",
+            "content": "Tractor turrets can be used to retrieve ore which is broken off of asteroids and into open space.\nTractor lock ores using the tractor hotkey, and the tractor beam will pull them in.\nThe tractor turret used to be a regular S turret before PDTs were added. Although they were used with mining, they did not count as a Mining turret and were not affected by mining turret limits on mining ships."
+          }
+        ]
+      }
+    ],
+    "infobox": "Pulse\nDamage per second\n10\nDamage per shot\n5\nRate of fire\n120\nProjectile speed\n25000\nMaximum range\n4000\nAccuracy\n0.10\nTurning speed\n120\nMax range damage\n0.2x\nRepeater\nDamage per second\n12.5\nDamage per shot\n2.5\nRate of fire\n300\nProjectile speed\n2500\nAccuracy\n1.00°\nTurning speed\n180\nChaingun\nDamage per second\n15\nProjectile speed\n2500\nMaximum range\n2500\nTurning speed\n60\nHull damage\n1.5x\nTractor\nProjectile speed\n50\nMaximum range\n2000\nTurning speed\n80"
+  },
+  "images": [
+    "https://static.wikia.nocookie.net/starscape-roblox/images/9/95/Tractor_PDT.png/revision/latest?cb=20220118204223"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Warp Disruptor",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Warp_Disruptor",
+  "summary": "This is the deployable warp disruptor. For the subsystem, see Subsystems.",
+  "full_text": "Warp Disruptor\nThis is the deployable warp disruptor. For the subsystem, see Subsystems.\nA warp disruptor is an item that can be bought at the marketplace and can be salvaged from pirate dens. When deployed, this item will create a large sphere that will prevent any ship from warping while it's in the sphere. This item is useful for preventing players or AI-controlled ships from warping away during combat. \nThere are currently 3 Tiers of Warp disruptors in the game, each tier having higher stats than the previous.\nWarp Disruptor deployables only work in Wild Systems.",
+  "content_structure": {
+    "title": "Warp Disruptor",
+    "content": "This is the deployable warp disruptor. For the subsystem, see Subsystems.\nA warp disruptor is an item that can be bought at the marketplace and can be salvaged from pirate dens. When deployed, this item will create a large sphere that will prevent any ship from warping while it's in the sphere. This item is useful for preventing players or AI-controlled ships from warping away during combat. \nThere are currently 3 Tiers of Warp disruptors in the game, each tier having higher stats than the previous.\nWarp Disruptor deployables only work in Wild Systems.",
+    "infobox": "Warp Disruptor\n\t\t\t\t\t\t\tTier I\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tTier II\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tTier III\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\nBasic Info\nEffects\nPrevents ships within its radius from warping until it's either destroyed or its duration runs out.\nSource\nTier I: Marketplace, Pirate Dens, CraftingTier II and III: Pirate Dens, Crafting\nCost to buy\nTier I: 500Tier II and III: unbuyable\nSell value\nTier I: 250Tier II: 375Tier III: 500\nStatistics\nDisruption range\nTier I: 3000mTier II: 3500mTier III: 4000m\nDuration\nTier I, II and III: 3600 seconds (1 hour)\nActivation delay\nTier I: 5 secondsTier II: 3 secondsTier III: 2 seconds\nHull points\nTier I: 1500Tier II: 2000Tier III: 2500\nDeploy cooldown\nTier I, II and III: 30 seconds"
+  },
+  "images": [
+    "https://static.wikia.nocookie.net/starscape-roblox/images/4/46/Warp_Disruptor_III.png/revision/latest?cb=20240528120620"
+  ]
+}

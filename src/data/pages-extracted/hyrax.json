@@ -1,0 +1,28 @@
+{
+  "title": "Hyrax",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Hyrax",
+  "summary": "\"The Hyrax is an entry-level hauler. Though it lacks both in capacity and agility, it is a good step for someone looking to advance their career in cargo hauling.\"",
+  "full_text": "Hyrax\n\"The Hyrax is an entry-level hauler. Though it lacks both in capacity and agility, it is a good step for someone looking to advance their career in cargo hauling.\"\nThe Hyrax is an entry-level hauler-class ship of an Mastodon line. It is best suited as a cheap starter hauling ship.\nAdvantages\nThe Hyrax is cheap and can be bought at most NPC marketplaces, making it the easiest ship to start hauling with. It is useful for taking on low tier hauling missions for standing, money, or skill experience. The Hyrax (and any other hauler, really) can be used in tandem with a piracy fleet in order to deliver extreme amounts of warp disruptors.\nDisadvantages\nThe Hyrax is an entry-level ship, and thus will perform poorly compared to upgraded haulers. It is generally inferior in cargo capacity, speed, and durability to any other fighter-style hauler, and is only useful as a cheap starter ship.\nTrivia\n- The current Hyrax is modeled by Enzo_Owl.\nHaulers\nLine\nT1\nT2\nT3\nCorvette\nFrigate\nNebula\nAstero\nGalaxy\nMastodon\nHyrax\nRhino\nBison\nZubron\nCloak\nVeil\nShroud",
+  "content_structure": {
+    "title": "Hyrax",
+    "content": "\"The Hyrax is an entry-level hauler. Though it lacks both in capacity and agility, it is a good step for someone looking to advance their career in cargo hauling.\"\nThe Hyrax is an entry-level hauler-class ship of an Mastodon line. It is best suited as a cheap starter hauling ship.",
+    "sections": [
+      {
+        "title": "Advantages",
+        "content": "The Hyrax is cheap and can be bought at most NPC marketplaces, making it the easiest ship to start hauling with. It is useful for taking on low tier hauling missions for standing, money, or skill experience. The Hyrax (and any other hauler, really) can be used in tandem with a piracy fleet in order to deliver extreme amounts of warp disruptors."
+      },
+      {
+        "title": "Disadvantages",
+        "content": "The Hyrax is an entry-level ship, and thus will perform poorly compared to upgraded haulers. It is generally inferior in cargo capacity, speed, and durability to any other fighter-style hauler, and is only useful as a cheap starter ship."
+      },
+      {
+        "title": "Trivia",
+        "content": "- The current Hyrax is modeled by Enzo_Owl.\nHaulers\nLine\nT1\nT2\nT3\nCorvette\nFrigate\nNebula\nAstero\nGalaxy\nMastodon\nHyrax\nRhino\nBison\nZubron\nCloak\nVeil\nShroud"
+      }
+    ],
+    "infobox": "Hyrax\nShip Class\nHauler\nField Stats\nDPS\n10\nShield\nShield Regen\nDeflection\n250\n1\n0\nHull\nHull Regen\nArmor\n250\n0\n0\nEnergy\nEnergy Regen\n80\n1.8\nSpeed\nAcceleration\nAgility\n330\n200\n90\nOther Stats\nWarp Speed\nCharge Time\n1.00\n4\nSignal Range\nSensor Strength\n4500\n25\nCargo Slots\n4\nCustomization\nFighter Hardpoints\nMining Hardpoints\nPDT Hardpoints\n0\n0\n1\nWEP\nDEF\nENG\nRCT\n0\n0\n1\n0\nSubsystems\n1\nCrafting\nNPC Buy\nNPC Sell\n800\n400\nVolume\nTime\n100 m3\n5:00\nKorrelite\nReknite\nGellium\nAxnit\n130\n35\n15\n-\nBlucor\nRedcor\nVexnium\nWater\n-\n-\n-\n-"
+  },
+  "images": [
+    "https://static.wikia.nocookie.net/starscape-roblox/images/5/5b/Hyrax.png/revision/latest?cb=20220309222348"
+  ]
+}

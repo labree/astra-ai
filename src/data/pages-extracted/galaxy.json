@@ -1,0 +1,28 @@
+{
+  "title": "Galaxy",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Galaxy",
+  "summary": "\"The Galaxy is a beast of a hauler, utilized by the Trade Union for transporting materials when danger is not of large concern. It is slow and cumbersome, but turns a hefty profit with each run.\"",
+  "full_text": "Galaxy\n\"The Galaxy is a beast of a hauler, utilized by the Trade Union for transporting materials when danger is not of large concern. It is slow and cumbersome, but turns a hefty profit with each run.\"\nThe Galaxy is a hauler-class ship of the Nebula line. It is best suited as a heavy hauler, capable of bringing massive amounts of supplies per trip.\nAdvantages\nThe Galaxy has the largest amount of cargo space of any ship in the game, and can supply faction HQs in a few runs. With escorts, this ship can satisfy the needs of entire systems alone, and has the durability and turrets to defend itself from lighter fighters.\nDisadvantages\nThe Galaxy's -20% damage malus, while made up for by more combat turrets, still keeps it from being able to defend itself well. Pilots are recommended to bring friends that can chase off disruptor ships or high-DPS ships camping routes, and discouraged from bringing it into more dangerous zones, as its warp charge time and general speed and agility makes it a sitting duck.\nAs a faction ship, its blueprint must be purchased using Loyalty Points at a faction terminal or from other players, making it less accessible to new or neutral players.\nTrivia\n- The current Galaxy is modeled by swindle150 and ii_Cove.\nHaulers\nLine\nT1\nT2\nT3\nCorvette\nFrigate\nNebula\nAstero\nGalaxy\nMastodon\nHyrax\nRhino\nBison\nZubron\nCloak\nVeil\nShroud",
+  "content_structure": {
+    "title": "Galaxy",
+    "content": "\"The Galaxy is a beast of a hauler, utilized by the Trade Union for transporting materials when danger is not of large concern. It is slow and cumbersome, but turns a hefty profit with each run.\"\nThe Galaxy is a hauler-class ship of the Nebula line. It is best suited as a heavy hauler, capable of bringing massive amounts of supplies per trip.",
+    "sections": [
+      {
+        "title": "Advantages",
+        "content": "The Galaxy has the largest amount of cargo space of any ship in the game, and can supply faction HQs in a few runs. With escorts, this ship can satisfy the needs of entire systems alone, and has the durability and turrets to defend itself from lighter fighters."
+      },
+      {
+        "title": "Disadvantages",
+        "content": "The Galaxy's -20% damage malus, while made up for by more combat turrets, still keeps it from being able to defend itself well. Pilots are recommended to bring friends that can chase off disruptor ships or high-DPS ships camping routes, and discouraged from bringing it into more dangerous zones, as its warp charge time and general speed and agility makes it a sitting duck.\nAs a faction ship, its blueprint must be purchased using Loyalty Points at a faction terminal or from other players, making it less accessible to new or neutral players."
+      },
+      {
+        "title": "Trivia",
+        "content": "- The current Galaxy is modeled by swindle150 and ii_Cove.\nHaulers\nLine\nT1\nT2\nT3\nCorvette\nFrigate\nNebula\nAstero\nGalaxy\nMastodon\nHyrax\nRhino\nBison\nZubron\nCloak\nVeil\nShroud"
+      }
+    ],
+    "infobox": "Galaxy\nShip Class\nHauler\nSpecial\nTurret Damage -20%\nField Stats\nDPS\n218\nShield\nShield Regen\nDeflection\n1000\n4\n0.5\nHull\nHull Regen\nArmor\n3800\n0\n1.5\nEnergy\nEnergy Regen\n450\n6\nSpeed\nAcceleration\nAgility\n120\n28\n37\nOther Stats\nWarp Speed\nCharge Time\n0.65\n4.5\nSignal Range\nSensor Strength\n8000\n40\nCargo Slots\n30\nCustomization\nPDT Turrets\nSmall Turrets\n4\n4\nWEP\nDEF\nENG\nRCT\n1\n2\n0\n0\nSubsystems\n1\nCrafting\nNPC Buy\nNPC Sell\n-\n20000\nVolume\nTime\n400 m3\n2:30:00\nKorrelite\nReknite\nGellium\nAxnit\n5200\n3100\n1950\n750\nBlucor\nRedcor\nVexnium\nWater\n275\n100\n-\n-\nComponent\nAmount\nGalaxy Blueprint\n1"
+  },
+  "images": [
+    "https://static.wikia.nocookie.net/starscape-roblox/images/8/83/Galaxy.png/revision/latest?cb=20220309222434"
+  ]
+}

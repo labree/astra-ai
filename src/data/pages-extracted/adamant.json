@@ -1,0 +1,28 @@
+{
+  "title": "Adamant",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Adamant",
+  "summary": "\"The Adamant is a frigate designed with a focus around rapid response, having a comparatively flat warp speed and charge time, as well as substantial damage and shield regen. However, its lack of overall hull and shield durability make it susceptible to melting under pressure.\"",
+  "full_text": "Adamant\n\"The Adamant is a frigate designed with a focus around rapid response, having a comparatively flat warp speed and charge time, as well as substantial damage and shield regen. However, its lack of overall hull and shield durability make it susceptible to melting under pressure.\"\nThe Adamant is a frigate-class ship of the Valiance ship line. It is best suited as a fast kiting ship due to its regen and maneuverability.\nAdvantages\nThe Adamant is essentially a slightly slower and tankier Infinity, granting it the same kiting ability as its predecessor. It has respectable turret placement in almost all angles and can turn to face enemies quickly, as well as warp quickly.\nDisadvantages\nThe Adamant has low amounts of subsystem and PDT slots and thus is not as customizable as other frigates. Players will find that their actions are restricted by the engagement profiles of other ships, and that fighters will pose a significant threat to their range superiority. Because of it's low health, the Adamant can be killed by skilled Corvettes if they are agile enough to dodge your turrets.\nTrivia\n- The current Adamant is modeled by Jeff_D.\nWarships\nLine\nCorvette\nFrigate\nDestroyer\nLegionis\nChevron\nPhalanx\nEchelon\nConstellation\nRadix\nHalo\nHorizon\nValiance\nInfinity\nAdamant\nFortitude\nStronghold\nBulwark\nMegalodon\nKnifejaw\nBarracuda\nLoxodon\nMandator\nEdict\nJudicator\nConciliator\nRighteous\nLiberty\nVirtue\nJustice\nValiance Line\nInterceptor\nFighter\nCorvette\nFrigate\nDestroyer\nT1\nZenith\nInfinity\nAdamant\nFortiude\nT2\nPolaris\nExotic\nHybrid Polaris",
+  "content_structure": {
+    "title": "Adamant",
+    "content": "\"The Adamant is a frigate designed with a focus around rapid response, having a comparatively flat warp speed and charge time, as well as substantial damage and shield regen. However, its lack of overall hull and shield durability make it susceptible to melting under pressure.\"\nThe Adamant is a frigate-class ship of the Valiance ship line. It is best suited as a fast kiting ship due to its regen and maneuverability.",
+    "sections": [
+      {
+        "title": "Advantages",
+        "content": "The Adamant is essentially a slightly slower and tankier Infinity, granting it the same kiting ability as its predecessor. It has respectable turret placement in almost all angles and can turn to face enemies quickly, as well as warp quickly."
+      },
+      {
+        "title": "Disadvantages",
+        "content": "The Adamant has low amounts of subsystem and PDT slots and thus is not as customizable as other frigates. Players will find that their actions are restricted by the engagement profiles of other ships, and that fighters will pose a significant threat to their range superiority. Because of it's low health, the Adamant can be killed by skilled Corvettes if they are agile enough to dodge your turrets."
+      },
+      {
+        "title": "Trivia",
+        "content": "- The current Adamant is modeled by Jeff_D.\nWarships\nLine\nCorvette\nFrigate\nDestroyer\nLegionis\nChevron\nPhalanx\nEchelon\nConstellation\nRadix\nHalo\nHorizon\nValiance\nInfinity\nAdamant\nFortitude\nStronghold\nBulwark\nMegalodon\nKnifejaw\nBarracuda\nLoxodon\nMandator\nEdict\nJudicator\nConciliator\nRighteous\nLiberty\nVirtue\nJustice\nValiance Line\nInterceptor\nFighter\nCorvette\nFrigate\nDestroyer\nT1\nZenith\nInfinity\nAdamant\nFortiude\nT2\nPolaris\nExotic\nHybrid Polaris"
+      }
+    ],
+    "infobox": "Adamant\nShip Class\nFrigate\nField Stats\nDPS\n277\nShield\nShield Regen\nDeflection\n2000\n25\n1\nHull\nHull Regen\nArmor\n4200\n0\n2\nEnergy\nEnergy Regen\n490\n7.5\nSpeed\nAcceleration\nAgility\n170\n70\n52\nOther Stats\nWarp Speed\nCharge Time\n1.00\n4\nSignal Range\nSensor Strength\n8000\n40\nCustomization\nPDT Turrets\nSmall Turrets\nMed. Turrets\n2\n6\n0\nWEP\nDEF\nENG\nRCT\n1\n0\n1\n2\nSubsystems\n1\nCrafting\nNPC Buy\nNPC Sell\n-\n20000\nVolume\nTime\n400 m3\n2:30:00\nKorrelite\nReknite\nGellium\nAxnit\n4500\n2700\n1650\n650\nBlucor\nRedcor\nVexnium\nWater\n225\n100\n-\n-"
+  },
+  "images": [
+    "https://static.wikia.nocookie.net/starscape-roblox/images/3/30/Adamant.png/revision/latest?cb=20220309210438"
+  ]
+}

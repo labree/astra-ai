@@ -1,0 +1,26 @@
+{
+  "title": "Beam Turret",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Beam_Turret",
+  "summary": "Small Turrets can only be equipped onto ships with S Turret Slots. Small ships such as Badger, Aurora, or Bison do not have S turret slots and cannot have S-turrets equipped. For the small autoturrets that some small ships have, see PDT.",
+  "full_text": "Beam Turret\nSmall Turrets can only be equipped onto ships with S Turret Slots. Small ships such as Badger, Aurora, or Bison do not have S turret slots and cannot have S-turrets equipped. For the small autoturrets that some small ships have, see PDT.\nBeam Turret (Small)\nBeam turrets are turrets that fire a concentrated beam of energy at a target, dealing a large amount of damage over a very concentrated amount of hits, in laser-like fashion. The farther the beam travels, the less damage it does. \nThe turret boasts the most instantaneous burst damage of all turrets, and an equal range to the Railgun, making the two the longest-range weapons in the game. Like Railguns, Beams have an extremely low rate of fire, so their total DPS is inferior to faster-firing weapons such as Cannons or Blasters. Beam turrets also turn quite slowly.\nBeam turrets come in Tier 1, Tier 2, Tier 3, and an Exotic variant. The Beam turret's only Exotic variant is Hybrid. Hybrid Beam turrets must be crafted from Drone Cores, Power Cells, a Tier 3 Beam turret, and a Hybrid Beam blueprint dropped by high-tier Drones and Drone Factories.\nBeam-M Turret (Medium)\nBeam-M turrets are very similar to their S variant. They have greater firepower and lower maneuverability. Medium turrets can only be equipped onto ships with Medium Turret Slots.\nBeam-M turrets can be Tier 1, Tier 2, Tier 3, or an Exotic variant. The Beam-M's only Exotic variant is Hybrid. Hybrid Beam-M turrets must be crafted from Drone Cores, a Tier 3 Beam-M turret, and a Hybrid Beam-M blueprint dropped by high-tier Drones and Drone Factories.\nManufacturing\nBeam (Small)\nTier 1\n80 Korrelite, 60 Reknite, 40 Gellium\nTier 2\n40 Axnit, 20 Narcor, Beam I\nTier 3\n20 Red Narcor, Beam II\nHybrid\n10 Drone core, 10 Power cell, Beam III, Hybrid Beam blueprint\nBeam-M (Medium)\nTier 1\n160 Korrelite, 120 Reknite, 80 Gellium\nTier 2\n80 Axnit, 40 Narcor, Beam-M I\nTier 3\n40 Red Narcor,Beam-M II\nHybrid\n20 Drone core, 20 Power cell, Beam-M III, Hybrid Beam-M blueprint",
+  "content_structure": {
+    "title": "Beam Turret",
+    "content": "Small Turrets can only be equipped onto ships with S Turret Slots. Small ships such as Badger, Aurora, or Bison do not have S turret slots and cannot have S-turrets equipped. For the small autoturrets that some small ships have, see PDT.",
+    "sections": [
+      {
+        "title": "Beam Turret (Small)",
+        "content": "Beam turrets are turrets that fire a concentrated beam of energy at a target, dealing a large amount of damage over a very concentrated amount of hits, in laser-like fashion. The farther the beam travels, the less damage it does. \nThe turret boasts the most instantaneous burst damage of all turrets, and an equal range to the Railgun, making the two the longest-range weapons in the game. Like Railguns, Beams have an extremely low rate of fire, so their total DPS is inferior to faster-firing weapons such as Cannons or Blasters. Beam turrets also turn quite slowly.\nBeam turrets come in Tier 1, Tier 2, Tier 3, and an Exotic variant. The Beam turret's only Exotic variant is Hybrid. Hybrid Beam turrets must be crafted from Drone Cores, Power Cells, a Tier 3 Beam turret, and a Hybrid Beam blueprint dropped by high-tier Drones and Drone Factories."
+      },
+      {
+        "title": "Beam-M Turret (Medium)",
+        "content": "Beam-M turrets are very similar to their S variant. They have greater firepower and lower maneuverability. Medium turrets can only be equipped onto ships with Medium Turret Slots.\nBeam-M turrets can be Tier 1, Tier 2, Tier 3, or an Exotic variant. The Beam-M's only Exotic variant is Hybrid. Hybrid Beam-M turrets must be crafted from Drone Cores, a Tier 3 Beam-M turret, and a Hybrid Beam-M blueprint dropped by high-tier Drones and Drone Factories."
+      },
+      {
+        "title": "Manufacturing",
+        "content": "Beam (Small)\nTier 1\n80 Korrelite, 60 Reknite, 40 Gellium\nTier 2\n40 Axnit, 20 Narcor, Beam I\nTier 3\n20 Red Narcor, Beam II\nHybrid\n10 Drone core, 10 Power cell, Beam III, Hybrid Beam blueprint\nBeam-M (Medium)\nTier 1\n160 Korrelite, 120 Reknite, 80 Gellium\nTier 2\n80 Axnit, 40 Narcor, Beam-M I\nTier 3\n40 Red Narcor,Beam-M II\nHybrid\n20 Drone core, 20 Power cell, Beam-M III, Hybrid Beam-M blueprint"
+      }
+    ],
+    "infobox": "Beam Turret\nDamage per shot\n180 (Tier 1) to 240 (Hybrid)\nRate of fire\n8\nDamage per second\n20 (Tier 1) to 26.7 (Hybrid)\nProjectile Speed\n10000\nProjectile Range\n5000\nCharge Time\n1.5\nTurn Speed\n50\nShield Multiplier\nHull Multiplier\n1\n1\nBeam-M Turret\nDamage per shot\n450 (Tier 1) to 570 (Hybrid)\nRate of fire\n7\nDamage per second\n44.7 (Tier 1) to 56.6 (Hybrid)\nProjectile Speed\n10000\nProjectile Range\n5000\nCharge Time\n1.5\nTurn Speed\n50\nShield Multiplier\nHull Multiplier\n1\n1"
+  },
+  "images": []
+}

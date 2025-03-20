@@ -1,0 +1,29 @@
+{
+  "title": "Faction Fleets",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Faction_Fleets",
+  "summary": "",
+  "full_text": "Faction Fleets\n\nSystem Fleets\nSystem Fleets are an event where a group of Lycentian, Kavani, Foralkan, or Mining Guild ships spawn. They will fly around the planet's warp hub for a time before warping to another planet, engaging any enemy players or NPCs. They can range from a few fighters and a corvette to an armada with over eight cruisers and many support ships.\nUnlike Drone Fleets, they do not have multiple waves, nor a leader that drops special loot.\nDefense Fleets\nDefense Fleets are the group of ships surrounding a faction station. They do not warp, and they will attack hostile NPCs and players. More and larger ships will spawn depending on the importance of the station.\nReinforcement Fleets\nReinforcement Fleets spawn in Contested Systems when a player activates a reinforcement beacon. These fleets will warp in on the beacon, and then warp to attack shield generators. See Faction Warfare for more information.\nHangar Fleets\nHangar Fleets spawn in Contested Systems from a Hangar structure. They patrol the system and defend it from enemy players and NPCs.",
+  "content_structure": {
+    "title": "Faction Fleets",
+    "content": "",
+    "sections": [
+      {
+        "title": "System Fleets",
+        "content": "System Fleets are an event where a group of Lycentian, Kavani, Foralkan, or Mining Guild ships spawn. They will fly around the planet's warp hub for a time before warping to another planet, engaging any enemy players or NPCs. They can range from a few fighters and a corvette to an armada with over eight cruisers and many support ships.\nUnlike Drone Fleets, they do not have multiple waves, nor a leader that drops special loot."
+      },
+      {
+        "title": "Defense Fleets",
+        "content": "Defense Fleets are the group of ships surrounding a faction station. They do not warp, and they will attack hostile NPCs and players. More and larger ships will spawn depending on the importance of the station."
+      },
+      {
+        "title": "Reinforcement Fleets",
+        "content": "Reinforcement Fleets spawn in Contested Systems when a player activates a reinforcement beacon. These fleets will warp in on the beacon, and then warp to attack shield generators. See Faction Warfare for more information."
+      },
+      {
+        "title": "Hangar Fleets",
+        "content": "Hangar Fleets spawn in Contested Systems from a Hangar structure. They patrol the system and defend it from enemy players and NPCs."
+      }
+    ]
+  },
+  "images": []
+}

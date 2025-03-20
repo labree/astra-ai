@@ -1,0 +1,28 @@
+{
+  "title": "Yuma",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Yuma",
+  "summary": "\"The Yuma is a large vendor which has the capacity to place up to ten items on sale in its onboard store.\"",
+  "full_text": "Yuma\n\"The Yuma is a large vendor which has the capacity to place up to ten items on sale in its onboard store.\"\nThe Yuma is a vendor-class ship of the Fargo line that can sell up to 10 items at a time in the same way that Trade Union and Syndicate ships sell items in space.\nAdvantages\nThe Yuma provides a unique way to sell items to other players. Selling items from a Yuma offers higher visibility than placing an item on the market while also being less hassle than a direct trade. If the marketplace is taken offline, vendors become the best option to sell items.\nThe Yuma is the best of the two vendors, with 2 extra display screens and 6 extra item slots compared to the Fargo.\nDisadvantages\nThe Yuma has no weaponry of any kind, leaving it completely unable to defend itself. It's also very slow, with poor acceleration, low top speed, and slow warp speed.\nTrivia\nThe crafting recipe was removed in the Next Gen Update, but was later added back Version 11.2.0, along with the Fargo.\nBecause it has no weapons whatsoever, its weapon rig slot is completely useless.\nThe current Yuma is modeled by Jeff_D.\nVendors\nShip Line\nT1\nT2\nFargo\nFargo\nYuma",
+  "content_structure": {
+    "title": "Yuma",
+    "content": "\"The Yuma is a large vendor which has the capacity to place up to ten items on sale in its onboard store.\"\nThe Yuma is a vendor-class ship of the Fargo line that can sell up to 10 items at a time in the same way that Trade Union and Syndicate ships sell items in space.",
+    "sections": [
+      {
+        "title": "Advantages",
+        "content": "The Yuma provides a unique way to sell items to other players. Selling items from a Yuma offers higher visibility than placing an item on the market while also being less hassle than a direct trade. If the marketplace is taken offline, vendors become the best option to sell items.\nThe Yuma is the best of the two vendors, with 2 extra display screens and 6 extra item slots compared to the Fargo."
+      },
+      {
+        "title": "Disadvantages",
+        "content": "The Yuma has no weaponry of any kind, leaving it completely unable to defend itself. It's also very slow, with poor acceleration, low top speed, and slow warp speed."
+      },
+      {
+        "title": "Trivia",
+        "content": "The crafting recipe was removed in the Next Gen Update, but was later added back Version 11.2.0, along with the Fargo.\nBecause it has no weapons whatsoever, its weapon rig slot is completely useless.\nThe current Yuma is modeled by Jeff_D.\nVendors\nShip Line\nT1\nT2\nFargo\nFargo\nYuma"
+      }
+    ],
+    "infobox": "Yuma\nShip Class\nVendor\nField Stats\nDPS\n0\nShield\nShield Regen\nDeflection\n100\n1\n0\nHull\nHull Regen\nArmor\n550\n0\n0\nEnergy\nEnergy Regen\n150\n6\nSpeed\nAcceleration\nAgility\n160\n60\n75\nOther Stats\nWarp Speed\nCharge Time\n0.70\n5\nSignal Range\nSensor Strength\n5000\n25\nCustomization\nFighter Hardpoints\nMining Hardpoints\nPDT Hardpoints\n0\n0\n0\nWEP\nDEF\nENG\nRCT\n1\n1\n1\n1\nSubsystems\n1\nCrafting\nNPC Buy\nNPC Sell\n-\n1500\nVolume\nTime\n125 m3\n20:00\nKorrelite\nReknite\nGellium\nAxnit\n-\n-\n-\n-\nBlucor\nRedcor\nVexnium\nWater\n40\n-\n-\n-\nComponent\nAmount\nFargo\n1"
+  },
+  "images": [
+    "https://static.wikia.nocookie.net/starscape-roblox/images/9/9a/Yuma.png/revision/latest?cb=20241217032849"
+  ]
+}

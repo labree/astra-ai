@@ -1,0 +1,28 @@
+{
+  "title": "Astero",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Astero",
+  "summary": "\"The Astero is a large hauling corvette utilized by the Trade Union. While it leaves something to be desired in terms of agility, no ship in its class can outmatch its cargo capacity.\"",
+  "full_text": "Astero\n\"The Astero is a large hauling corvette utilized by the Trade Union. While it leaves something to be desired in terms of agility, no ship in its class can outmatch its cargo capacity.\"\nThe Astero is a hauler-class ship of the Nebula line. It is best suited as a cheap but bulky hauler.\nAdvantages\nThe Astero is around the cost of a corvette similar to a Zubron, but features the exact cargo space, but more tankiness with its HP pool and defense rigs. It is a good ship for bulk hauling in escorted hauling fleets or faction warfare logistic lines, but many players choose the Zubron due to its superior speed.\nDisadvantages\nThe Astero's -20% damage malus causes it to be less useful than the Zubron at self-defense, and will die quite easily without escorts, despite its durability. Pilots are recommended to bring friends that can chase off disruptor ships or high-DPS ships camping routes, and discouraged from bringing it into more dangerous zones, as its warp speed is abysmal for escaping enemies.\nThe Astero is outclassed by the Zubron in terms of mobility.\nAs a faction ship, its blueprint must be purchased using Loyalty Points at a faction terminal or from other players, making it less accessible to new or neutral players.\nThe blueprint can also be obtained from Pirate Dens.\nTrivia\n- The current Astero is modeled by swindle150 and ii_Cove.\nHaulers\nLine\nT1\nT2\nT3\nCorvette\nFrigate\nNebula\nAstero\nGalaxy\nMastodon\nHyrax\nRhino\nBison\nZubron\nCloak\nVeil\nShroud",
+  "content_structure": {
+    "title": "Astero",
+    "content": "\"The Astero is a large hauling corvette utilized by the Trade Union. While it leaves something to be desired in terms of agility, no ship in its class can outmatch its cargo capacity.\"\nThe Astero is a hauler-class ship of the Nebula line. It is best suited as a cheap but bulky hauler.",
+    "sections": [
+      {
+        "title": "Advantages",
+        "content": "The Astero is around the cost of a corvette similar to a Zubron, but features the exact cargo space, but more tankiness with its HP pool and defense rigs. It is a good ship for bulk hauling in escorted hauling fleets or faction warfare logistic lines, but many players choose the Zubron due to its superior speed."
+      },
+      {
+        "title": "Disadvantages",
+        "content": "The Astero's -20% damage malus causes it to be less useful than the Zubron at self-defense, and will die quite easily without escorts, despite its durability. Pilots are recommended to bring friends that can chase off disruptor ships or high-DPS ships camping routes, and discouraged from bringing it into more dangerous zones, as its warp speed is abysmal for escaping enemies.\nThe Astero is outclassed by the Zubron in terms of mobility.\nAs a faction ship, its blueprint must be purchased using Loyalty Points at a faction terminal or from other players, making it less accessible to new or neutral players.\nThe blueprint can also be obtained from Pirate Dens."
+      },
+      {
+        "title": "Trivia",
+        "content": "- The current Astero is modeled by swindle150 and ii_Cove.\nHaulers\nLine\nT1\nT2\nT3\nCorvette\nFrigate\nNebula\nAstero\nGalaxy\nMastodon\nHyrax\nRhino\nBison\nZubron\nCloak\nVeil\nShroud"
+      }
+    ],
+    "infobox": "Astero\nShip Class\nHauler\nSpecial\nTurret Damage -20%\nField Stats\nDPS\n151\nShield\nShield Regen\nDeflection\n850\n2\n0.5\nHull\nHull Regen\nArmor\n3300\n0\n1.5\nEnergy\nEnergy Regen\n350\n4.5\nSpeed\nAcceleration\nAgility\n160\n32\n41\nOther Stats\nWarp Speed\nCharge Time\n0.65\n4.5\nSignal Range\nSensor Strength\n6500\n35\nCargo Slots\n20\nCustomization\nPDT Turrets\nSmall Turrets\n2\n3\nWEP\nDEF\nENG\nRCT\n0\n2\n0\n0\nSubsystems\n1\nCrafting\nNPC Buy\nNPC Sell\n-\n10000\nVolume\nTime\n225 m3\n1:00:00\nKorrelite\nReknite\nGellium\nAxnit\n2200\n1400\n900\n300\nBlucor\nRedcor\nVexnium\nWater\n100\n-\n-\n-\nComponent\nAmount\nAstero Blueprint\n1"
+  },
+  "images": [
+    "https://static.wikia.nocookie.net/starscape-roblox/images/d/d1/Astero.png/revision/latest?cb=20220309222426"
+  ]
+}

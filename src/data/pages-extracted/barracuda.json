@@ -1,0 +1,28 @@
+{
+  "title": "Barracuda",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Barracuda",
+  "summary": "\"The Barracuda is the frigate of choice for the Foralkan Armada. It is a well-rounded warship capable of filling many roles in a fleet.\"",
+  "full_text": "Barracuda\n\"The Barracuda is the frigate of choice for the Foralkan Armada. It is a well-rounded warship capable of filling many roles in a fleet.\"\nThe Barracuda is a frigate-class ship of the Megalodon ship line. It is best suited as a heavy-hitting frigate due to its damage focus.\nAdvantages\nThe Barracuda, like most Foralkan ships, is built for extreme aggressiveness, blasting apart any enemies in its path. It is a frontal-focused turret placement that allows it to charge front-towards-enemy. It is reasonably durable for a frigate as well. The Barracuda also has a good amount of module slots.\nDisadvantages\nThe Barracuda is not very maneuverable, and has poor PDT placement gathered around its rear, making it vulnerable to swarms of corvettes or fightercraft. It is easy to overcommit with this ship.\nAs a faction ship, its blueprint must be purchased using Loyalty Points at a faction terminal or from other players, making it less accessible to new or neutral players.\nTrivia\n- The current Barracuda is modeled by Infranium157.\n-The current model was actually released before the Next-Gen update.\nWarships\nLine\nCorvette\nFrigate\nDestroyer\nLegionis\nChevron\nPhalanx\nEchelon\nConstellation\nRadix\nHalo\nHorizon\nValiance\nInfinity\nAdamant\nFortitude\nStronghold\nBulwark\nMegalodon\nKnifejaw\nBarracuda\nLoxodon\nMandator\nEdict\nJudicator\nConciliator\nRighteous\nLiberty\nVirtue\nJustice\nMegalodon Line\nInterceptor\nFighter\nCorvette\nFrigate\nDestroyer\nCruiser\nBattleship\nT1\nMackeral\nPiranha\nKnifejaw\nBarracuda\nLoxodon\nSunfish\nPtychodus\nT2\nCandiru\nThresher\nExotic",
+  "content_structure": {
+    "title": "Barracuda",
+    "content": "\"The Barracuda is the frigate of choice for the Foralkan Armada. It is a well-rounded warship capable of filling many roles in a fleet.\"\nThe Barracuda is a frigate-class ship of the Megalodon ship line. It is best suited as a heavy-hitting frigate due to its damage focus.",
+    "sections": [
+      {
+        "title": "Advantages",
+        "content": "The Barracuda, like most Foralkan ships, is built for extreme aggressiveness, blasting apart any enemies in its path. It is a frontal-focused turret placement that allows it to charge front-towards-enemy. It is reasonably durable for a frigate as well. The Barracuda also has a good amount of module slots."
+      },
+      {
+        "title": "Disadvantages",
+        "content": "The Barracuda is not very maneuverable, and has poor PDT placement gathered around its rear, making it vulnerable to swarms of corvettes or fightercraft. It is easy to overcommit with this ship.\nAs a faction ship, its blueprint must be purchased using Loyalty Points at a faction terminal or from other players, making it less accessible to new or neutral players."
+      },
+      {
+        "title": "Trivia",
+        "content": "- The current Barracuda is modeled by Infranium157.\n-The current model was actually released before the Next-Gen update.\nWarships\nLine\nCorvette\nFrigate\nDestroyer\nLegionis\nChevron\nPhalanx\nEchelon\nConstellation\nRadix\nHalo\nHorizon\nValiance\nInfinity\nAdamant\nFortitude\nStronghold\nBulwark\nMegalodon\nKnifejaw\nBarracuda\nLoxodon\nMandator\nEdict\nJudicator\nConciliator\nRighteous\nLiberty\nVirtue\nJustice\nMegalodon Line\nInterceptor\nFighter\nCorvette\nFrigate\nDestroyer\nCruiser\nBattleship\nT1\nMackeral\nPiranha\nKnifejaw\nBarracuda\nLoxodon\nSunfish\nPtychodus\nT2\nCandiru\nThresher\nExotic"
+      }
+    ],
+    "infobox": "Barracuda\nShip Class\nFrigate\nSpecial\nTurret Damage +10%\nField Stats\nDPS\n302\nShield\nShield Regen\nDeflection\n2500\n13\n1.8\nHull\nHull Regen\nArmor\n6300\n0\n3\nEnergy\nEnergy Regen\n550\n5.2\nSpeed\nAcceleration\nAgility\n160\n74\n41\nOther Stats\nWarp Speed\nCharge Time\n0.80\n6\nSignal Range\nSensor Strength\n8000\n40\nCustomization\nPDT Turrets\nSmall Turrets\nMed. Turrets\n4\n6\n0\nWEP\nDEF\nENG\nRCT\n2\n1\n1\n1\nSubsystems\n1\nCrafting\nNPC Buy\nNPC Sell\n-\n20000\nVolume\nTime\n400 m3\n2:30:00\nKorrelite\nReknite\nGellium\nAxnit\n4800\n2900\n1800\n700\nBlucor\nRedcor\nVexnium\nWater\n250\n100\n-\n-\nComponent\nAmount\nBarracuda Blueprint\n1"
+  },
+  "images": [
+    "https://static.wikia.nocookie.net/starscape-roblox/images/6/62/Barracuda.png/revision/latest?cb=20220309210523"
+  ]
+}

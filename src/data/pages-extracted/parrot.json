@@ -1,0 +1,28 @@
+{
+  "title": "Parrot",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Parrot",
+  "summary": "\"The Parrot is a Kavani fighter based on the Falcon chassis. Though not quite as swift, this ship has a significant improvement in offense and defense from the Falcon.\"",
+  "full_text": "Parrot\n\"The Parrot is a Kavani fighter based on the Falcon chassis. Though not quite as swift, this ship has a significant improvement in offense and defense from the Falcon.\"\nThe Parrot is a T1 interceptor-class ship of the Kavani ship line. It is best suited as a tech-focused interceptor, having rig options rivaling Hybrid ships.\nAdvantages\nThe Parrot's subsystems allows skilled pilots to punch above its weight through careful use of subsystems. As an interceptor, it is also good for outmaneuvering slower fighters or warships.\nDisadvantages\nThe Parrot is an T1 faction interceptor, and thus will perform poorly against its upgraded counterparts. As both a Kavani ship and an interceptor, it is fragile and if caught under fire without energy or a ready pilot, it will be pummeled quickly.\nAs a faction ship, its blueprint must be purchased using Loyalty Points at a faction terminal or from other players, making it less accessible to new or neutral players.\nTrivia\n- The current Parrot is modeled by ii_Cove.\nInterceptors\nLine\nT1\nT2\nExotic\nDefiance\nFalcon\nParagon\nHybrid Paragon\nValiance\nZenith\nPolaris\nHybrid Polaris\nMegalodon\nMackerel\nCandiru\nMandator\nParrot\nMacaw\nRighteous\nTetra\nTriazo\nMandator Line\nInterceptor\nFighter\nCorvette\nFrigate\nDestroyer\nCruiser\nBattleship\nT1\nParrot\nToucan\nEdict\nJudicator\nConciliator\nSubjugator\nConqueror\nT2\nMacaw\nHornbill\nExotic",
+  "content_structure": {
+    "title": "Parrot",
+    "content": "\"The Parrot is a Kavani fighter based on the Falcon chassis. Though not quite as swift, this ship has a significant improvement in offense and defense from the Falcon.\"\nThe Parrot is a T1 interceptor-class ship of the Kavani ship line. It is best suited as a tech-focused interceptor, having rig options rivaling Hybrid ships.",
+    "sections": [
+      {
+        "title": "Advantages",
+        "content": "The Parrot's subsystems allows skilled pilots to punch above its weight through careful use of subsystems. As an interceptor, it is also good for outmaneuvering slower fighters or warships."
+      },
+      {
+        "title": "Disadvantages",
+        "content": "The Parrot is an T1 faction interceptor, and thus will perform poorly against its upgraded counterparts. As both a Kavani ship and an interceptor, it is fragile and if caught under fire without energy or a ready pilot, it will be pummeled quickly.\nAs a faction ship, its blueprint must be purchased using Loyalty Points at a faction terminal or from other players, making it less accessible to new or neutral players."
+      },
+      {
+        "title": "Trivia",
+        "content": "- The current Parrot is modeled by ii_Cove.\nInterceptors\nLine\nT1\nT2\nExotic\nDefiance\nFalcon\nParagon\nHybrid Paragon\nValiance\nZenith\nPolaris\nHybrid Polaris\nMegalodon\nMackerel\nCandiru\nMandator\nParrot\nMacaw\nRighteous\nTetra\nTriazo\nMandator Line\nInterceptor\nFighter\nCorvette\nFrigate\nDestroyer\nCruiser\nBattleship\nT1\nParrot\nToucan\nEdict\nJudicator\nConciliator\nSubjugator\nConqueror\nT2\nMacaw\nHornbill\nExotic"
+      }
+    ],
+    "infobox": "Parrot\nShip Class\nInterceptor\nField Stats\nDPS\n156\nShield\nShield Regen\nDeflection\n250\n2\n0\nHull\nHull Regen\nArmor\n200\n0\n0\nEnergy\nEnergy Regen\n110\n1.4\nSpeed\nAcceleration\nAgility\n420\n200\n120\nOther Stats\nWarp Speed\nCharge Time\n1.30\n3\nSignal Range\nSensor Strength\n4750\n25\nCustomization\nFighter Hardpoints\nMining Hardpoints\nPDT Hardpoints\n2\n0\n0\nWEP\nDEF\nENG\nRCT\n0\n1\n1\n2\nSubsystems\n2\nCrafting\nNPC Buy\nNPC Sell\n-\n1000\nVolume\nTime\n100 m3\n5:00\nKorrelite\nReknite\nGellium\nAxnit\n300\n120\n30\n-\nBlucor\nRedcor\nVexnium\nWater\n-\n-\n-\n-\nComponent\nAmount\nParrot Blueprint\n1"
+  },
+  "images": [
+    "https://static.wikia.nocookie.net/starscape-roblox/images/1/16/Parrot.png/revision/latest?cb=20220309220519"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Judicator",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Judicator",
+  "summary": "\"The Judicator frigate is a formidable warship of the Kavani Navy. Its top-heavy turret placement allows it to go head-to-head with other ships in its class, despite its relative structural weakness.\"",
+  "full_text": "Judicator\n\"The Judicator frigate is a formidable warship of the Kavani Navy. Its top-heavy turret placement allows it to go head-to-head with other ships in its class, despite its relative structural weakness.\"\nThe Judicator is a frigate-class ship of the Mandator ship line. It is best suited as a high-tech frigate that makes use of its subsystem abilities.\nAdvantages\nThe Judicator's subsystem count makes it good for PvE, allowing it to warp out, back off, and heal in case it is overwhelmed. It is also acceptable in PvP, but to excel, the pilot must have good energy management. The Judicator is great at kiting either with Railgun Turret or Beam Turret.\nDisadvantages\nThe Judicator's top-heavy turret placement is a double-edged sword, creating a blind spot under the ship. It also has poor armour and deflection, and high-DPS destroyers built for the role can gun it down quickly. There are no weapon slots, so the only choice of getting more damage is upgrading turret tiers or switching to turrets with better dps.\nAs a faction ship, its blueprint must be purchased using Loyalty Points at a faction terminal or from other players, making it less accessible to new or neutral players.\nDue to its reliance on modules, the Judicator is expensive to replace if lost during combat.\nTrivia\n- The current Judicator is modelled by Ocean_tsunamii and Jeff_D.\n-The top thruster of the Judicator is not aligned properly with the middle thruster.\nWarships\nLine\nCorvette\nFrigate\nDestroyer\nLegionis\nChevron\nPhalanx\nEchelon\nConstellation\nRadix\nHalo\nHorizon\nValiance\nInfinity\nAdamant\nFortitude\nStronghold\nBulwark\nMegalodon\nKnifejaw\nBarracuda\nLoxodon\nMandator\nEdict\nJudicator\nConciliator\nRighteous\nLiberty\nVirtue\nJustice\nMandator Line\nInterceptor\nFighter\nCorvette\nFrigate\nDestroyer\nCruiser\nBattleship\nT1\nParrot\nToucan\nEdict\nJudicator\nConciliator\nSubjugator*\nConqueror**\nT2\nMacaw\nHornbill\nExotic",
+  "content_structure": {
+    "title": "Judicator",
+    "content": "\"The Judicator frigate is a formidable warship of the Kavani Navy. Its top-heavy turret placement allows it to go head-to-head with other ships in its class, despite its relative structural weakness.\"\nThe Judicator is a frigate-class ship of the Mandator ship line. It is best suited as a high-tech frigate that makes use of its subsystem abilities.",
+    "sections": [
+      {
+        "title": "Advantages",
+        "content": "The Judicator's subsystem count makes it good for PvE, allowing it to warp out, back off, and heal in case it is overwhelmed. It is also acceptable in PvP, but to excel, the pilot must have good energy management. The Judicator is great at kiting either with Railgun Turret or Beam Turret."
+      },
+      {
+        "title": "Disadvantages",
+        "content": "The Judicator's top-heavy turret placement is a double-edged sword, creating a blind spot under the ship. It also has poor armour and deflection, and high-DPS destroyers built for the role can gun it down quickly. There are no weapon slots, so the only choice of getting more damage is upgrading turret tiers or switching to turrets with better dps.\nAs a faction ship, its blueprint must be purchased using Loyalty Points at a faction terminal or from other players, making it less accessible to new or neutral players.\nDue to its reliance on modules, the Judicator is expensive to replace if lost during combat."
+      },
+      {
+        "title": "Trivia",
+        "content": "- The current Judicator is modelled by Ocean_tsunamii and Jeff_D.\n-The top thruster of the Judicator is not aligned properly with the middle thruster.\nWarships\nLine\nCorvette\nFrigate\nDestroyer\nLegionis\nChevron\nPhalanx\nEchelon\nConstellation\nRadix\nHalo\nHorizon\nValiance\nInfinity\nAdamant\nFortitude\nStronghold\nBulwark\nMegalodon\nKnifejaw\nBarracuda\nLoxodon\nMandator\nEdict\nJudicator\nConciliator\nRighteous\nLiberty\nVirtue\nJustice\nMandator Line\nInterceptor\nFighter\nCorvette\nFrigate\nDestroyer\nCruiser\nBattleship\nT1\nParrot\nToucan\nEdict\nJudicator\nConciliator\nSubjugator*\nConqueror**\nT2\nMacaw\nHornbill\nExotic"
+      }
+    ],
+    "infobox": "Judicator\nShip Class\nFrigate\nField Stats\nDPS\n302\nShield\nShield Regen\nDeflection\n2500\n17.5\n3\nHull\nHull Regen\nArmor\n5500\n0\n2\nEnergy\nEnergy Regen\n580\n6.8\nSpeed\nAcceleration\nAgility\n170\n80\n45\nOther Stats\nWarp Speed\nCharge Time\n0.95\n5\nSignal Range\nSensor Strength\n8000\n40\nCustomization\nPDT Turrets\nSmall Turrets\nMed. Turrets\n4\n6\n0\nWEP\nDEF\nENG\nRCT\n0\n1\n1\n2\nSubsystems\n2\nCrafting\nNPC Buy\nNPC Sell\n-\n20000\nVolume\nTime\n400 m3\n2:30:00\nKorrelite\nReknite\nGellium\nAxnit\n4800\n2900\n1800\n700\nBlucor\nRedcor\nVexnium\nWater\n250\n100\n-\n-\nComponent\nAmount\nJudicator Blueprint\n1"
+  },
+  "images": [
+    "https://static.wikia.nocookie.net/starscape-roblox/images/9/9b/Judicator.png/revision/latest?cb=20220309210515"
+  ]
+}

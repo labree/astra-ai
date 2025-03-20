@@ -1,0 +1,33 @@
+{
+  "title": "Clothing",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Clothing",
+  "summary": "",
+  "full_text": "Clothing\n\nClothing Items\n \nIn Starscape, players can wear clothing for cosmetic purposes, to show allegiance to a faction, or to display their military rank. When you first join the game, you are given a basic pair of pants and a shirt. The shirts vary in color, and the player is given a choice in the color of shirt.\nClothing is worn under Armor, and when worn without armor provides no protection against attack. Clothing is unique in that it is not lost upon death, although it will need to be re-equipped. Each NPC faction offers a uniform as a standing reward, but the military factions require you to enlist in their military to purchase their clothing.\nGeneral Clothing\nThis is easily available plain clothing you can pick up at any NPC marketplace. Additionally, these clothes can sometimes be found for sale on NPC Freighters.\nName\nTier\nPrice\nBlack Pants\n0\n10\nBlue Pants\n0\n10\nLight Grey Pants\n0\n10\nWhite Pants\n0\n10\nGrey T-Shirt\n0\n10\nBlue T-Shirt\n0\n10\nCyan T-Shirt\n0\n10\nGreen T-Shirt\n0\n10\nLight Grey T-Shirt\n0\n10\nOrange T-Shirt\n0\n10\nPink T-Shirt\n0\n10\nPurple T-Shirt\n0\n10\nRed T-Shirt\n0\n10\nWhite T-Shirt\n0\n10\nYellow T-Shirt\n0\n10\nFaction Clothing\nThis clothing is purchased with loyalty points from faction terminals. For non-military factions, uniforms are available as a tier II faction reward. Military uniforms that correspond to a rank require the player to be that rank in order to be equipped. See Enlisting for more information on ranks.\nName\nFaction\nTier\nRequired Faction Military Rank\nPrice\nShirt\nPants\nForalkan\nForalkan Empire\n1\nNone\n25\n25\nForalkan Command\nForalkan Empire\n2\nCommander+\n100\n100\nForalkan Admiral\nForalkan Empire\n3\nAdmiral\n250\n250\nKavani\nKavani Mandate\n1\nNone\n25\n25\nKavani Command\nKavani Mandate\n2\nPraefect+\n100\n100\nKavani Marshal\nKavani Mandate\n3\nMarshal\n250\n250\nLycentian\nLycentian Federation\n1\nNone\n25\n25\nLycentian Command\nLycentian Federation\n2\nCommander+\n100\n100\nLycentian Admiral\nLycentian Federation\n3\nAdmiral\n250\n250\nCoreSec\nCoreSec\n1\nNone\n50\n50\nSyndicate\nSyndicate\n1\nNone\n50\n50\nTrade Union\nTrade Union\n1\nNone\n50\n50\nMining Guild\nMining Guild\n1\nNone\n50\n50\nTrivia\nTrade Union Pants used to only be available through Freighters, Frontier Outposts, or trading. This was fixed in the Next-Gen Update, and Trade Union Pants can now be obtained through faction terminals.",
+  "content_structure": {
+    "title": "Clothing",
+    "content": "",
+    "sections": [
+      {
+        "title": "Clothing Items",
+        "content": " \nIn Starscape, players can wear clothing for cosmetic purposes, to show allegiance to a faction, or to display their military rank. When you first join the game, you are given a basic pair of pants and a shirt. The shirts vary in color, and the player is given a choice in the color of shirt.\nClothing is worn under Armor, and when worn without armor provides no protection against attack. Clothing is unique in that it is not lost upon death, although it will need to be re-equipped. Each NPC faction offers a uniform as a standing reward, but the military factions require you to enlist in their military to purchase their clothing.",
+        "sections": [
+          {
+            "title": "General Clothing",
+            "content": "This is easily available plain clothing you can pick up at any NPC marketplace. Additionally, these clothes can sometimes be found for sale on NPC Freighters.\nName\nTier\nPrice\nBlack Pants\n0\n10\nBlue Pants\n0\n10\nLight Grey Pants\n0\n10\nWhite Pants\n0\n10\nGrey T-Shirt\n0\n10\nBlue T-Shirt\n0\n10\nCyan T-Shirt\n0\n10\nGreen T-Shirt\n0\n10\nLight Grey T-Shirt\n0\n10\nOrange T-Shirt\n0\n10\nPink T-Shirt\n0\n10\nPurple T-Shirt\n0\n10\nRed T-Shirt\n0\n10\nWhite T-Shirt\n0\n10\nYellow T-Shirt\n0\n10"
+          },
+          {
+            "title": "Faction Clothing",
+            "content": "This clothing is purchased with loyalty points from faction terminals. For non-military factions, uniforms are available as a tier II faction reward. Military uniforms that correspond to a rank require the player to be that rank in order to be equipped. See Enlisting for more information on ranks.\nName\nFaction\nTier\nRequired Faction Military Rank\nPrice\nShirt\nPants\nForalkan\nForalkan Empire\n1\nNone\n25\n25\nForalkan Command\nForalkan Empire\n2\nCommander+\n100\n100\nForalkan Admiral\nForalkan Empire\n3\nAdmiral\n250\n250\nKavani\nKavani Mandate\n1\nNone\n25\n25\nKavani Command\nKavani Mandate\n2\nPraefect+\n100\n100\nKavani Marshal\nKavani Mandate\n3\nMarshal\n250\n250\nLycentian\nLycentian Federation\n1\nNone\n25\n25\nLycentian Command\nLycentian Federation\n2\nCommander+\n100\n100\nLycentian Admiral\nLycentian Federation\n3\nAdmiral\n250\n250\nCoreSec\nCoreSec\n1\nNone\n50\n50\nSyndicate\nSyndicate\n1\nNone\n50\n50\nTrade Union\nTrade Union\n1\nNone\n50\n50\nMining Guild\nMining Guild\n1\nNone\n50\n50"
+          }
+        ]
+      },
+      {
+        "title": "Trivia",
+        "content": "Trade Union Pants used to only be available through Freighters, Frontier Outposts, or trading. This was fixed in the Next-Gen Update, and Trade Union Pants can now be obtained through faction terminals."
+      }
+    ]
+  },
+  "images": [
+    "https://static.wikia.nocookie.net/starscape-roblox/images/d/da/Trade_union_logo_large.png/revision/latest?cb=20220509204517"
+  ]
+}

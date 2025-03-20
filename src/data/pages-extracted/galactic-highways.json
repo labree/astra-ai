@@ -1,0 +1,41 @@
+{
+  "title": "Galactic Highways",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Galactic_Highways",
+  "summary": "Galactic Highways are chains of Warp Relays which allow players to warp through multiple systems in a single jump. They link the Inner Core with every faction capital except for Syndica. ",
+  "full_text": "Galactic Highways\nGalactic Highways are chains of Warp Relays which allow players to warp through multiple systems in a single jump. They link the Inner Core with every faction capital except for Syndica. \nThere are 5 highways, all starting in the systems surrounding the Citadel. Galactic highways pass over Contested Systems, avoiding Faction Warfare. Warp Relays are located in Core and Secure systems.\nUsing Warp Relays requires a fee, which is discounted if you have high enough standing with the faction that controls the relay. The undiscounted price per skipped system is 50 credits. Each hauled crate increases the price by 4%.\nWarp Relays are large structures which contain 24 \"warpers\", which are small glowing orbs. These structures jump you to the next system along the highway. Once you enter, a 10 second countdown will start. When it ends, the relay will begin a warping animation and you will be warped to the next system along the path. Your ship will have electric particles surrounding it when entering the system, and the warp tunnel will also have this unique effect.\nRoutes\n\nTrade Union Highway\n Triage and Harbor (200 credits)\nMining Guild Highway\n Shield and Plo-meteos (100 credits)\n Plo-meteos and Taki (50 credits)\n Taki and Oop'cli (300 credits)\n Oop'cli and Quarry (350 credits)\nLycentian Highways\n Aegis and Tarig (150 credits)\n Tarig and Lycentia (150 credits)\n Lycentia to Vesox (150 credits)\n Lycentia to Liraertex (100 credits)\n Lycentia to Liro (150 credits)\nForalkan Highways\n Concord and Athiarius (200 credits)\n Athiarius and Hippa (100 credits)\n Hippa to Polma (50 credits)\n Hippa to Aepaltor (200 credits)\n Hippa to Metuar-xin (150 credits)\nKavani Highways\n Bastion and Ib'dua (150 credits)\n Ib'dua and Vanos (200 credits)\n Vanos to Lisin (100 credits)\n Vanos to Fiapa (200 credits)\n Vanos to Uaspogar (150 credits)",
+  "content_structure": {
+    "title": "Galactic Highways",
+    "content": "Galactic Highways are chains of Warp Relays which allow players to warp through multiple systems in a single jump. They link the Inner Core with every faction capital except for Syndica. \nThere are 5 highways, all starting in the systems surrounding the Citadel. Galactic highways pass over Contested Systems, avoiding Faction Warfare. Warp Relays are located in Core and Secure systems.\nUsing Warp Relays requires a fee, which is discounted if you have high enough standing with the faction that controls the relay. The undiscounted price per skipped system is 50 credits. Each hauled crate increases the price by 4%.\nWarp Relays are large structures which contain 24 \"warpers\", which are small glowing orbs. These structures jump you to the next system along the highway. Once you enter, a 10 second countdown will start. When it ends, the relay will begin a warping animation and you will be warped to the next system along the path. Your ship will have electric particles surrounding it when entering the system, and the warp tunnel will also have this unique effect.",
+    "sections": [
+      {
+        "title": "Routes",
+        "content": "",
+        "sections": [
+          {
+            "title": "Trade Union Highway",
+            "content": " Triage and Harbor (200 credits)"
+          },
+          {
+            "title": "Mining Guild Highway",
+            "content": " Shield and Plo-meteos (100 credits)\n Plo-meteos and Taki (50 credits)\n Taki and Oop'cli (300 credits)\n Oop'cli and Quarry (350 credits)"
+          },
+          {
+            "title": "Lycentian Highways",
+            "content": " Aegis and Tarig (150 credits)\n Tarig and Lycentia (150 credits)\n Lycentia to Vesox (150 credits)\n Lycentia to Liraertex (100 credits)\n Lycentia to Liro (150 credits)"
+          },
+          {
+            "title": "Foralkan Highways",
+            "content": " Concord and Athiarius (200 credits)\n Athiarius and Hippa (100 credits)\n Hippa to Polma (50 credits)\n Hippa to Aepaltor (200 credits)\n Hippa to Metuar-xin (150 credits)"
+          },
+          {
+            "title": "Kavani Highways",
+            "content": " Bastion and Ib'dua (150 credits)\n Ib'dua and Vanos (200 credits)\n Vanos to Lisin (100 credits)\n Vanos to Fiapa (200 credits)\n Vanos to Uaspogar (150 credits)"
+          }
+        ]
+      }
+    ]
+  },
+  "images": [
+    "https://static.wikia.nocookie.net/starscape-roblox/images/d/da/Trade_union_logo_large.png/revision/latest?cb=20220509204517"
+  ]
+}

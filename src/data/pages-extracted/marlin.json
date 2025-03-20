@@ -1,0 +1,28 @@
+{
+  "title": "Marlin",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Marlin",
+  "summary": "\"The Marlin is a nimble vessel that is designed to mine efficiently but be capable of making a quick escape when necessary.\"",
+  "full_text": "Marlin\n\"The Marlin is a nimble vessel that is designed to mine efficiently but be capable of making a quick escape when necessary.\"\nThe Marlin is an entry-level miner-class ship of an unknown ship line. It is best suited as a cheap starter mining ship.\nAdvantages\nThe Marlin is cheap and can be bought at most NPC marketplaces, making it the ship of choice alongside the Badger for new players. Compared to the Badger, it has a slower mining rate but is better at escaping enemies.\nDisadvantages\nThe Marlin is an entry-level ship, and thus will perform poorly compared to upgraded miners. It can escape pirates, but is extremely fragile, and lacks any combat abilities whatsoever.\nTrivia\n- The current Marlin is modeled by Ocean_tsunamii.\nMiners\nLine\nT1\nT2\nCorvette\nFrigate\nDestroyer\nBadger\nBadger\nHoney Badger\nMarlin\nMarlin\nMako\nEverest\nOzark\nKodiak\nYukon\nEos\nKoronis\nEos\nVesta",
+  "content_structure": {
+    "title": "Marlin",
+    "content": "\"The Marlin is a nimble vessel that is designed to mine efficiently but be capable of making a quick escape when necessary.\"\nThe Marlin is an entry-level miner-class ship of an unknown ship line. It is best suited as a cheap starter mining ship.",
+    "sections": [
+      {
+        "title": "Advantages",
+        "content": "The Marlin is cheap and can be bought at most NPC marketplaces, making it the ship of choice alongside the Badger for new players. Compared to the Badger, it has a slower mining rate but is better at escaping enemies."
+      },
+      {
+        "title": "Disadvantages",
+        "content": "The Marlin is an entry-level ship, and thus will perform poorly compared to upgraded miners. It can escape pirates, but is extremely fragile, and lacks any combat abilities whatsoever."
+      },
+      {
+        "title": "Trivia",
+        "content": "- The current Marlin is modeled by Ocean_tsunamii.\nMiners\nLine\nT1\nT2\nCorvette\nFrigate\nDestroyer\nBadger\nBadger\nHoney Badger\nMarlin\nMarlin\nMako\nEverest\nOzark\nKodiak\nYukon\nEos\nKoronis\nEos\nVesta"
+      }
+    ],
+    "infobox": "Marlin\nShip Class\nMiner\nField Stats\nDPS\n84.8\nShield\nShield Regen\nDeflection\n75\n2\n0.5\nHull\nHull Regen\nArmor\n180\n0\n0\nEnergy\nEnergy Regen\n90\n1.8\nSpeed\nAcceleration\nAgility\n420\n200\n120\nOther Stats\nWarp Speed\nCharge Time\n1.50\n3\nSignal Range\nSensor Strength\n4000\n25\nCargo Slots\n0\nCustomization\nFighter Hardpoints\nMining Hardpoints\nPDT Hardpoints\n0\n1\n1\nWEP\nDEF\nENG\nRCT\n0\n0\n2\n1\nSubsystems\n1\nCrafting\nNPC Buy\nNPC Sell\n1000\n500\nVolume\nTime\n100 m3\n5:00\nKorrelite\nReknite\nGellium\nAxnit\n140\n60\n20\n-\nBlucor\nRedcor\nVexnium\nWater\n-\n-\n-\n-"
+  },
+  "images": [
+    "https://static.wikia.nocookie.net/starscape-roblox/images/d/d9/Marlin.png/revision/latest?cb=20220309222201"
+  ]
+}

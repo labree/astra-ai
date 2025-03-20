@@ -1,0 +1,28 @@
+{
+  "title": "Veil",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Veil",
+  "summary": "\"The Veil is a stealth-focused hauling corvette. Although it has lower capacity than the Astero or Zubron, its high agility and low signal range make it ideal for hauling missions requiring speed and stealth.\"",
+  "full_text": "Veil\n\"The Veil is a stealth-focused hauling corvette. Although it has lower capacity than the Astero or Zubron, its high agility and low signal range make it ideal for hauling missions requiring speed and stealth.\"\nThe Veil is a hauler-class ship of the Cloak line. It is best suited as a cheap but stealthy hauler.\nAdvantages\nThe Veil is around the cost of a corvette similar to a Zubron, but is much faster and has a low signal range, causing it to be hard to find using sensors. The Veil excels as a solo hauling ships on dangerous routes, such as the frontlines of contested space or systems that have possible hostile threats.\nDisadvantages\nThe Veil is fragile if caught, and pilots should take care not to be hit by stray shots. Compared to its Trade Union counterpart, the Veil hauls less crates and is not as useful in contested systems that have already been secured.\nAs a faction ship, its blueprint must be purchased using Loyalty Points at a faction terminal or from other players, making it less accessible to new or neutral players.\nThe blueprint can also be obtained from Pirate Dens.\nTrivia\n- The current Veil is modeled by swindle150 and ii_Cove.\nHaulers\nLine\nT1\nT2\nT3\nCorvette\nFrigate\nNebula\nAstero\nGalaxy\nMastodon\nHyrax\nRhino\nBison\nZubron\nCloak\nVeil\nShroud",
+  "content_structure": {
+    "title": "Veil",
+    "content": "\"The Veil is a stealth-focused hauling corvette. Although it has lower capacity than the Astero or Zubron, its high agility and low signal range make it ideal for hauling missions requiring speed and stealth.\"\nThe Veil is a hauler-class ship of the Cloak line. It is best suited as a cheap but stealthy hauler.",
+    "sections": [
+      {
+        "title": "Advantages",
+        "content": "The Veil is around the cost of a corvette similar to a Zubron, but is much faster and has a low signal range, causing it to be hard to find using sensors. The Veil excels as a solo hauling ships on dangerous routes, such as the frontlines of contested space or systems that have possible hostile threats."
+      },
+      {
+        "title": "Disadvantages",
+        "content": "The Veil is fragile if caught, and pilots should take care not to be hit by stray shots. Compared to its Trade Union counterpart, the Veil hauls less crates and is not as useful in contested systems that have already been secured.\nAs a faction ship, its blueprint must be purchased using Loyalty Points at a faction terminal or from other players, making it less accessible to new or neutral players.\nThe blueprint can also be obtained from Pirate Dens."
+      },
+      {
+        "title": "Trivia",
+        "content": "- The current Veil is modeled by swindle150 and ii_Cove.\nHaulers\nLine\nT1\nT2\nT3\nCorvette\nFrigate\nNebula\nAstero\nGalaxy\nMastodon\nHyrax\nRhino\nBison\nZubron\nCloak\nVeil\nShroud"
+      }
+    ],
+    "infobox": "Veil\nShip Class\nHauler\nField Stats\nDPS\n121.5\nShield\nShield Regen\nDeflection\n1350\n6\n1\nHull\nHull Regen\nArmor\n1500\n0\n1\nEnergy\nEnergy Regen\n400\n4.5\nSpeed\nAcceleration\nAgility\n210\n40\n56\nOther Stats\nWarp Speed\nCharge Time\n0.85\n3.5\nSignal Range\nSensor Strength\n3750\n35\nCargo Slots\n16\nCustomization\nPDT Turrets\nSmall Turrets\n3\n2\nWEP\nDEF\nENG\nRCT\n0\n1\n1\n1\nSubsystems\n1\nCrafting\nNPC Buy\nNPC Sell\n-\n10000\nVolume\nTime\n225 m3\n1:00:00\nKorrelite\nReknite\nGellium\nAxnit\n2200\n1400\n900\n300\nBlucor\nRedcor\nVexnium\nWater\n100\n-\n-\n-\nComponent\nAmount\nVeil Blueprint\n1"
+  },
+  "images": [
+    "https://static.wikia.nocookie.net/starscape-roblox/images/c/c3/Veil.png/revision/latest?cb=20220309222443"
+  ]
+}

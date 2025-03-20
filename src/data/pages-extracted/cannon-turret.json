@@ -1,0 +1,26 @@
+{
+  "title": "Cannon Turret",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Cannon_Turret",
+  "summary": "Small Turrets can only be equipped onto ships with S Turret Slots. Small ships such as Badger, Aurora, or Bison do not have S turret slots and cannot have S-turrets equipped. For the small autoturrets that some small ships have, see PDT.",
+  "full_text": "Cannon Turret\nSmall Turrets can only be equipped onto ships with S Turret Slots. Small ships such as Badger, Aurora, or Bison do not have S turret slots and cannot have S-turrets equipped. For the small autoturrets that some small ships have, see PDT.\nCannon Turret (Small)\nCannon Turrets are energy turrets which have a high damage output, medium range, and below-average reload speed. They are powerful, high-performing turrets, but are not the easiest to use.\nCannons have Tier 1, Tier 2, Tier 3, and an Exotic variant. The Exotic variant of a cannon is a Hybrid. Hybrid Cannons must be crafted from Drone Cores, a Tier 3 Cannon, and a Hybrid Cannon blueprint dropped by high-tier Drones and Drone Factories.\nCannon-M Turret (Medium)\nCannon-M turrets are very similar to their S variant. They have greater firepower and lower maneuverability. Medium turrets can only be equipped onto ships with Medium Turret Slots.\nCannon-M turrets can be Tier 1, Tier 2, Tier 3, or an Exotic variant. The Cannon-M's only Exotic variant is Hybrid. Hybrid Cannon-M turrets must be crafted from Drone Cores, a Tier 3 Cannon-M turret, and a Hybrid Cannon-M blueprint dropped by high-tier Drones and Drone Factories.\nManufacturing\nManufacturing costs are listed as below:\nCannon\nTier 1\n80 Korrelite, 60 Reknite, 40 Gellium\nTier 2\n40 Axnit, 20 Narcor, Cannon I\nTier 3\n20 Red Narcor, Cannon II\nHybrid\n10 Drone core, 10 Power cell, Cannon III, Hybrid Cannon blueprint\nCannon-M\nTier 1\n160 Korrelite, 120 Reknite, 80 Gellium\nTier 2\n80 Axnit, 40 Narcor, Cannon-M I\nTier 3\n40 Red Narcor, Cannon-M II\nHybrid\n20 Drone core, 20 Power cell, Cannon-M III, Hybrid Cannon-M blueprint",
+  "content_structure": {
+    "title": "Cannon Turret",
+    "content": "Small Turrets can only be equipped onto ships with S Turret Slots. Small ships such as Badger, Aurora, or Bison do not have S turret slots and cannot have S-turrets equipped. For the small autoturrets that some small ships have, see PDT.",
+    "sections": [
+      {
+        "title": "Cannon Turret (Small)",
+        "content": "Cannon Turrets are energy turrets which have a high damage output, medium range, and below-average reload speed. They are powerful, high-performing turrets, but are not the easiest to use.\nCannons have Tier 1, Tier 2, Tier 3, and an Exotic variant. The Exotic variant of a cannon is a Hybrid. Hybrid Cannons must be crafted from Drone Cores, a Tier 3 Cannon, and a Hybrid Cannon blueprint dropped by high-tier Drones and Drone Factories."
+      },
+      {
+        "title": "Cannon-M Turret (Medium)",
+        "content": "Cannon-M turrets are very similar to their S variant. They have greater firepower and lower maneuverability. Medium turrets can only be equipped onto ships with Medium Turret Slots.\nCannon-M turrets can be Tier 1, Tier 2, Tier 3, or an Exotic variant. The Cannon-M's only Exotic variant is Hybrid. Hybrid Cannon-M turrets must be crafted from Drone Cores, a Tier 3 Cannon-M turret, and a Hybrid Cannon-M blueprint dropped by high-tier Drones and Drone Factories."
+      },
+      {
+        "title": "Manufacturing",
+        "content": "Manufacturing costs are listed as below:\nCannon\nTier 1\n80 Korrelite, 60 Reknite, 40 Gellium\nTier 2\n40 Axnit, 20 Narcor, Cannon I\nTier 3\n20 Red Narcor, Cannon II\nHybrid\n10 Drone core, 10 Power cell, Cannon III, Hybrid Cannon blueprint\nCannon-M\nTier 1\n160 Korrelite, 120 Reknite, 80 Gellium\nTier 2\n80 Axnit, 40 Narcor, Cannon-M I\nTier 3\n40 Red Narcor, Cannon-M II\nHybrid\n20 Drone core, 20 Power cell, Cannon-M III, Hybrid Cannon-M blueprint"
+      }
+    ],
+    "infobox": "Cannon Turret\nDamage per shot\n60 (Tier 1) to 75 (Hybrid)\nRate of fire\n45\nDamage per second\n45 (Tier 1) to 56.2 (Hybrid)\nProjectile Speed\n1250\nProjectile Range\n4000\nTurn Speed\n45\nShield Multiplier\nHull Multiplier\n1\n1\nCannon-M Turret\nDamage per shot\n135 (Tier 1) to 165 (Hybrid)\nRate of fire\n45\nDamage per second\n101.2 (Tier 1) to 123.8 (Hybrid)\nProjectile Speed\n1250\nProjectile Range\n4000\nTurn Speed\n15\nShield Multiplier\nHull Multiplier\n1\n1"
+  },
+  "images": []
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Planets",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Planets",
+  "summary": "",
+  "full_text": "Planets\n\nOverview\nPlanets are locations in systems that can be warped to so long as you are in that system. Every system has 1 to 12 planets.\nYou cannot land on planets. They are insubstantial cosmetic backdrops to give this space-based game some life. Planet landing is not coming any time soon.\nTypes\nThere are 3 types of planets: Rocky, Gaia (earth-like, habitable), and Jovian (Gas Giant)\nMoons can also fall in the Rocky and Gaia category.\n \nRings\nIf a planet has a ring, you are able to warp to the ring. In rings, there is always an asteroid field containing different kinds of ores, the rarity of which depends on the security status of system you are in. A Drone Factory, Pirate Den, or Drone Fleet could also be present.\nAbberations\nAbberations are hidden areas that generate around planets. Unscanned aberrations can be seen either by visiting a planet or by scanning the planet with a system probe, and they can be discovered by launching a planet probe at their planet. \nR-deposit aberrations can generate in the rings of any ringed planet in Secure, Contested, Unsecure, or Wild space. X-structure aberrations can generate anywhere around any planet in Contested, Unsecure, or Wild space. \nFor more information see Aberrations\nAtmosphere\nEach planet's atmosphere is different. If a planet has an atmosphere, you are able to view information about it in your Solar System Map, then clicking on the planet. Atmospheric pressure is shown in atm. A green atm value means that the planet has a habitable-level atmosphere.\nAtmosphere has no effect on gameplay.\nScanned AberrationsUnscanned Aberrations\nTrivia\nPlanets do actually orbit around the star, but it takes a long time.\nG-09 is the only planet which has an exposed core.",
+  "content_structure": {
+    "title": "Planets",
+    "content": "",
+    "sections": [
+      {
+        "title": "Overview",
+        "content": "Planets are locations in systems that can be warped to so long as you are in that system. Every system has 1 to 12 planets.\nYou cannot land on planets. They are insubstantial cosmetic backdrops to give this space-based game some life. Planet landing is not coming any time soon."
+      },
+      {
+        "title": "Types",
+        "content": "There are 3 types of planets: Rocky, Gaia (earth-like, habitable), and Jovian (Gas Giant)\nMoons can also fall in the Rocky and Gaia category.\n "
+      },
+      {
+        "title": "Rings",
+        "content": "If a planet has a ring, you are able to warp to the ring. In rings, there is always an asteroid field containing different kinds of ores, the rarity of which depends on the security status of system you are in. A Drone Factory, Pirate Den, or Drone Fleet could also be present."
+      },
+      {
+        "title": "Abberations",
+        "content": "Abberations are hidden areas that generate around planets. Unscanned aberrations can be seen either by visiting a planet or by scanning the planet with a system probe, and they can be discovered by launching a planet probe at their planet. \nR-deposit aberrations can generate in the rings of any ringed planet in Secure, Contested, Unsecure, or Wild space. X-structure aberrations can generate anywhere around any planet in Contested, Unsecure, or Wild space. \nFor more information see Aberrations"
+      },
+      {
+        "title": "Atmosphere",
+        "content": "Each planet's atmosphere is different. If a planet has an atmosphere, you are able to view information about it in your Solar System Map, then clicking on the planet. Atmospheric pressure is shown in atm. A green atm value means that the planet has a habitable-level atmosphere.\nAtmosphere has no effect on gameplay.\nScanned AberrationsUnscanned Aberrations"
+      },
+      {
+        "title": "Trivia",
+        "content": "Planets do actually orbit around the star, but it takes a long time.\nG-09 is the only planet which has an exposed core."
+      }
+    ]
+  },
+  "images": [
+    "https://static.wikia.nocookie.net/starscape-roblox/images/9/90/Vanoskavanos.png/revision/latest?cb=20201126081927"
+  ]
+}

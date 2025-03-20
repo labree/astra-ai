@@ -1,0 +1,28 @@
+{
+  "title": "Hornbill",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Hornbill",
+  "summary": "\"The Hornbill is an upgraded variant of the Kavani Toucan.\"",
+  "full_text": "Hornbill\n\"The Hornbill is an upgraded variant of the Kavani Toucan.\"\nThe Hornbill is a T2 fighter-class ship of the Kavani ship line. It is best suited as a tanky shield-focused supportive fighter.\nAdvantages\nThree subsystem slots grant the Hornbill great support capacity, and lets it run versatile setups.\nThe Hornbill is fast and agile for a fighter, and has a very fast warp speed that's comparable to most interceptors.\nIt has high balanced hit-points for a fighter, and decent shield regeneration.\nOn top of strong overall defensive stats, it also boasts the potential for rapid energy regeneration.\nDisadvantages\nWhile tanky for a fighter, its wings occupy most of its hitbox and render it easy to hit.\nDespite carrying a weapon rig, the Hornbill's damage is under-powered for three hardpoints, and suffers most against high deflection/armor ratings.\nAs a faction ship, its blueprint must be purchased using Loyalty Points at a faction terminal or from other players, making it less accessible to new or neutral players.\nTrivia\nThe current Hornbill is modeled by ii_Cove.\nFighters\nLine\nT1\nT2\nExotic\nLegionis\nAurora\nLuminar\nHybrid Luminar\nStronghold\nSabre\nClaymore\nHybrid Claymore\nMegalodon\nPiranha\nThresher\nMandator\nToucan\nHornbill\nRighteous\nLuster\nLucent\nConstellation\nStratos\nMandator Line\nInterceptor\nFighter\nCorvette\nFrigate\nDestroyer\nCruiser\nBattleship\nT1\nParrot\nToucan\nEdict\nJudicator\nConciliator\nSubjugator\nConqueror\nT2\nMacaw\nHornbill\nExotic",
+  "content_structure": {
+    "title": "Hornbill",
+    "content": "\"The Hornbill is an upgraded variant of the Kavani Toucan.\"\nThe Hornbill is a T2 fighter-class ship of the Kavani ship line. It is best suited as a tanky shield-focused supportive fighter.",
+    "sections": [
+      {
+        "title": "Advantages",
+        "content": "Three subsystem slots grant the Hornbill great support capacity, and lets it run versatile setups.\nThe Hornbill is fast and agile for a fighter, and has a very fast warp speed that's comparable to most interceptors.\nIt has high balanced hit-points for a fighter, and decent shield regeneration.\nOn top of strong overall defensive stats, it also boasts the potential for rapid energy regeneration."
+      },
+      {
+        "title": "Disadvantages",
+        "content": "While tanky for a fighter, its wings occupy most of its hitbox and render it easy to hit.\nDespite carrying a weapon rig, the Hornbill's damage is under-powered for three hardpoints, and suffers most against high deflection/armor ratings.\nAs a faction ship, its blueprint must be purchased using Loyalty Points at a faction terminal or from other players, making it less accessible to new or neutral players."
+      },
+      {
+        "title": "Trivia",
+        "content": "The current Hornbill is modeled by ii_Cove.\nFighters\nLine\nT1\nT2\nExotic\nLegionis\nAurora\nLuminar\nHybrid Luminar\nStronghold\nSabre\nClaymore\nHybrid Claymore\nMegalodon\nPiranha\nThresher\nMandator\nToucan\nHornbill\nRighteous\nLuster\nLucent\nConstellation\nStratos\nMandator Line\nInterceptor\nFighter\nCorvette\nFrigate\nDestroyer\nCruiser\nBattleship\nT1\nParrot\nToucan\nEdict\nJudicator\nConciliator\nSubjugator\nConqueror\nT2\nMacaw\nHornbill\nExotic"
+      }
+    ],
+    "infobox": "Hornbill\nShip Class\nFighter\nField Stats\nDPS\n192\nShield\nShield Regen\nDeflection\n400\n2.5\n1\nHull\nHull Regen\nArmor\n300\n0\n0\nEnergy\nEnergy Regen\n110\n1.6\nSpeed\nAcceleration\nAgility\n340\n190\n105\nOther Stats\nWarp Speed\nCharge Time\n1.50\n4\nSignal Range\nSensor Strength\n4250\n25\nCustomization\nFighter Hardpoints\nMining Hardpoints\nPDT Hardpoints\n3\n0\n0\nWEP\nDEF\nENG\nRCT\n1\n1\n1\n2\nSubsystems\n3\nCrafting\nNPC Buy\nNPC Sell\n-\n2000\nVolume\nTime\n100 m3\n10:00\nKorrelite\nReknite\nGellium\nAxnit\n-\n-\n-\n-\nBlucor\nRedcor\nVexnium\nWater\n50\n-\n-\n-\nComponent\nAmount\nToucan\n1\nComponent\nAmount\nHornbill Blueprint\n1"
+  },
+  "images": [
+    "https://static.wikia.nocookie.net/starscape-roblox/images/7/79/Hornbill.png/revision/latest?cb=20220309220154"
+  ]
+}

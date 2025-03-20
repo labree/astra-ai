@@ -1,0 +1,38 @@
+{
+  "title": "Spectator-X",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Spectator-X",
+  "summary": "ZolarKeth revealed his Spectator-X in the Public Test Server during a mass test on February 17th, 2024. Its stats are similar to its predecessor's, but unlike the normal Spectator, the Spectator-X has a Pulse PDT, along with a large damage increase, and is the only Officer Class ship. This ship has only been seen in Dev blogs and the Public Test Server.",
+  "full_text": "Spectator-X\nZolarKeth revealed his Spectator-X in the Public Test Server during a mass test on February 17th, 2024. Its stats are similar to its predecessor's, but unlike the normal Spectator, the Spectator-X has a Pulse PDT, along with a large damage increase, and is the only Officer Class ship. This ship has only been seen in Dev blogs and the Public Test Server.\nAdvantages\nAs stated previously, it shares some stats with the Spectator. This means it has 10000 Shield points, Hull points, Shield Regen, and Hull Regen. It surpasses the normal Spectator in mobility, with 100 more speed and acceleration, and only 50 points less in agility. All other stats are identical.\nAs stated before, the Spectator-X boasts a single Pulse PDT with an unholy damage boost. Keth was able to wipe out dozens of destroyers in Gatinsir in a brief period of time using it.\nDisadvantages\nCannot be obtained by any players, as it is a staff only ship.\nGallery\n\nIn-game screenshots\nKeth's Spectator-X's first appearance on the Public Testing Server on February 17th, 2024.Keth's Spectator-X in an NPC stress test.Stats of a Spectator-X obtained illegitimately.\nIn-game clips\nStarscape Admin ArcticCitadel's Video",
+  "content_structure": {
+    "title": "Spectator-X",
+    "content": "ZolarKeth revealed his Spectator-X in the Public Test Server during a mass test on February 17th, 2024. Its stats are similar to its predecessor's, but unlike the normal Spectator, the Spectator-X has a Pulse PDT, along with a large damage increase, and is the only Officer Class ship. This ship has only been seen in Dev blogs and the Public Test Server.",
+    "sections": [
+      {
+        "title": "Advantages",
+        "content": "As stated previously, it shares some stats with the Spectator. This means it has 10000 Shield points, Hull points, Shield Regen, and Hull Regen. It surpasses the normal Spectator in mobility, with 100 more speed and acceleration, and only 50 points less in agility. All other stats are identical.\nAs stated before, the Spectator-X boasts a single Pulse PDT with an unholy damage boost. Keth was able to wipe out dozens of destroyers in Gatinsir in a brief period of time using it."
+      },
+      {
+        "title": "Disadvantages",
+        "content": "Cannot be obtained by any players, as it is a staff only ship."
+      },
+      {
+        "title": "Gallery",
+        "content": "",
+        "sections": [
+          {
+            "title": "In-game screenshots",
+            "content": "Keth's Spectator-X's first appearance on the Public Testing Server on February 17th, 2024.Keth's Spectator-X in an NPC stress test.Stats of a Spectator-X obtained illegitimately."
+          },
+          {
+            "title": "In-game clips",
+            "content": "Starscape Admin ArcticCitadel's Video"
+          }
+        ]
+      }
+    ],
+    "infobox": "Spectator-X\nStaff-only ship for testing combat.\nShip stats\nDamage per second\n13250\nShield points\n10000\nShield regen\n10000\nHull points\n10000\nHull regen\n10000\nSpeed\n600\nAcceleration\n600\nAgility\n150\nWarp speed\n10.00\nWarp charge time\n2\nSignal range\n1000"
+  },
+  "images": [
+    "https://static.wikia.nocookie.net/starscape-roblox/images/0/0a/Spectator_X_Stats.png/revision/latest?cb=20240412084824"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Eos",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Eos",
+  "summary": "\"The Eos is a combined miner-hauler developed by the Trade Union. It is primarily intended for long-term unsupported mining expeditions.\"",
+  "full_text": "Eos\n\"The Eos is a combined miner-hauler developed by the Trade Union. It is primarily intended for long-term unsupported mining expeditions.\"\nThe Eos is a miner-class ship of the Koronis line. It is best suited as a cheap but capable long-distance mining warship.\nAdvantages\nThe Eos features 4 cargo slots, keeping in line with the Mining Guild line's focus on space. As such, it can take longer trips into wild space before requiring a station to store its loot. As with most mining warships, it has a role bonus which makes it more efficient at mining than fighter-style miners. Due to its cargo capacity combined with its relatively low cost, the Eos is a powerful miner when it comes to wild space expeditions.\nDisadvantages\nAs a miner, it is less agile than other ships of its class. Its cargo crates make it a juicy target for player pirates hoping for a large loot haul, and it does not boast much in the way of combat capabilities - it has less hitpoints compared to other corvettes and rigs mostly focused on industry, not combat. It also does not have any designated combat or self-defense slots, and most of its turrets are focused on maximum mining power.\nAs a faction ship, its blueprint must be purchased using Loyalty Points at a faction terminal or from other players, making it less accessible to new or neutral players.\nTrivia\nThe current Eos is modeled by swindle150 and ii_Cove.\nPrior to the Getting Around update, this was a Trade Union ship. Its description still claims it was developed by the Trade Union.\nMiners\nLine\nT1\nT2\nCorvette\nFrigate\nDestroyer\nBadger\nBadger\nHoney Badger\nMarlin\nMarlin\nMako\nEverest\nOzark\nKodiak\nYukon\nEos\nKoronis\nEos\nVesta",
+  "content_structure": {
+    "title": "Eos",
+    "content": "\"The Eos is a combined miner-hauler developed by the Trade Union. It is primarily intended for long-term unsupported mining expeditions.\"\nThe Eos is a miner-class ship of the Koronis line. It is best suited as a cheap but capable long-distance mining warship.",
+    "sections": [
+      {
+        "title": "Advantages",
+        "content": "The Eos features 4 cargo slots, keeping in line with the Mining Guild line's focus on space. As such, it can take longer trips into wild space before requiring a station to store its loot. As with most mining warships, it has a role bonus which makes it more efficient at mining than fighter-style miners. Due to its cargo capacity combined with its relatively low cost, the Eos is a powerful miner when it comes to wild space expeditions."
+      },
+      {
+        "title": "Disadvantages",
+        "content": "As a miner, it is less agile than other ships of its class. Its cargo crates make it a juicy target for player pirates hoping for a large loot haul, and it does not boast much in the way of combat capabilities - it has less hitpoints compared to other corvettes and rigs mostly focused on industry, not combat. It also does not have any designated combat or self-defense slots, and most of its turrets are focused on maximum mining power.\nAs a faction ship, its blueprint must be purchased using Loyalty Points at a faction terminal or from other players, making it less accessible to new or neutral players."
+      },
+      {
+        "title": "Trivia",
+        "content": "The current Eos is modeled by swindle150 and ii_Cove.\nPrior to the Getting Around update, this was a Trade Union ship. Its description still claims it was developed by the Trade Union.\nMiners\nLine\nT1\nT2\nCorvette\nFrigate\nDestroyer\nBadger\nBadger\nHoney Badger\nMarlin\nMarlin\nMako\nEverest\nOzark\nKodiak\nYukon\nEos\nKoronis\nEos\nVesta"
+      }
+    ],
+    "infobox": "Eos\nShip Class\nMiner\nSpecial\nMining Rate +75%Tractor Speed +50%Turret Damage -20%\nField Stats\nDPS\n163.5\nShield\nShield Regen\nDeflection\n800\n4\n1\nHull\nHull Regen\nArmor\n2400\n0\n2\nEnergy\nEnergy Regen\n450\n3.8\nSpeed\nAcceleration\nAgility\n150\n34\n45\nOther Stats\nWarp Speed\nCharge Time\n0.60\n4\nSignal Range\nSensor Strength\n6500\n35\nCargo Slots\n4\nCustomization\nPDT Turrets\nSmall Turrets\n3\n3\nWEP\nDEF\nENG\nRCT\n0\n1\n0\n1\nSubsystems\n1\nCrafting\nNPC Buy\nNPC Sell\n-\n10000\nVolume\nTime\n225 m3\n1:00:00\nKorrelite\nReknite\nGellium\nAxnit\n2800\n1650\n900\n300\nBlucor\nRedcor\nVexnium\nWater\n100\n-\n-\n-\nComponent\nAmount\nEos Blueprint\n1"
+  },
+  "images": [
+    "https://static.wikia.nocookie.net/starscape-roblox/images/5/53/Eos.png/revision/latest?cb=20220309222317"
+  ]
+}

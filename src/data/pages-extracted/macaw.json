@@ -1,0 +1,28 @@
+{
+  "title": "Macaw",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Macaw",
+  "summary": "\"The Macaw is an upgraded variant of the Kavani Parrot.\"",
+  "full_text": "Macaw\n\"The Macaw is an upgraded variant of the Kavani Parrot.\"\nThe Macaw is a T2 interceptor-class ship of the Mandator line. It is best suited as a fast interceptor that uses its subsystems to gain a powerful advantage.\nAdvantages\nThe Macaw can be used in a support playstyle, having the agility to stay at range with the subsystems to halt enemies in their tracks. This does not make it any less deadly in direct combat, and it can use its subsystems to great advantage to disable and hinder enemies, even outnumbered.\nDisadvantages\nDue to being an interceptor, it is fragile and can be shot down easily by warships or fighters with good tracking. Since it is a fightercraft, it may run out of energy too quickly despite having many subsystems to use. Some pilots may prefer the Hornbill, sacrificing agility for more offensive capability.\nAs a faction ship, its blueprint must be purchased using Loyalty Points at a faction terminal or from other players, making it less accessible to new or neutral players.\nTrivia\n- The current Macaw is modeled by ii_Cove.\nInterceptors\nLine\nT1\nT2\nExotic\nDefiance\nFalcon\nParagon\nHybrid Paragon\nValiance\nZenith\nPolaris\nHybrid Polaris\nMegalodon\nMackerel\nCandiru\nMandator\nParrot\nMacaw\nRighteous\nTetra\nTriazo\nMandator Line\nInterceptor\nFighter\nCorvette\nFrigate\nDestroyer\nCruiser\nBattleship\nT1\nParrot\nToucan\nEdict\nJudicator\nConciliator\nSubjugator\nConqueror\nT2\nMacaw\nHornbill\nExotic",
+  "content_structure": {
+    "title": "Macaw",
+    "content": "\"The Macaw is an upgraded variant of the Kavani Parrot.\"\nThe Macaw is a T2 interceptor-class ship of the Mandator line. It is best suited as a fast interceptor that uses its subsystems to gain a powerful advantage.",
+    "sections": [
+      {
+        "title": "Advantages",
+        "content": "The Macaw can be used in a support playstyle, having the agility to stay at range with the subsystems to halt enemies in their tracks. This does not make it any less deadly in direct combat, and it can use its subsystems to great advantage to disable and hinder enemies, even outnumbered."
+      },
+      {
+        "title": "Disadvantages",
+        "content": "Due to being an interceptor, it is fragile and can be shot down easily by warships or fighters with good tracking. Since it is a fightercraft, it may run out of energy too quickly despite having many subsystems to use. Some pilots may prefer the Hornbill, sacrificing agility for more offensive capability.\nAs a faction ship, its blueprint must be purchased using Loyalty Points at a faction terminal or from other players, making it less accessible to new or neutral players."
+      },
+      {
+        "title": "Trivia",
+        "content": "- The current Macaw is modeled by ii_Cove.\nInterceptors\nLine\nT1\nT2\nExotic\nDefiance\nFalcon\nParagon\nHybrid Paragon\nValiance\nZenith\nPolaris\nHybrid Polaris\nMegalodon\nMackerel\nCandiru\nMandator\nParrot\nMacaw\nRighteous\nTetra\nTriazo\nMandator Line\nInterceptor\nFighter\nCorvette\nFrigate\nDestroyer\nCruiser\nBattleship\nT1\nParrot\nToucan\nEdict\nJudicator\nConciliator\nSubjugator\nConqueror\nT2\nMacaw\nHornbill\nExotic"
+      }
+    ],
+    "infobox": "Macaw\nShip Class\nInterceptor\nField Stats\nDPS\n180\nShield\nShield Regen\nDeflection\n300\n2\n0.5\nHull\nHull Regen\nArmor\n200\n0\n0\nEnergy\nEnergy Regen\n120\n1.4\nSpeed\nAcceleration\nAgility\n420\n200\n120\nOther Stats\nWarp Speed\nCharge Time\n1.40\n3\nSignal Range\nSensor Strength\n4750\n25\nCustomization\nFighter Hardpoints\nMining Hardpoints\nPDT Hardpoints\n2\n0\n0\nWEP\nDEF\nENG\nRCT\n1\n1\n1\n2\nSubsystems\n3\nCrafting\nNPC Buy\nNPC Sell\n-\n2000\nVolume\nTime\n100 m3\n10:00\nKorrelite\nReknite\nGellium\nAxnit\n-\n-\n-\n-\nBlucor\nRedcor\nVexnium\nWater\n50\n-\n-\n-\nComponent\nAmount\nParrot\n1\nComponent\nAmount\nMacaw Blueprint\n1"
+  },
+  "images": [
+    "https://static.wikia.nocookie.net/starscape-roblox/images/3/32/Macaw.png/revision/latest?cb=20220309220530"
+  ]
+}

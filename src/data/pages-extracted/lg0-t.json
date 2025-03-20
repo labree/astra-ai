@@ -1,0 +1,20 @@
+{
+  "title": "LG0-T",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/LG0-T",
+  "summary": "The LG0-T is a tier 1 automatic weapon that can be found in marketplaces and in ship graveyards. It can be upgraded into the LG5-T.",
+  "full_text": "LG0-T\nThe LG0-T is a tier 1 automatic weapon that can be found in marketplaces and in ship graveyards. It can be upgraded into the LG5-T.\nFull Statistics\nDamage per second\n47.5\nDamage per shot\n9.5\nRate of fire\n300\nLaser speed\n450\nHeat per second\n20%\nSpread\n8\nWeight\n0.7\nAction\nAuto\nLaser\nBlue\nVolume\n1 m3",
+  "content_structure": {
+    "title": "LG0-T",
+    "content": "The LG0-T is a tier 1 automatic weapon that can be found in marketplaces and in ship graveyards. It can be upgraded into the LG5-T.",
+    "sections": [
+      {
+        "title": "Full Statistics",
+        "content": "Damage per second\n47.5\nDamage per shot\n9.5\nRate of fire\n300\nLaser speed\n450\nHeat per second\n20%\nSpread\n8\nWeight\n0.7\nAction\nAuto\nLaser\nBlue\nVolume\n1 m3"
+      }
+    ],
+    "infobox": "LG0-T\nA common blaster rifle used in militias and police forces across the galaxy.\nSource\nNPC Marketplace\nCost to buy\n700\nCost to sell\n350"
+  },
+  "images": [
+    "https://static.wikia.nocookie.net/starscape-roblox/images/a/a9/LG0-T.png/revision/latest?cb=20210328014430"
+  ]
+}

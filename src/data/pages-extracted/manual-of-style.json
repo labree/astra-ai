@@ -1,0 +1,21 @@
+{
+  "title": "Manual of Style",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Manual_of_Style",
+  "summary": "The Manual of Style exists to maintain a general consistency throughout wiki pages, especially ones that are maintained publicly. The goal is to provide an easily accessible and accurate source of data for all visitors.",
+  "full_text": "Manual of Style\nThe Manual of Style exists to maintain a general consistency throughout wiki pages, especially ones that are maintained publicly. The goal is to provide an easily accessible and accurate source of data for all visitors.\nGeneral Guidelines\n- As Starscape is written in American English, this wiki will use the same dialect.\n- All pages should be written by Fandom's source editor if possible - using the visual editor leads to inconsistency across the board.\n- == TITLE == (Heading) should be the largest used title. Always put spaces between the = signs and the title itself.\n- Do not use Fandom's default bullet lists. Use a dash (-) with a space next to it instead.\n- All magic words (things like TOC, NOTOC, or NOEDITSECTION) should be put on the very last lines of the page.\n- Use line breaks liberally - between titles and text and anywhere you feel it is appropriate. Exceptions:\n- First line of pages\n- Sections at the end of pages housing magic words\nShip Pages\nShip Page Template\n- Do not refer to ship classes as \"she\" or \"her\" - not only is this inaccurate, it blends poorly with the page.",
+  "content_structure": {
+    "title": "Manual of Style",
+    "content": "The Manual of Style exists to maintain a general consistency throughout wiki pages, especially ones that are maintained publicly. The goal is to provide an easily accessible and accurate source of data for all visitors.",
+    "sections": [
+      {
+        "title": "General Guidelines",
+        "content": "- As Starscape is written in American English, this wiki will use the same dialect.\n- All pages should be written by Fandom's source editor if possible - using the visual editor leads to inconsistency across the board.\n- == TITLE == (Heading) should be the largest used title. Always put spaces between the = signs and the title itself.\n- Do not use Fandom's default bullet lists. Use a dash (-) with a space next to it instead.\n- All magic words (things like TOC, NOTOC, or NOEDITSECTION) should be put on the very last lines of the page.\n- Use line breaks liberally - between titles and text and anywhere you feel it is appropriate. Exceptions:\n- First line of pages\n- Sections at the end of pages housing magic words"
+      },
+      {
+        "title": "Ship Pages",
+        "content": "Ship Page Template\n- Do not refer to ship classes as \"she\" or \"her\" - not only is this inaccurate, it blends poorly with the page."
+      }
+    ]
+  },
+  "images": []
+}

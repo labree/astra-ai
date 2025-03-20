@@ -1,0 +1,28 @@
+{
+  "title": "Thresher",
+  "url": "https://starscape-roblox.fandom.com/en/wiki/Thresher",
+  "summary": "\"The Thresher is an upgraded variant of the Foralkan Piranha.\"",
+  "full_text": "Thresher\n\"The Thresher is an upgraded variant of the Foralkan Piranha.\"\nThe Thresher is a T2 fighter-class ship of the Foralkan ship line. It is best suited as a heavy and aggressive fighter.\nAdvantages\nWith proper use of its weapon rigs the Thresher can deal damage comparable to warships. It excels at a burst role, with other ships supporting it so it does not get overwhelmed or outmaneuvered.\nDisadvantages\nDue to its lack of defense rigs, its durability cannot be improved. It serves as somewhat of a glass cannon - while it can deal large amounts of damage, lack of agility makes it vulnerable to being shot down.\nAs a faction ship, its blueprint must be purchased using Loyalty Points at a faction terminal or from other players, making it less accessible to new or neutral players.\nTrivia\n- The current Thresher is modeled by ii_Cove.\nFighters\nLine\nT1\nT2\nExotic\nLegionis\nAurora\nLuminar\nHybrid Luminar\nStronghold\nSabre\nClaymore\nHybrid Claymore\nMegalodon\nPiranha\nThresher\nMandator\nToucan\nHornbill\nRighteous\nLuster\nLucent\nConstellation\nStratos\nMegalodon Line\nInterceptor\nFighter\nCorvette\nFrigate\nDestroyer\nCruiser\nBattleship\nT1\nMackeral\nPiranha\nKnifejaw\nBarracuda\nLoxodon\nSunfish\nPtychodus\nT2\nCandiru\nThresher\nExotic",
+  "content_structure": {
+    "title": "Thresher",
+    "content": "\"The Thresher is an upgraded variant of the Foralkan Piranha.\"\nThe Thresher is a T2 fighter-class ship of the Foralkan ship line. It is best suited as a heavy and aggressive fighter.",
+    "sections": [
+      {
+        "title": "Advantages",
+        "content": "With proper use of its weapon rigs the Thresher can deal damage comparable to warships. It excels at a burst role, with other ships supporting it so it does not get overwhelmed or outmaneuvered."
+      },
+      {
+        "title": "Disadvantages",
+        "content": "Due to its lack of defense rigs, its durability cannot be improved. It serves as somewhat of a glass cannon - while it can deal large amounts of damage, lack of agility makes it vulnerable to being shot down.\nAs a faction ship, its blueprint must be purchased using Loyalty Points at a faction terminal or from other players, making it less accessible to new or neutral players."
+      },
+      {
+        "title": "Trivia",
+        "content": "- The current Thresher is modeled by ii_Cove.\nFighters\nLine\nT1\nT2\nExotic\nLegionis\nAurora\nLuminar\nHybrid Luminar\nStronghold\nSabre\nClaymore\nHybrid Claymore\nMegalodon\nPiranha\nThresher\nMandator\nToucan\nHornbill\nRighteous\nLuster\nLucent\nConstellation\nStratos\nMegalodon Line\nInterceptor\nFighter\nCorvette\nFrigate\nDestroyer\nCruiser\nBattleship\nT1\nMackeral\nPiranha\nKnifejaw\nBarracuda\nLoxodon\nSunfish\nPtychodus\nT2\nCandiru\nThresher\nExotic"
+      }
+    ],
+    "infobox": "Thresher\nShip Class\nFighter\nField Stats\nDPS\n280.1\nShield\nShield Regen\nDeflection\n125\n1\n0\nHull\nHull Regen\nArmor\n350\n0\n0.5\nEnergy\nEnergy Regen\n90\n1.4\nSpeed\nAcceleration\nAgility\n330\n160\n116\nOther Stats\nWarp Speed\nCharge Time\n1.30\n4\nSignal Range\nSensor Strength\n4500\n25\nCustomization\nFighter Hardpoints\nMining Hardpoints\nPDT Hardpoints\n4\n0\n0\nWEP\nDEF\nENG\nRCT\n2\n0\n2\n0\nSubsystems\n2\nCrafting\nNPC Buy\nNPC Sell\n-\n2000\nVolume\nTime\n100 m3\n10:00\nKorrelite\nReknite\nGellium\nAxnit\n-\n-\n-\n-\nBlucor\nRedcor\nVexnium\nWater\n50\n-\n-\n-\nComponent\nAmount\nPiranha\n1\nComponent\nAmount\nThresher Blueprint\n1"
+  },
+  "images": [
+    "https://static.wikia.nocookie.net/starscape-roblox/images/8/8a/Thresher.png/revision/latest?cb=20220309220549"
+  ]
+}
