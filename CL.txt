@@ -1,0 +1,1 @@
+./DiscordChatExporter.Cli.exe export -t "YOUR_TOKEN" -c 123456789012345678 -f Json -o "chat_export.json"
